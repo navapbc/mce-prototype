@@ -1,0 +1,11 @@
+// This is the base ESLint config that applies to all JavaScript files.
+// If you want to enable/disable a rule for a specific directory, add the
+// rule to the ESLint config file relative to the directory you want it
+// applied to.
+{
+  "extends": ["@cmsgov/eslint-config-design-system"],
+  "rules": {
+    "filenames/match-exported": 0,
+    "quotes": 0
+  }
+}
