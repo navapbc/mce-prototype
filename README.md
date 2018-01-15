@@ -32,6 +32,22 @@ Run ESLint and Stylelint over JS and Sass files.
 
 Run JS tests.
 
+## File structure
+
+```
+├── gatsby-config.js Gatsby setup
+├── gatsby-node.js   Gatsby Node API hooks
+├── public           Compiled static HTML site
+└── src
+    ├── components   Presentational UI patterns
+    ├── data         Data files used for dynamically generated pages
+    ├── fonts
+    ├── images
+    ├── layouts      Base HTML used when rendering each page
+    ├── pages        Each file is rendered as a page
+    └── templates    Markup for generated pages
+```
+
 ## Dynamically creating pages
 
 Dynamically creating pages from data files is handled in [`gatsby-node.js`](gatsby-node.js). Follow the existing examples in this file to generate other pages, or [view Gatsby's documentation on the topic](https://www.gatsbyjs.org/docs/creating-and-modifying-pages/#creating-pages-in-gatsby-nodejs).
