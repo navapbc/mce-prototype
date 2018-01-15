@@ -8,6 +8,8 @@
   "rules": {
     "filenames/match-exported": 0,
     "quotes": 0,
-    "react/forbid-prop-types": 0
+    "react/display-name": 0,
+    "react/forbid-prop-types": 0,
+    "react/prop-types": 0
   }
 }
