@@ -31,3 +31,12 @@ Run ESLint and Stylelint over JS and Sass files.
 ### `npm test`
 
 Run JS tests.
+
+## Dynamically creating pages
+
+Dynamically creating pages from data files is handled in [`gatsby-node.js`](gatsby-node.js). Follow the existing examples in this file to generate other pages, or [view Gatsby's documentation on the topic](https://www.gatsbyjs.org/docs/creating-and-modifying-pages/#creating-pages-in-gatsby-nodejs).
+
+At a high-level, you need to:
+
+1. Add a `slug` field to each node. This can be done in `onCreateNode`
+2. Within `createPages`, loop through the nodes and call `createPage` with the node's `path` and point to a template component, which will be used for rendering the page's HTML.
