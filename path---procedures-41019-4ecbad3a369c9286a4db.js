@@ -1,2 +1,2 @@
-webpackJsonp([58901894178680],{1184:function(e,o){e.exports={data:{proceduresJson:{code:"41019",name:"Place needles h&n for rt"}},pathContext:{slug:"procedures/41019"}}}});
+webpackJsonp([58901894178680],{1189:function(e,o){e.exports={data:{proceduresJson:{code:"41019",name:"Place needles h&n for rt"}},pathContext:{slug:"procedures/41019"}}}});
 //# sourceMappingURL=path---procedures-41019-4ecbad3a369c9286a4db.js.map

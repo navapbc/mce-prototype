@@ -1,2 +1,2 @@
-webpackJsonp([0xf57ed909c65e],{1876:function(e,o){e.exports={data:{proceduresJson:{code:"A9503",name:"Tc99m medronate"}},pathContext:{slug:"procedures/A9503"}}}});
+webpackJsonp([0xf57ed909c65e],{1881:function(e,o){e.exports={data:{proceduresJson:{code:"A9503",name:"Tc99m medronate"}},pathContext:{slug:"procedures/A9503"}}}});
 //# sourceMappingURL=path---procedures-a-9503-47c4a4407bb9c64a1c41.js.map

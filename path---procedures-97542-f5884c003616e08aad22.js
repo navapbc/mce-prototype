@@ -1,2 +1,2 @@
-webpackJsonp([0xaa54ae8e82cb],{1853:function(e,a){e.exports={data:{proceduresJson:{code:"97542",name:"Wheelchair mngment training"}},pathContext:{slug:"procedures/97542"}}}});
+webpackJsonp([0xaa54ae8e82cb],{1858:function(e,a){e.exports={data:{proceduresJson:{code:"97542",name:"Wheelchair mngment training"}},pathContext:{slug:"procedures/97542"}}}});
 //# sourceMappingURL=path---procedures-97542-f5884c003616e08aad22.js.map

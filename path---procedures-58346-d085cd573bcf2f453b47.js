@@ -1,2 +1,2 @@
-webpackJsonp([0x9be9a2ccd319],{1194:function(e,a){e.exports={data:{proceduresJson:{code:"58346",name:"Insert heyman uteri capsule"}},pathContext:{slug:"procedures/58346"}}}});
+webpackJsonp([0x9be9a2ccd319],{1199:function(e,a){e.exports={data:{proceduresJson:{code:"58346",name:"Insert heyman uteri capsule"}},pathContext:{slug:"procedures/58346"}}}});
 //# sourceMappingURL=path---procedures-58346-d085cd573bcf2f453b47.js.map

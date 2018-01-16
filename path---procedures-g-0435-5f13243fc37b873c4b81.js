@@ -1,2 +1,2 @@
-webpackJsonp([0x9ad221250f0],{1995:function(e,o){e.exports={data:{proceduresJson:{code:"G0435",name:"Oral HIV-1/HIV-2 screen"}},pathContext:{slug:"procedures/G0435"}}}});
+webpackJsonp([0x9ad221250f0],{2e3:function(e,o){e.exports={data:{proceduresJson:{code:"G0435",name:"Oral HIV-1/HIV-2 screen"}},pathContext:{slug:"procedures/G0435"}}}});
 //# sourceMappingURL=path---procedures-g-0435-5f13243fc37b873c4b81.js.map

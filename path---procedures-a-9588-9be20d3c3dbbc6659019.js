@@ -1,2 +1,2 @@
-webpackJsonp([0xc10419443be],{1935:function(e,o){e.exports={data:{proceduresJson:{code:"A9588",name:"Fluciclovine F-18"}},pathContext:{slug:"procedures/A9588"}}}});
+webpackJsonp([0xc10419443be],{1940:function(e,o){e.exports={data:{proceduresJson:{code:"A9588",name:"Fluciclovine F-18"}},pathContext:{slug:"procedures/A9588"}}}});
 //# sourceMappingURL=path---procedures-a-9588-9be20d3c3dbbc6659019.js.map

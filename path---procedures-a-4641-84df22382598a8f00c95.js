@@ -1,2 +1,2 @@
-webpackJsonp([0x5dfbf0ce7faa],{1870:function(e,a){e.exports={data:{proceduresJson:{code:"A4641",name:"Radiopharm dx agent noc"}},pathContext:{slug:"procedures/A4641"}}}});
+webpackJsonp([0x5dfbf0ce7faa],{1875:function(e,a){e.exports={data:{proceduresJson:{code:"A4641",name:"Radiopharm dx agent noc"}},pathContext:{slug:"procedures/A4641"}}}});
 //# sourceMappingURL=path---procedures-a-4641-84df22382598a8f00c95.js.map

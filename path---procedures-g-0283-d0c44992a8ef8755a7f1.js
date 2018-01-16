@@ -1,2 +1,2 @@
-webpackJsonp([29507867946424],{1982:function(e,o){e.exports={data:{proceduresJson:{code:"G0283",name:"Elec stim other than wound"}},pathContext:{slug:"procedures/G0283"}}}});
+webpackJsonp([29507867946424],{1987:function(e,o){e.exports={data:{proceduresJson:{code:"G0283",name:"Elec stim other than wound"}},pathContext:{slug:"procedures/G0283"}}}});
 //# sourceMappingURL=path---procedures-g-0283-d0c44992a8ef8755a7f1.js.map

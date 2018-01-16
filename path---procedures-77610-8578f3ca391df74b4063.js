@@ -1,2 +1,2 @@
-webpackJsonp([0xd07c659ff057],{1547:function(e,t){e.exports={data:{proceduresJson:{code:"77610",name:"Hyperthermia treatment"}},pathContext:{slug:"procedures/77610"}}}});
+webpackJsonp([0xd07c659ff057],{1552:function(e,t){e.exports={data:{proceduresJson:{code:"77610",name:"Hyperthermia treatment"}},pathContext:{slug:"procedures/77610"}}}});
 //# sourceMappingURL=path---procedures-77610-8578f3ca391df74b4063.js.map

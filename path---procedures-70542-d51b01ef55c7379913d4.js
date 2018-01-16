@@ -1,2 +1,2 @@
-webpackJsonp([0x71dc3ff06ab9],{1246:function(e,o){e.exports={data:{proceduresJson:{code:"70542",name:"Mri orbit/face/neck w/dye"}},pathContext:{slug:"procedures/70542"}}}});
+webpackJsonp([0x71dc3ff06ab9],{1251:function(e,o){e.exports={data:{proceduresJson:{code:"70542",name:"Mri orbit/face/neck w/dye"}},pathContext:{slug:"procedures/70542"}}}});
 //# sourceMappingURL=path---procedures-70542-d51b01ef55c7379913d4.js.map

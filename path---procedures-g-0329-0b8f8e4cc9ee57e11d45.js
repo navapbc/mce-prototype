@@ -1,2 +1,2 @@
-webpackJsonp([0xa246ab50478f],{1988:function(e,o){e.exports={data:{proceduresJson:{code:"G0329",name:"Electromagntic tx for ulcers"}},pathContext:{slug:"procedures/G0329"}}}});
+webpackJsonp([0xa246ab50478f],{1993:function(e,o){e.exports={data:{proceduresJson:{code:"G0329",name:"Electromagntic tx for ulcers"}},pathContext:{slug:"procedures/G0329"}}}});
 //# sourceMappingURL=path---procedures-g-0329-0b8f8e4cc9ee57e11d45.js.map

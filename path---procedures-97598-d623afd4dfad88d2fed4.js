@@ -1,2 +1,2 @@
-webpackJsonp([27716954175704],{1857:function(e,o){e.exports={data:{proceduresJson:{code:"97598",name:"RMVL devital tis addl 20 cm<"}},pathContext:{slug:"procedures/97598"}}}});
+webpackJsonp([27716954175704],{1862:function(e,o){e.exports={data:{proceduresJson:{code:"97598",name:"RMVL devital tis addl 20 cm<"}},pathContext:{slug:"procedures/97598"}}}});
 //# sourceMappingURL=path---procedures-97598-d623afd4dfad88d2fed4.js.map

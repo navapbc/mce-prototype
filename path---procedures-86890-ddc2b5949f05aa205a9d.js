@@ -1,2 +1,2 @@
-webpackJsonp([40543880306252],{1712:function(o,e){o.exports={data:{proceduresJson:{code:"86890",name:"Autologous blood process"}},pathContext:{slug:"procedures/86890"}}}});
+webpackJsonp([40543880306252],{1717:function(o,e){o.exports={data:{proceduresJson:{code:"86890",name:"Autologous blood process"}},pathContext:{slug:"procedures/86890"}}}});
 //# sourceMappingURL=path---procedures-86890-ddc2b5949f05aa205a9d.js.map

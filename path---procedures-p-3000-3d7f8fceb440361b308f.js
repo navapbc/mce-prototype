@@ -1,2 +1,2 @@
-webpackJsonp([34544194066491],{2024:function(e,p){e.exports={data:{proceduresJson:{code:"P3000",name:"Screen pap by tech w md supv"}},pathContext:{slug:"procedures/P3000"}}}});
+webpackJsonp([34544194066491],{2029:function(e,p){e.exports={data:{proceduresJson:{code:"P3000",name:"Screen pap by tech w md supv"}},pathContext:{slug:"procedures/P3000"}}}});
 //# sourceMappingURL=path---procedures-p-3000-3d7f8fceb440361b308f.js.map

@@ -1,2 +1,2 @@
-webpackJsonp([0xa96181ea4dc2],{1192:function(e,o){e.exports={data:{proceduresJson:{code:"57155",name:"Insert uteri tandems/ovoids"}},pathContext:{slug:"procedures/57155"}}}});
+webpackJsonp([0xa96181ea4dc2],{1197:function(e,o){e.exports={data:{proceduresJson:{code:"57155",name:"Insert uteri tandems/ovoids"}},pathContext:{slug:"procedures/57155"}}}});
 //# sourceMappingURL=path---procedures-57155-3c9cada47c54482828b8.js.map

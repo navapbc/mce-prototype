@@ -1,2 +1,2 @@
-webpackJsonp([0xe4900b4691bb],{1446:function(e,o){e.exports={data:{proceduresJson:{code:"76700",name:"Us exam abdom complete"}},pathContext:{slug:"procedures/76700"}}}});
+webpackJsonp([0xe4900b4691bb],{1451:function(e,o){e.exports={data:{proceduresJson:{code:"76700",name:"Us exam abdom complete"}},pathContext:{slug:"procedures/76700"}}}});
 //# sourceMappingURL=path---procedures-76700-fa6285488ea212e875c8.js.map

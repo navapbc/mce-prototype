@@ -1,2 +1,2 @@
-webpackJsonp([0x5d3a595b2182],{1193:function(e,a){e.exports={data:{proceduresJson:{code:"57156",name:"Ins vag brachytx device"}},pathContext:{slug:"procedures/57156"}}}});
+webpackJsonp([0x5d3a595b2182],{1198:function(e,a){e.exports={data:{proceduresJson:{code:"57156",name:"Ins vag brachytx device"}},pathContext:{slug:"procedures/57156"}}}});
 //# sourceMappingURL=path---procedures-57156-2ccdae00df3ad11e3627.js.map

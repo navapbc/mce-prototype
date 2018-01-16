@@ -1,2 +1,2 @@
-webpackJsonp([0xd8ef9c73f653],{1765:function(e,o){e.exports={data:{proceduresJson:{code:"92608",name:"Ex for speech device rx addl"}},pathContext:{slug:"procedures/92608"}}}});
+webpackJsonp([0xd8ef9c73f653],{1770:function(e,o){e.exports={data:{proceduresJson:{code:"92608",name:"Ex for speech device rx addl"}},pathContext:{slug:"procedures/92608"}}}});
 //# sourceMappingURL=path---procedures-92608-b4f0a61919e81d4057f0.js.map

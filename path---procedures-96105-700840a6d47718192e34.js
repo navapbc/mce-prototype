@@ -1,2 +1,2 @@
-webpackJsonp([0xfb0eb5ebca01],{1816:function(e,s){e.exports={data:{proceduresJson:{code:"96105",name:"Assessment of aphasia"}},pathContext:{slug:"procedures/96105"}}}});
+webpackJsonp([0xfb0eb5ebca01],{1821:function(e,s){e.exports={data:{proceduresJson:{code:"96105",name:"Assessment of aphasia"}},pathContext:{slug:"procedures/96105"}}}});
 //# sourceMappingURL=path---procedures-96105-700840a6d47718192e34.js.map

@@ -1,2 +1,2 @@
-webpackJsonp([37275517611860],{1464:function(e,o){e.exports={data:{proceduresJson:{code:"76821",name:"Middle cerebral artery echo"}},pathContext:{slug:"procedures/76821"}}}});
+webpackJsonp([37275517611860],{1469:function(e,o){e.exports={data:{proceduresJson:{code:"76821",name:"Middle cerebral artery echo"}},pathContext:{slug:"procedures/76821"}}}});
 //# sourceMappingURL=path---procedures-76821-e9e7dcdd09ed0e260dbb.js.map

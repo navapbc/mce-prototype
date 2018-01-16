@@ -1,2 +1,2 @@
-webpackJsonp([0xd39e56b18af0],{1840:function(e,o){e.exports={data:{proceduresJson:{code:"97150",name:"Group therapeutic procedures"}},pathContext:{slug:"procedures/97150"}}}});
+webpackJsonp([0xd39e56b18af0],{1845:function(e,o){e.exports={data:{proceduresJson:{code:"97150",name:"Group therapeutic procedures"}},pathContext:{slug:"procedures/97150"}}}});
 //# sourceMappingURL=path---procedures-97150-4ca0ef9fcfb351a3b01d.js.map

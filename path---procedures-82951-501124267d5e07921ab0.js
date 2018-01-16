@@ -1,2 +1,2 @@
-webpackJsonp([0x7644d66a3a90],{1707:function(e,o){e.exports={data:{proceduresJson:{code:"82951",name:"Glucose tolerance test (GTT) [only when billed with ICD-9-CM code V77.1]"}},pathContext:{slug:"procedures/82951"}}}});
+webpackJsonp([0x7644d66a3a90],{1712:function(e,o){e.exports={data:{proceduresJson:{code:"82951",name:"Glucose tolerance test (GTT) [only when billed with ICD-9-CM code V77.1]"}},pathContext:{slug:"procedures/82951"}}}});
 //# sourceMappingURL=path---procedures-82951-501124267d5e07921ab0.js.map

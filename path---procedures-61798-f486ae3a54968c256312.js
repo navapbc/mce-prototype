@@ -1,2 +1,2 @@
-webpackJsonp([0xa21052317f73],{1198:function(e,o){e.exports={data:{proceduresJson:{code:"61798",name:"SRS cranial lesion complex"}},pathContext:{slug:"procedures/61798"}}}});
+webpackJsonp([0xa21052317f73],{1203:function(e,o){e.exports={data:{proceduresJson:{code:"61798",name:"SRS cranial lesion complex"}},pathContext:{slug:"procedures/61798"}}}});
 //# sourceMappingURL=path---procedures-61798-f486ae3a54968c256312.js.map

@@ -1,2 +1,2 @@
-webpackJsonp([0xadbf3cb1542b],{1824:function(e,o){e.exports={data:{proceduresJson:{code:"97024",name:"Diathermy eg microwave"}},pathContext:{slug:"procedures/97024"}}}});
+webpackJsonp([0xadbf3cb1542b],{1829:function(e,o){e.exports={data:{proceduresJson:{code:"97024",name:"Diathermy eg microwave"}},pathContext:{slug:"procedures/97024"}}}});
 //# sourceMappingURL=path---procedures-97024-dc19b8648a90be154284.js.map

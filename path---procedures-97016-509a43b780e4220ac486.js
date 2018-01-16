@@ -1,2 +1,2 @@
-webpackJsonp([0xeb3b828c3cf6],{1821:function(e,c){e.exports={data:{proceduresJson:{code:"97016",name:"Vasopneumatic device therapy"}},pathContext:{slug:"procedures/97016"}}}});
+webpackJsonp([0xeb3b828c3cf6],{1826:function(e,c){e.exports={data:{proceduresJson:{code:"97016",name:"Vasopneumatic device therapy"}},pathContext:{slug:"procedures/97016"}}}});
 //# sourceMappingURL=path---procedures-97016-509a43b780e4220ac486.js.map

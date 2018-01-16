@@ -1,2 +1,2 @@
-webpackJsonp([25920719836216],{1534:function(e,o){e.exports={data:{proceduresJson:{code:"77423",name:"Neutron beam tx complex"}},pathContext:{slug:"procedures/77423"}}}});
+webpackJsonp([25920719836216],{1539:function(e,o){e.exports={data:{proceduresJson:{code:"77423",name:"Neutron beam tx complex"}},pathContext:{slug:"procedures/77423"}}}});
 //# sourceMappingURL=path---procedures-77423-d5eb51b2d796bfedfd4b.js.map

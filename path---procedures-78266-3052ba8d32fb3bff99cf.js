@@ -1,2 +1,2 @@
-webpackJsonp([0xd408d3ce60df],{1609:function(e,t){e.exports={data:{proceduresJson:{code:"78266",name:"Gastric emptying imag study"}},pathContext:{slug:"procedures/78266"}}}});
+webpackJsonp([0xd408d3ce60df],{1614:function(e,t){e.exports={data:{proceduresJson:{code:"78266",name:"Gastric emptying imag study"}},pathContext:{slug:"procedures/78266"}}}});
 //# sourceMappingURL=path---procedures-78266-3052ba8d32fb3bff99cf.js.map

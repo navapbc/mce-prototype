@@ -1,2 +1,2 @@
-webpackJsonp([0xe13295e71e3c],{1734:function(e,c){e.exports={data:{proceduresJson:{code:"90682",name:"RIV4 vacc recombinant dna im"}},pathContext:{slug:"procedures/90682"}}}});
+webpackJsonp([0xe13295e71e3c],{1739:function(e,c){e.exports={data:{proceduresJson:{code:"90682",name:"RIV4 vacc recombinant dna im"}},pathContext:{slug:"procedures/90682"}}}});
 //# sourceMappingURL=path---procedures-90682-40917964ac4575ce303a.js.map

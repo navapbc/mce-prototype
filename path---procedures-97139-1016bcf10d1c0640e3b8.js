@@ -1,2 +1,2 @@
-webpackJsonp([0xa6711bdbc7e8],{1838:function(e,c){e.exports={data:{proceduresJson:{code:"97139",name:"Physical medicine procedure"}},pathContext:{slug:"procedures/97139"}}}});
+webpackJsonp([0xa6711bdbc7e8],{1843:function(e,c){e.exports={data:{proceduresJson:{code:"97139",name:"Physical medicine procedure"}},pathContext:{slug:"procedures/97139"}}}});
 //# sourceMappingURL=path---procedures-97139-1016bcf10d1c0640e3b8.js.map

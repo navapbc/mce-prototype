@@ -1,2 +1,2 @@
-webpackJsonp([22139080979026],{1603:function(e,a){e.exports={data:{proceduresJson:{code:"78232",name:"Salivary gland function exam"}},pathContext:{slug:"procedures/78232"}}}});
+webpackJsonp([22139080979026],{1608:function(e,a){e.exports={data:{proceduresJson:{code:"78232",name:"Salivary gland function exam"}},pathContext:{slug:"procedures/78232"}}}});
 //# sourceMappingURL=path---procedures-78232-92fc38a0eb05e52a0898.js.map

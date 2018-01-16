@@ -1,2 +1,2 @@
-webpackJsonp([23380220972235],{2033:function(o,e){o.exports={data:{proceduresJson:{code:"Q0115",name:"Post-coital mucous exam"}},pathContext:{slug:"procedures/Q0115"}}}});
+webpackJsonp([23380220972235],{2038:function(o,e){o.exports={data:{proceduresJson:{code:"Q0115",name:"Post-coital mucous exam"}},pathContext:{slug:"procedures/Q0115"}}}});
 //# sourceMappingURL=path---procedures-q-0115-03be988c5b9019f00e90.js.map

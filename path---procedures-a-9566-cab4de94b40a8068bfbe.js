@@ -1,2 +1,2 @@
-webpackJsonp([84272365621467],{1920:function(e,o){e.exports={data:{proceduresJson:{code:"A9566",name:"Tc99m fanolesomab"}},pathContext:{slug:"procedures/A9566"}}}});
+webpackJsonp([84272365621467],{1925:function(e,o){e.exports={data:{proceduresJson:{code:"A9566",name:"Tc99m fanolesomab"}},pathContext:{slug:"procedures/A9566"}}}});
 //# sourceMappingURL=path---procedures-a-9566-cab4de94b40a8068bfbe.js.map

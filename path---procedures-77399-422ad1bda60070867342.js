@@ -1,2 +1,2 @@
-webpackJsonp([0xf63b1da2330a],{1528:function(e,a){e.exports={data:{proceduresJson:{code:"77399",name:"External radiation dosimetry"}},pathContext:{slug:"procedures/77399"}}}});
+webpackJsonp([0xf63b1da2330a],{1533:function(e,a){e.exports={data:{proceduresJson:{code:"77399",name:"External radiation dosimetry"}},pathContext:{slug:"procedures/77399"}}}});
 //# sourceMappingURL=path---procedures-77399-422ad1bda60070867342.js.map

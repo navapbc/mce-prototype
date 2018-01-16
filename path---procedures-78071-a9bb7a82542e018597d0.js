@@ -1,2 +1,2 @@
-webpackJsonp([0xe91d6937a762],{1574:function(a,e){a.exports={data:{proceduresJson:{code:"78071",name:"Parathyrd planar w/wo subtrj"}},pathContext:{slug:"procedures/78071"}}}});
+webpackJsonp([0xe91d6937a762],{1579:function(a,e){a.exports={data:{proceduresJson:{code:"78071",name:"Parathyrd planar w/wo subtrj"}},pathContext:{slug:"procedures/78071"}}}});
 //# sourceMappingURL=path---procedures-78071-a9bb7a82542e018597d0.js.map

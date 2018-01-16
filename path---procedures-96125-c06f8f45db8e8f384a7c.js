@@ -1,2 +1,2 @@
-webpackJsonp([0x6f79d91828c4],{1818:function(e,o){e.exports={data:{proceduresJson:{code:"96125",name:"Cognitive test by HC pro"}},pathContext:{slug:"procedures/96125"}}}});
+webpackJsonp([0x6f79d91828c4],{1823:function(e,o){e.exports={data:{proceduresJson:{code:"96125",name:"Cognitive test by HC pro"}},pathContext:{slug:"procedures/96125"}}}});
 //# sourceMappingURL=path---procedures-96125-c06f8f45db8e8f384a7c.js.map

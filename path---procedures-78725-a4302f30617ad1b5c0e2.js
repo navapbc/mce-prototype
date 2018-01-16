@@ -1,2 +1,2 @@
-webpackJsonp([0x5c3baddf6cb6],{1674:function(e,n){e.exports={data:{proceduresJson:{code:"78725",name:"Kidney function study"}},pathContext:{slug:"procedures/78725"}}}});
+webpackJsonp([0x5c3baddf6cb6],{1679:function(e,n){e.exports={data:{proceduresJson:{code:"78725",name:"Kidney function study"}},pathContext:{slug:"procedures/78725"}}}});
 //# sourceMappingURL=path---procedures-78725-a4302f30617ad1b5c0e2.js.map

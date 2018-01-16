@@ -1,2 +1,2 @@
-webpackJsonp([0x72856dc693f7],{1571:function(e,o){e.exports={data:{proceduresJson:{code:"78018",name:"Thyroid met imaging body"}},pathContext:{slug:"procedures/78018"}}}});
+webpackJsonp([0x72856dc693f7],{1576:function(e,o){e.exports={data:{proceduresJson:{code:"78018",name:"Thyroid met imaging body"}},pathContext:{slug:"procedures/78018"}}}});
 //# sourceMappingURL=path---procedures-78018-49d64ab88bd4b8de05a8.js.map

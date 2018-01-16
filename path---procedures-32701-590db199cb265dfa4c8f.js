@@ -1,2 +1,2 @@
-webpackJsonp([0xe73ad4264082],{1182:function(e,o){e.exports={data:{proceduresJson:{code:"32701",name:"Thorax stereo rad targetw/tx"}},pathContext:{slug:"procedures/32701"}}}});
+webpackJsonp([0xe73ad4264082],{1187:function(e,o){e.exports={data:{proceduresJson:{code:"32701",name:"Thorax stereo rad targetw/tx"}},pathContext:{slug:"procedures/32701"}}}});
 //# sourceMappingURL=path---procedures-32701-590db199cb265dfa4c8f.js.map

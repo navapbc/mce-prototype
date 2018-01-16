@@ -1,2 +1,2 @@
-webpackJsonp([0xa25576856f5a],{1887:function(e,a){e.exports={data:{proceduresJson:{code:"A9520",name:"Tc99 Tilmanocept diag 0.5mci"}},pathContext:{slug:"procedures/A9520"}}}});
+webpackJsonp([0xa25576856f5a],{1892:function(e,a){e.exports={data:{proceduresJson:{code:"A9520",name:"Tc99 Tilmanocept diag 0.5mci"}},pathContext:{slug:"procedures/A9520"}}}});
 //# sourceMappingURL=path---procedures-a-9520-679e690f0febdc370996.js.map

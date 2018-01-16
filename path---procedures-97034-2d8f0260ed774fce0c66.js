@@ -1,2 +1,2 @@
-webpackJsonp([0x94854fc5eba1],{1829:function(e,t){e.exports={data:{proceduresJson:{code:"97034",name:"Contrast bath therapy"}},pathContext:{slug:"procedures/97034"}}}});
+webpackJsonp([0x94854fc5eba1],{1834:function(e,t){e.exports={data:{proceduresJson:{code:"97034",name:"Contrast bath therapy"}},pathContext:{slug:"procedures/97034"}}}});
 //# sourceMappingURL=path---procedures-97034-2d8f0260ed774fce0c66.js.map

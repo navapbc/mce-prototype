@@ -1,2 +1,2 @@
-webpackJsonp([65376781586115],{1512:function(e,o){e.exports={data:{proceduresJson:{code:"77316",name:"Brachytx isodose plan simple"}},pathContext:{slug:"procedures/77316"}}}});
+webpackJsonp([65376781586115],{1517:function(e,o){e.exports={data:{proceduresJson:{code:"77316",name:"Brachytx isodose plan simple"}},pathContext:{slug:"procedures/77316"}}}});
 //# sourceMappingURL=path---procedures-77316-fca232f9d8bf2cc90223.js.map

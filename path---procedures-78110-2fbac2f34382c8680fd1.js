@@ -1,2 +1,2 @@
-webpackJsonp([28163046372607],{1581:function(e,o){e.exports={data:{proceduresJson:{code:"78110",name:"Plasma volume single"}},pathContext:{slug:"procedures/78110"}}}});
+webpackJsonp([28163046372607],{1586:function(e,o){e.exports={data:{proceduresJson:{code:"78110",name:"Plasma volume single"}},pathContext:{slug:"procedures/78110"}}}});
 //# sourceMappingURL=path---procedures-78110-2fbac2f34382c8680fd1.js.map

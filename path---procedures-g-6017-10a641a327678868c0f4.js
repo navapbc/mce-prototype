@@ -1,2 +1,2 @@
-webpackJsonp([27122208970479],{2018:function(o,t){o.exports={data:{proceduresJson:{code:"G6017",name:"Intrafraction track motion"}},pathContext:{slug:"procedures/G6017"}}}});
+webpackJsonp([27122208970479],{2023:function(o,t){o.exports={data:{proceduresJson:{code:"G6017",name:"Intrafraction track motion"}},pathContext:{slug:"procedures/G6017"}}}});
 //# sourceMappingURL=path---procedures-g-6017-10a641a327678868c0f4.js.map

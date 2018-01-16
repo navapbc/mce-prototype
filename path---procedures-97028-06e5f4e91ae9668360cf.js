@@ -1,2 +1,2 @@
-webpackJsonp([70440044994359],{1826:function(e,o){e.exports={data:{proceduresJson:{code:"97028",name:"Ultraviolet therapy"}},pathContext:{slug:"procedures/97028"}}}});
+webpackJsonp([70440044994359],{1831:function(e,o){e.exports={data:{proceduresJson:{code:"97028",name:"Ultraviolet therapy"}},pathContext:{slug:"procedures/97028"}}}});
 //# sourceMappingURL=path---procedures-97028-06e5f4e91ae9668360cf.js.map

@@ -1,2 +1,2 @@
-webpackJsonp([19431890014465],{1483:function(e,o){e.exports={data:{proceduresJson:{code:"77063",name:"Breast tomosynthesis bi"}},pathContext:{slug:"procedures/77063"}}}});
+webpackJsonp([19431890014465],{1488:function(e,o){e.exports={data:{proceduresJson:{code:"77063",name:"Breast tomosynthesis bi"}},pathContext:{slug:"procedures/77063"}}}});
 //# sourceMappingURL=path---procedures-77063-6dd9e440762d45e3f1eb.js.map

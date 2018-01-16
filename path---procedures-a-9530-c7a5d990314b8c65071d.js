@@ -1,2 +1,2 @@
-webpackJsonp([0x6f37fef40e63],{1894:function(e,o){e.exports={data:{proceduresJson:{code:"A9530",name:"I131 iodide sol, rx"}},pathContext:{slug:"procedures/A9530"}}}});
+webpackJsonp([0x6f37fef40e63],{1899:function(e,o){e.exports={data:{proceduresJson:{code:"A9530",name:"I131 iodide sol, rx"}},pathContext:{slug:"procedures/A9530"}}}});
 //# sourceMappingURL=path---procedures-a-9530-c7a5d990314b8c65071d.js.map

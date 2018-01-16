@@ -1,2 +1,2 @@
-webpackJsonp([0x5e6a99f846e6],{1266:function(e,o){e.exports={data:{proceduresJson:{code:"71111",name:"X-ray exam of ribs/chest"}},pathContext:{slug:"procedures/71111"}}}});
+webpackJsonp([0x5e6a99f846e6],{1271:function(e,o){e.exports={data:{proceduresJson:{code:"71111",name:"X-ray exam of ribs/chest"}},pathContext:{slug:"procedures/71111"}}}});
 //# sourceMappingURL=path---procedures-71111-8c07715268c60b46e69c.js.map

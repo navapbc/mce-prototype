@@ -1,2 +1,2 @@
-webpackJsonp([0x8393ceffc1ea],{1628:function(e,c){e.exports={data:{proceduresJson:{code:"78451",name:"Ht muscle image spect sing"}},pathContext:{slug:"procedures/78451"}}}});
+webpackJsonp([0x8393ceffc1ea],{1633:function(e,c){e.exports={data:{proceduresJson:{code:"78451",name:"Ht muscle image spect sing"}},pathContext:{slug:"procedures/78451"}}}});
 //# sourceMappingURL=path---procedures-78451-420c38dfd1d54bf0ada6.js.map

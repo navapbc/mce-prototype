@@ -1,2 +1,2 @@
-webpackJsonp([0xbbbc717312e6],{1709:function(e,o){e.exports={data:{proceduresJson:{code:"84478",name:"Assay of triglycerides [only when billed with one of the following ICD-9-CM codes:  V81.0, V81.1, or V81.2]"}},pathContext:{slug:"procedures/84478"}}}});
+webpackJsonp([0xbbbc717312e6],{1714:function(e,o){e.exports={data:{proceduresJson:{code:"84478",name:"Assay of triglycerides [only when billed with one of the following ICD-9-CM codes:  V81.0, V81.1, or V81.2]"}},pathContext:{slug:"procedures/84478"}}}});
 //# sourceMappingURL=path---procedures-84478-5bf4d36d7d17fc992962.js.map

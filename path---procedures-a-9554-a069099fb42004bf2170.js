@@ -1,2 +1,2 @@
-webpackJsonp([0xc3af34306038],{1909:function(e,a){e.exports={data:{proceduresJson:{code:"A9554",name:"I125 iothalamate, dx"}},pathContext:{slug:"procedures/A9554"}}}});
+webpackJsonp([0xc3af34306038],{1914:function(e,a){e.exports={data:{proceduresJson:{code:"A9554",name:"I125 iothalamate, dx"}},pathContext:{slug:"procedures/A9554"}}}});
 //# sourceMappingURL=path---procedures-a-9554-a069099fb42004bf2170.js.map

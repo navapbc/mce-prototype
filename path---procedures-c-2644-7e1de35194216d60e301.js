@@ -1,2 +1,2 @@
-webpackJsonp([26959173765671],{1956:function(e,o){e.exports={data:{proceduresJson:{code:"C2644",name:"Brachytx cesium-131 chloride"}},pathContext:{slug:"procedures/C2644"}}}});
+webpackJsonp([26959173765671],{1961:function(e,o){e.exports={data:{proceduresJson:{code:"C2644",name:"Brachytx cesium-131 chloride"}},pathContext:{slug:"procedures/C2644"}}}});
 //# sourceMappingURL=path---procedures-c-2644-7e1de35194216d60e301.js.map

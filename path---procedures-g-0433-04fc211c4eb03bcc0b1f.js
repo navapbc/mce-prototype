@@ -1,2 +1,2 @@
-webpackJsonp([0xbe1326e9ef2b],{1994:function(e,o){e.exports={data:{proceduresJson:{code:"G0433",name:"ELISA HIV-1/HIV-2 screen"}},pathContext:{slug:"procedures/G0433"}}}});
+webpackJsonp([0xbe1326e9ef2b],{1999:function(e,o){e.exports={data:{proceduresJson:{code:"G0433",name:"ELISA HIV-1/HIV-2 screen"}},pathContext:{slug:"procedures/G0433"}}}});
 //# sourceMappingURL=path---procedures-g-0433-04fc211c4eb03bcc0b1f.js.map

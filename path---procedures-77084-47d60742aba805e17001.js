@@ -1,2 +1,2 @@
-webpackJsonp([62833483395635],{1497:function(e,o){e.exports={data:{proceduresJson:{code:"77084",name:"Magnetic image bone marrow"}},pathContext:{slug:"procedures/77084"}}}});
+webpackJsonp([62833483395635],{1502:function(e,o){e.exports={data:{proceduresJson:{code:"77084",name:"Magnetic image bone marrow"}},pathContext:{slug:"procedures/77084"}}}});
 //# sourceMappingURL=path---procedures-77084-47d60742aba805e17001.js.map

@@ -1,2 +1,2 @@
-webpackJsonp([64688222486873],{1926:function(e,n){e.exports={data:{proceduresJson:{code:"A9572",name:"Indium In-111 pentetreotide"}},pathContext:{slug:"procedures/A9572"}}}});
+webpackJsonp([64688222486873],{1931:function(e,n){e.exports={data:{proceduresJson:{code:"A9572",name:"Indium In-111 pentetreotide"}},pathContext:{slug:"procedures/A9572"}}}});
 //# sourceMappingURL=path---procedures-a-9572-fd5ba48df806c42894cb.js.map

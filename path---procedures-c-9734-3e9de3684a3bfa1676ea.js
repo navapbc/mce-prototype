@@ -1,2 +1,2 @@
-webpackJsonp([71258256569935],{1962:function(o,t){o.exports={data:{proceduresJson:{code:"C9734",name:"U/S trtmt, not leiomyomata"}},pathContext:{slug:"procedures/C9734"}}}});
+webpackJsonp([71258256569935],{1967:function(o,t){o.exports={data:{proceduresJson:{code:"C9734",name:"U/S trtmt, not leiomyomata"}},pathContext:{slug:"procedures/C9734"}}}});
 //# sourceMappingURL=path---procedures-c-9734-3e9de3684a3bfa1676ea.js.map

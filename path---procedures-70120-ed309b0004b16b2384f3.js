@@ -1,2 +1,2 @@
-webpackJsonp([20295405333567],{1206:function(e,o){e.exports={data:{proceduresJson:{code:"70120",name:"X-ray exam of mastoids"}},pathContext:{slug:"procedures/70120"}}}});
+webpackJsonp([20295405333567],{1211:function(e,o){e.exports={data:{proceduresJson:{code:"70120",name:"X-ray exam of mastoids"}},pathContext:{slug:"procedures/70120"}}}});
 //# sourceMappingURL=path---procedures-70120-ed309b0004b16b2384f3.js.map

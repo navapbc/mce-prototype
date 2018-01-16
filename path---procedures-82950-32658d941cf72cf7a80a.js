@@ -1,2 +1,2 @@
-webpackJsonp([0xc28ff48d89f1],{1706:function(e,o){e.exports={data:{proceduresJson:{code:"82950",name:"Glucose test [only when billed with ICD-9-CM code V77.1]"}},pathContext:{slug:"procedures/82950"}}}});
+webpackJsonp([0xc28ff48d89f1],{1711:function(e,o){e.exports={data:{proceduresJson:{code:"82950",name:"Glucose test [only when billed with ICD-9-CM code V77.1]"}},pathContext:{slug:"procedures/82950"}}}});
 //# sourceMappingURL=path---procedures-82950-32658d941cf72cf7a80a.js.map

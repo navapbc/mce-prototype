@@ -1,2 +1,2 @@
-webpackJsonp([92877935065810],{2009:function(e,t){e.exports={data:{proceduresJson:{code:"G6008",name:"Radiation treatment delivery"}},pathContext:{slug:"procedures/G6008"}}}});
+webpackJsonp([92877935065810],{2014:function(e,t){e.exports={data:{proceduresJson:{code:"G6008",name:"Radiation treatment delivery"}},pathContext:{slug:"procedures/G6008"}}}});
 //# sourceMappingURL=path---procedures-g-6008-7d1173a354ae8ca9fcf7.js.map

@@ -1,2 +1,2 @@
-webpackJsonp([0xaa1eea9f1c2c],{1809:function(e,o){e.exports={data:{proceduresJson:{code:"95851",name:"Range of motion measurements"}},pathContext:{slug:"procedures/95851"}}}});
+webpackJsonp([0xaa1eea9f1c2c],{1814:function(e,o){e.exports={data:{proceduresJson:{code:"95851",name:"Range of motion measurements"}},pathContext:{slug:"procedures/95851"}}}});
 //# sourceMappingURL=path---procedures-95851-fc81b2b6c64fd8735ef4.js.map

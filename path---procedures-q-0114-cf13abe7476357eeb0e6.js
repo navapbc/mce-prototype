@@ -1,2 +1,2 @@
-webpackJsonp([0xb1b67e5a93b8],{2032:function(e,o){e.exports={data:{proceduresJson:{code:"Q0114",name:"Fern test"}},pathContext:{slug:"procedures/Q0114"}}}});
+webpackJsonp([0xb1b67e5a93b8],{2037:function(e,o){e.exports={data:{proceduresJson:{code:"Q0114",name:"Fern test"}},pathContext:{slug:"procedures/Q0114"}}}});
 //# sourceMappingURL=path---procedures-q-0114-cf13abe7476357eeb0e6.js.map

@@ -1,2 +1,2 @@
-webpackJsonp([0x98eaa6609a1f],{1925:function(e,a){e.exports={data:{proceduresJson:{code:"A9571",name:"Indium In-111 auto platelet"}},pathContext:{slug:"procedures/A9571"}}}});
+webpackJsonp([0x98eaa6609a1f],{1930:function(e,a){e.exports={data:{proceduresJson:{code:"A9571",name:"Indium In-111 auto platelet"}},pathContext:{slug:"procedures/A9571"}}}});
 //# sourceMappingURL=path---procedures-a-9571-38516f4878b8fb244866.js.map

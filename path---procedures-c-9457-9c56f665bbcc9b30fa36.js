@@ -1,2 +1,2 @@
-webpackJsonp([67488719455056],{1960:function(e,o){e.exports={data:{proceduresJson:{code:"C9457",name:"Lumason contrast agent"}},pathContext:{slug:"procedures/C9457"}}}});
+webpackJsonp([67488719455056],{1965:function(e,o){e.exports={data:{proceduresJson:{code:"C9457",name:"Lumason contrast agent"}},pathContext:{slug:"procedures/C9457"}}}});
 //# sourceMappingURL=path---procedures-c-9457-9c56f665bbcc9b30fa36.js.map

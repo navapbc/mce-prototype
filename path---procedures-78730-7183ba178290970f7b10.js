@@ -1,2 +1,2 @@
-webpackJsonp([0xb6bccbcf2164],{1675:function(e,n){e.exports={data:{proceduresJson:{code:"78730",name:"Urinary bladder retention"}},pathContext:{slug:"procedures/78730"}}}});
+webpackJsonp([0xb6bccbcf2164],{1680:function(e,n){e.exports={data:{proceduresJson:{code:"78730",name:"Urinary bladder retention"}},pathContext:{slug:"procedures/78730"}}}});
 //# sourceMappingURL=path---procedures-78730-7183ba178290970f7b10.js.map

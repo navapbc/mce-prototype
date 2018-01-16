@@ -1,2 +1,2 @@
-webpackJsonp([0xf036ae654b89],{1496:function(e,o){e.exports={data:{proceduresJson:{code:"77081",name:"Dxa bone density/peripheral"}},pathContext:{slug:"procedures/77081"}}}});
+webpackJsonp([0xf036ae654b89],{1501:function(e,o){e.exports={data:{proceduresJson:{code:"77081",name:"Dxa bone density/peripheral"}},pathContext:{slug:"procedures/77081"}}}});
 //# sourceMappingURL=path---procedures-77081-3cdcddcd8ba64655af50.js.map

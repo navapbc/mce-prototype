@@ -1,2 +1,2 @@
-webpackJsonp([18321614256256],{1883:function(e,t){e.exports={data:{proceduresJson:{code:"A9512",name:"Tc99m pertechnetate"}},pathContext:{slug:"procedures/A9512"}}}});
+webpackJsonp([18321614256256],{1888:function(e,t){e.exports={data:{proceduresJson:{code:"A9512",name:"Tc99m pertechnetate"}},pathContext:{slug:"procedures/A9512"}}}});
 //# sourceMappingURL=path---procedures-a-9512-ed3424e934d883fa1d45.js.map

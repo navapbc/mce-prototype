@@ -1,2 +1,2 @@
-webpackJsonp([0x7f904ce5d8ae],{1505:function(e,a){e.exports={data:{proceduresJson:{code:"77290",name:"Set radiation therapy field"}},pathContext:{slug:"procedures/77290"}}}});
+webpackJsonp([0x7f904ce5d8ae],{1510:function(e,a){e.exports={data:{proceduresJson:{code:"77290",name:"Set radiation therapy field"}},pathContext:{slug:"procedures/77290"}}}});
 //# sourceMappingURL=path---procedures-77290-82f65562e80b68f3ba23.js.map
