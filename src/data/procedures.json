@@ -1,3457 +1,867 @@
 [
-  {
-    "code": "86152",
-    "name": "Cell enumeration"
-  },
-  {
-    "code": "86153",
-    "name": "Cell enumeration phys interp"
-  },
-  {
-    "code": "86890",
-    "name": "Autologous blood process"
-  },
-  {
-    "code": "86891",
-    "name": "Autologous blood op salvage"
-  },
-  {
-    "code": "86927",
-    "name": "Plasma fresh frozen"
-  },
-  {
-    "code": "86930",
-    "name": "Frozen blood prep"
-  },
-  {
-    "code": "86931",
-    "name": "Frozen blood thaw"
-  },
-  {
-    "code": "86932",
-    "name": "Frozen blood freeze/thaw"
-  },
-  {
-    "code": "86945",
-    "name": "Blood product/irradiation"
-  },
-  {
-    "code": "86950",
-    "name": "Leukacyte transfusion"
-  },
-  {
-    "code": "86960",
-    "name": "Vol reduction of blood/prod"
-  },
-  {
-    "code": "86965",
-    "name": "Pooling blood platelets"
-  },
-  {
-    "code": "0008M",
-    "name": "Onc breast risk score"
-  },
-  {
-    "code": "0357T",
-    "name": "Cryopreservation oocyte(s)"
-  },
-  {
-    "code": "0058T",
-    "name": "Cryopreservation ovary tiss"
-  },
-  {
-    "code": "0111T",
-    "name": "RBC membranes fatty acids"
-  },
-  {
-    "code": "36415",
-    "name": "Routine venipuncture"
-  },
-  {
-    "code": "78110",
-    "name": "Plasma volume single"
-  },
-  {
-    "code": "78111",
-    "name": "Plasma volume multiple"
-  },
-  {
-    "code": "78120",
-    "name": "Red cell mass single"
-  },
-  {
-    "code": "78121",
-    "name": "Red cell mass multiple"
-  },
-  {
-    "code": "78122",
-    "name": "Blood volume"
-  },
-  {
-    "code": "78130",
-    "name": "Red cell survival study"
-  },
-  {
-    "code": "78191",
-    "name": "Platelet survival"
-  },
-  {
-    "code": "78267",
-    "name": "Breath tst attain/anal c-14"
-  },
-  {
-    "code": "78268",
-    "name": "Breath test analysis c-14"
-  },
-  {
-    "code": "78270",
-    "name": "Vit B-12 absorption exam"
-  },
-  {
-    "code": "78271",
-    "name": "Vit B-12 absrp exam int fac"
-  },
-  {
-    "code": "78272",
-    "name": "Vit B-12 absorp combined"
-  },
-  {
-    "code": "78725",
-    "name": "Kidney function study"
-  },
-  {
-    "code": "G0027",
-    "name": "Semen analysis"
-  },
-  {
-    "code": "G0103",
-    "name": "Psa screening"
-  },
-  {
-    "code": "G0123",
-    "name": "Screen cerv/vag thin layer"
-  },
-  {
-    "code": "G0124",
-    "name": "Screen c/v thin layer by MD"
-  },
-  {
-    "code": "G0141",
-    "name": "Scr c/v cyto,autosys and md"
-  },
-  {
-    "code": "G0143",
-    "name": "Scr c/v cyto,thinlayer,rescr"
-  },
-  {
-    "code": "G0144",
-    "name": "Scr c/v cyto,thinlayer,rescr"
-  },
-  {
-    "code": "G0145",
-    "name": "Scr c/v cyto,thinlayer,rescr"
-  },
-  {
-    "code": "G0147",
-    "name": "Scr c/v cyto, automated sys"
-  },
-  {
-    "code": "G0148",
-    "name": "Scr c/v cyto, autosys, rescr"
-  },
-  {
-    "code": "G0306",
-    "name": "CBC/diffwbc w/o platelet"
-  },
-  {
-    "code": "G0307",
-    "name": "CBC without platelet"
-  },
-  {
-    "code": "G0328",
-    "name": "Fecal blood scrn immunoassay"
-  },
-  {
-    "code": "G0416",
-    "name": "Prostate biopsy, any mthd"
-  },
-  {
-    "code": "G0432",
-    "name": "EIA HIV-1/HIV-2 screen"
-  },
-  {
-    "code": "G0433",
-    "name": "ELISA HIV-1/HIV-2 screen"
-  },
-  {
-    "code": "G0435",
-    "name": "Oral HIV-1/HIV-2 screen"
-  },
-  {
-    "code": "G0475",
-    "name": "HIV combination assay"
-  },
-  {
-    "code": "G0476",
-    "name": "HPV combo assay CA screen"
-  },
-  {
-    "code": "G9143",
-    "name": "Warfarin respon genetic test"
-  },
-  {
-    "code": "P2028",
-    "name": "Cephalin floculation test"
-  },
-  {
-    "code": "P2029",
-    "name": "Congo red blood test"
-  },
-  {
-    "code": "P2033",
-    "name": "Blood thymol turbidity"
-  },
-  {
-    "code": "P2038",
-    "name": "Blood mucoprotein"
-  },
-  {
-    "code": "P3000",
-    "name": "Screen pap by tech w md supv"
-  },
-  {
-    "code": "P3001",
-    "name": "Screening pap smear by phys"
-  },
-  {
-    "code": "P9612",
-    "name": "Catheterize for urine spec"
-  },
-  {
-    "code": "P9615",
-    "name": "Urine specimen collect mult"
-  },
-  {
-    "code": "Q0111",
-    "name": "Wet mounts/ w preparations"
-  },
-  {
-    "code": "Q0112",
-    "name": "Potassium hydroxide preps"
-  },
-  {
-    "code": "Q0113",
-    "name": "Pinworm examinations"
-  },
-  {
-    "code": "Q0114",
-    "name": "Fern test"
-  },
-  {
-    "code": "Q0115",
-    "name": "Post-coital mucous exam"
-  },
-  {
-    "code": "64550",
-    "name": "Appl surface neurostimulator"
-  },
-  {
-    "code": "90901",
-    "name": "Biofeedback train any meth"
-  },
-  {
-    "code": "90911",
-    "name": "Biofeedback peri/uro/rectal"
-  },
-  {
-    "code": "92507",
-    "name": "Speech/hearing therapy"
-  },
-  {
-    "code": "92508",
-    "name": "Speech/hearing therapy"
-  },
-  {
-    "code": "92520",
-    "name": "Laryngeal function studies"
-  },
-  {
-    "code": "92521",
-    "name": "Evaluation of speech fluency"
-  },
-  {
-    "code": "92522",
-    "name": "Evaluate speech production"
-  },
-  {
-    "code": "92523",
-    "name": "Speech sound lang comprehen"
-  },
-  {
-    "code": "92524",
-    "name": "Behavral qualit analys voice"
-  },
-  {
-    "code": "92526",
-    "name": "Oral function therapy"
-  },
-  {
-    "code": "92597",
-    "name": "Oral speech device eval"
-  },
-  {
-    "code": "92607",
-    "name": "Ex for speech device rx 1hr"
-  },
-  {
-    "code": "92608",
-    "name": "Ex for speech device rx addl"
-  },
-  {
-    "code": "92609",
-    "name": "Use of speech device service"
-  },
-  {
-    "code": "92610",
-    "name": "Evaluate swallowing function"
-  },
-  {
-    "code": "92611",
-    "name": "Motion fluoroscopy/swallow"
-  },
-  {
-    "code": "92612",
-    "name": "Endoscopy swallow tst (fees)"
-  },
-  {
-    "code": "92614",
-    "name": "Laryngoscopic sensory test"
-  },
-  {
-    "code": "92616",
-    "name": "Fees w/laryngeal sense test"
-  },
-  {
-    "code": "93797",
-    "name": "Cardiac rehab"
-  },
-  {
-    "code": "93798",
-    "name": "Cardiac rehab/monitor"
-  },
-  {
-    "code": "95831",
-    "name": "Limb muscle testing manual"
-  },
-  {
-    "code": "95832",
-    "name": "Hand muscle testing manual"
-  },
-  {
-    "code": "95833",
-    "name": "Body muscle testing manual"
-  },
-  {
-    "code": "95834",
-    "name": "Body muscle testing manual"
-  },
-  {
-    "code": "95851",
-    "name": "Range of motion measurements"
-  },
-  {
-    "code": "95852",
-    "name": "Range of motion measurements"
-  },
-  {
-    "code": "95992",
-    "name": "Canalith repositioning proc"
-  },
-  {
-    "code": "96000",
-    "name": "Motion analysis video/3d"
-  },
-  {
-    "code": "96001",
-    "name": "Motion test w/ft press meas"
-  },
-  {
-    "code": "96002",
-    "name": "Dynamic surface emg"
-  },
-  {
-    "code": "96003",
-    "name": "Dynamic fine wire emg"
-  },
-  {
-    "code": "96105",
-    "name": "Assessment of aphasia"
-  },
-  {
-    "code": "96111",
-    "name": "Developmental testing"
-  },
-  {
-    "code": "96125",
-    "name": "Cognitive test by HC pro"
-  },
-  {
-    "code": "97010",
-    "name": "Hot or cold packs therapy"
-  },
-  {
-    "code": "97012",
-    "name": "Mechanical traction therapy"
-  },
-  {
-    "code": "97016",
-    "name": "Vasopneumatic device therapy"
-  },
-  {
-    "code": "97018",
-    "name": "Paraffin bath therapy"
-  },
-  {
-    "code": "97022",
-    "name": "Whirlpool therapy"
-  },
-  {
-    "code": "97024",
-    "name": "Diathermy eg microwave"
-  },
-  {
-    "code": "97026",
-    "name": "Infrared therapy"
-  },
-  {
-    "code": "97028",
-    "name": "Ultraviolet therapy"
-  },
-  {
-    "code": "97032",
-    "name": "Electrical stimulation"
-  },
-  {
-    "code": "97033",
-    "name": "Electric current therapy"
-  },
-  {
-    "code": "97034",
-    "name": "Contrast bath therapy"
-  },
-  {
-    "code": "97035",
-    "name": "Ultrasound therapy"
-  },
-  {
-    "code": "97036",
-    "name": "Hydrotherapy"
-  },
-  {
-    "code": "97039",
-    "name": "Physical therapy treatment"
-  },
-  {
-    "code": "97110",
-    "name": "Therapeutic exercises"
-  },
-  {
-    "code": "97112",
-    "name": "Neuromuscular reeducation"
-  },
-  {
-    "code": "97113",
-    "name": "Aquatic therapy/exercises"
-  },
-  {
-    "code": "97116",
-    "name": "Gait training therapy"
-  },
-  {
-    "code": "97124",
-    "name": "Massage therapy"
-  },
-  {
-    "code": "97139",
-    "name": "Physical medicine procedure"
-  },
-  {
-    "code": "97140",
-    "name": "Manual therapy"
-  },
-  {
-    "code": "97150",
-    "name": "Group therapeutic procedures"
-  },
-  {
-    "code": "97161",
-    "name": "Pt eval low complex 20 min"
-  },
-  {
-    "code": "97162",
-    "name": "Pt eval mod complex 30 min"
-  },
-  {
-    "code": "97163",
-    "name": "Pt eval high complex 45 min"
-  },
-  {
-    "code": "97164",
-    "name": "Pt re-eval est plan care"
-  },
-  {
-    "code": "97165",
-    "name": "Ot eval low complex 30 min"
-  },
-  {
-    "code": "97166",
-    "name": "Ot eval mod complex 45 min"
-  },
-  {
-    "code": "97167",
-    "name": "Ot eval high complex 60 min"
-  },
-  {
-    "code": "97168",
-    "name": "Ot re-eval est plan care"
-  },
-  {
-    "code": "97530",
-    "name": "Therapeutic activities"
-  },
-  {
-    "code": "97533",
-    "name": "Sensory integration"
-  },
-  {
-    "code": "97535",
-    "name": "Self care mngment training"
-  },
-  {
-    "code": "97537",
-    "name": "Community/work reintegration"
-  },
-  {
-    "code": "97542",
-    "name": "Wheelchair mngment training"
-  },
-  {
-    "code": "97545",
-    "name": "Work hardening"
-  },
-  {
-    "code": "97546",
-    "name": "Work hardening add-on"
-  },
-  {
-    "code": "97597",
-    "name": "RMVL devital tis 20cm/<"
-  },
-  {
-    "code": "97598",
-    "name": "RMVL devital tis addl 20 cm<"
-  },
-  {
-    "code": "97602",
-    "name": "Wound(s) care non-selective"
-  },
-  {
-    "code": "97605",
-    "name": "Neg press wound tx < 50 cm"
-  },
-  {
-    "code": "97606",
-    "name": "Neg press wound tx > 50 cm"
-  },
-  {
-    "code": "97607",
-    "name": "Neg press wnd tx </=50 sq cm"
-  },
-  {
-    "code": "97608",
-    "name": "Neg press wound tx >50 cm"
-  },
-  {
-    "code": "97610",
-    "name": "Low frequency non-thermal US"
-  },
-  {
-    "code": "97750",
-    "name": "Physical performance test"
-  },
-  {
-    "code": "97755",
-    "name": "Assistive technology assess"
-  },
-  {
-    "code": "97760",
-    "name": "Orthotic mgmt&trainj 1st enc"
-  },
-  {
-    "code": "97761",
-    "name": "Prosthetic trainj 1st enc"
-  },
-  {
-    "code": "97763",
-    "name": "Orth/prostc mgmt sbsq enc"
-  },
-  {
-    "code": "97799",
-    "name": "Physical medicine procedure"
-  },
-  {
-    "code": "G0281",
-    "name": "Elec stim unattend for press"
-  },
-  {
-    "code": "G0283",
-    "name": "Elec stim other than wound"
-  },
-  {
-    "code": "G0329",
-    "name": "Electromagntic tx for ulcers"
-  },
-  {
-    "code": "G0451",
-    "name": "Development test interp & rep"
-  },
-  {
-    "code": "G0460",
-    "name": "Autologous PRP for ulcers"
-  },
-  {
-    "code": "0042T",
-    "name": "Ct perfusion w/contrast cbf"
-  },
-  {
-    "code": "0159T",
-    "name": "Cad breast mri"
-  },
-  {
-    "code": "0174T",
-    "name": "Cad cxr with interp"
-  },
-  {
-    "code": "0175T",
-    "name": "Cad cxr remote"
-  },
-  {
-    "code": "0330T",
-    "name": "Tear film img uni/bi w/i&r"
-  },
-  {
-    "code": "0331T",
-    "name": "Heart symp image plnr"
-  },
-  {
-    "code": "0332T",
-    "name": "Heart symp image plnr spect"
-  },
-  {
-    "code": "0346T",
-    "name": "Ultrasound elastography"
-  },
-  {
-    "code": "0422T",
-    "name": "Tactile breast img uni/bi"
-  },
-  {
-    "code": "51798",
-    "name": "Us urine capacity measure"
-  },
-  {
-    "code": "70100",
-    "name": "X-ray exam of jaw"
-  },
-  {
-    "code": "70110",
-    "name": "X-ray exam of jaw"
-  },
-  {
-    "code": "70120",
-    "name": "X-ray exam of mastoids"
-  },
-  {
-    "code": "70130",
-    "name": "X-ray exam of mastoids"
-  },
-  {
-    "code": "70134",
-    "name": "X-ray exam of middle ear"
-  },
-  {
-    "code": "70140",
-    "name": "X-ray exam of facial bones"
-  },
-  {
-    "code": "70150",
-    "name": "X-ray exam of facial bones"
-  },
-  {
-    "code": "70160",
-    "name": "X-ray exam of nasal bones"
-  },
-  {
-    "code": "70190",
-    "name": "X-ray exam of eye sockets"
-  },
-  {
-    "code": "70200",
-    "name": "X-ray exam of eye sockets"
-  },
-  {
-    "code": "70210",
-    "name": "X-ray exam of sinuses"
-  },
-  {
-    "code": "70220",
-    "name": "X-ray exam of sinuses"
-  },
-  {
-    "code": "70240",
-    "name": "X-ray exam pituitary saddle"
-  },
-  {
-    "code": "70250",
-    "name": "X-ray exam of skull"
-  },
-  {
-    "code": "70260",
-    "name": "X-ray exam of skull"
-  },
-  {
-    "code": "70300",
-    "name": "X-ray exam of teeth"
-  },
-  {
-    "code": "70310",
-    "name": "X-ray exam of teeth"
-  },
-  {
-    "code": "70320",
-    "name": "Full mouth x-ray of teeth"
-  },
-  {
-    "code": "70328",
-    "name": "X-ray exam of jaw joint"
-  },
-  {
-    "code": "70330",
-    "name": "X-ray exam of jaw joints"
-  },
-  {
-    "code": "70336",
-    "name": "Magnetic image jaw joint"
-  },
-  {
-    "code": "70350",
-    "name": "X-ray head for orthodontia"
-  },
-  {
-    "code": "70355",
-    "name": "Panoramic x-ray of jaws"
-  },
-  {
-    "code": "70360",
-    "name": "X-ray exam of neck"
-  },
-  {
-    "code": "70370",
-    "name": "Throat x-ray & fluoroscopy"
-  },
-  {
-    "code": "70371",
-    "name": "Speech evaluation complex"
-  },
-  {
-    "code": "70380",
-    "name": "X-ray exam of salivary gland"
-  },
-  {
-    "code": "70450",
-    "name": "Ct head/brain w/o dye"
-  },
-  {
-    "code": "70460",
-    "name": "Ct head/brain w/dye"
-  },
-  {
-    "code": "70470",
-    "name": "Ct head/brain w/o & w/dye"
-  },
-  {
-    "code": "70480",
-    "name": "Ct orbit/ear/fossa w/o dye"
-  },
-  {
-    "code": "70481",
-    "name": "Ct orbit/ear/fossa w/dye"
-  },
-  {
-    "code": "70482",
-    "name": "Ct orbit/ear/fossa w/o&w/dye"
-  },
-  {
-    "code": "70486",
-    "name": "Ct maxillofacial w/o dye"
-  },
-  {
-    "code": "70487",
-    "name": "Ct maxillofacial w/dye"
-  },
-  {
-    "code": "70488",
-    "name": "Ct maxillofacial w/o & w/dye"
-  },
-  {
-    "code": "70490",
-    "name": "Ct soft tissue neck w/o dye"
-  },
-  {
-    "code": "70491",
-    "name": "Ct soft tissue neck w/dye"
-  },
-  {
-    "code": "70492",
-    "name": "Ct sft tsue nck w/o & w/dye"
-  },
-  {
-    "code": "70496",
-    "name": "Ct angiography head"
-  },
-  {
-    "code": "70498",
-    "name": "Ct angiography neck"
-  },
-  {
-    "code": "70540",
-    "name": "Mri orbit/face/neck w/o dye"
-  },
-  {
-    "code": "70542",
-    "name": "Mri orbit/face/neck w/dye"
-  },
-  {
-    "code": "70543",
-    "name": "Mri orbt/fac/nck w/o & w/dye"
-  },
-  {
-    "code": "70544",
-    "name": "Mr angiography head w/o dye"
-  },
-  {
-    "code": "70545",
-    "name": "Mr angiography head w/dye"
-  },
-  {
-    "code": "70546",
-    "name": "Mr angiograph head w/o&w/dye"
-  },
-  {
-    "code": "70547",
-    "name": "Mr angiography neck w/o dye"
-  },
-  {
-    "code": "70548",
-    "name": "Mr angiography neck w/dye"
-  },
-  {
-    "code": "70549",
-    "name": "Mr angiograph neck w/o&w/dye"
-  },
-  {
-    "code": "70551",
-    "name": "Mri brain w/o dye"
-  },
-  {
-    "code": "70552",
-    "name": "Mri brain w/dye"
-  },
-  {
-    "code": "70553",
-    "name": "Mri brain w/o & w/dye"
-  },
-  {
-    "code": "70554",
-    "name": "Fmri brain by tech"
-  },
-  {
-    "code": "70555",
-    "name": "Fmri brain by phys/psych"
-  },
-  {
-    "code": "71045",
-    "name": "Xray exam chest 1 view"
-  },
-  {
-    "code": "71046",
-    "name": "X-ray exam chest 2 views"
-  },
-  {
-    "code": "71047",
-    "name": "X-ray exam chest 3 views"
-  },
-  {
-    "code": "71048",
-    "name": "X-ray exam chest 4+ views"
-  },
-  {
-    "code": "71100",
-    "name": "X-ray exam of ribs"
-  },
-  {
-    "code": "71101",
-    "name": "X-ray exam of ribs/chest"
-  },
-  {
-    "code": "71110",
-    "name": "X-ray exam of ribs"
-  },
-  {
-    "code": "71111",
-    "name": "X-ray exam of ribs/chest"
-  },
-  {
-    "code": "71120",
-    "name": "X-ray exam of breastbone"
-  },
-  {
-    "code": "71130",
-    "name": "X-ray exam of breastbone"
-  },
-  {
-    "code": "71250",
-    "name": "Ct thorax w/o dye"
-  },
-  {
-    "code": "71260",
-    "name": "Ct thorax w/dye"
-  },
-  {
-    "code": "71270",
-    "name": "Ct thorax w/o & w/dye"
-  },
-  {
-    "code": "71275",
-    "name": "Ct angiography chest"
-  },
-  {
-    "code": "71550",
-    "name": "Mri chest w/o dye"
-  },
-  {
-    "code": "71551",
-    "name": "Mri chest w/dye"
-  },
-  {
-    "code": "71552",
-    "name": "Mri chest w/o & w/dye"
-  },
-  {
-    "code": "71555",
-    "name": "Mri angio chest w or w/o dye"
-  },
-  {
-    "code": "72020",
-    "name": "X-ray exam of spine"
-  },
-  {
-    "code": "72040",
-    "name": "X-ray exam neck spine 3/<vws"
-  },
-  {
-    "code": "72050",
-    "name": "X-ray exam of neck spine"
-  },
-  {
-    "code": "72052",
-    "name": "X-ray exam of neck spine"
-  },
-  {
-    "code": "72070",
-    "name": "X-ray exam of thoracic spine"
-  },
-  {
-    "code": "72072",
-    "name": "X-ray exam of thoracic spine"
-  },
-  {
-    "code": "72074",
-    "name": "X-ray exam of thoracic spine"
-  },
-  {
-    "code": "72080",
-    "name": "X-ray exam of trunk spine"
-  },
-  {
-    "code": "72081",
-    "name": "X-ray exam entire spi 1 vw"
-  },
-  {
-    "code": "72082",
-    "name": "X-ray exam entire spi 2/3 vw"
-  },
-  {
-    "code": "72083",
-    "name": "X-ray exam entire spi 4/5 vw"
-  },
-  {
-    "code": "72084",
-    "name": "X-ray exam entire spi 6/> vw"
-  },
-  {
-    "code": "72100",
-    "name": "X-ray exam of lower spine"
-  },
-  {
-    "code": "72110",
-    "name": "X-ray exam of lower spine"
-  },
-  {
-    "code": "72114",
-    "name": "X-ray exam of lower spine"
-  },
-  {
-    "code": "72120",
-    "name": "X-ray exam of lower spine"
-  },
-  {
-    "code": "72125",
-    "name": "Ct neck spine w/o dye"
-  },
-  {
-    "code": "72126",
-    "name": "Ct neck spine w/dye"
-  },
-  {
-    "code": "72127",
-    "name": "Ct neck spine w/o & w/dye"
-  },
-  {
-    "code": "72128",
-    "name": "Ct chest spine w/o dye"
-  },
-  {
-    "code": "72129",
-    "name": "Ct chest spine w/dye"
-  },
-  {
-    "code": "72130",
-    "name": "Ct chest spine w/o & w/dye"
-  },
-  {
-    "code": "72131",
-    "name": "Ct lumbar spine w/o dye"
-  },
-  {
-    "code": "72132",
-    "name": "Ct lumbar spine w/dye"
-  },
-  {
-    "code": "72133",
-    "name": "Ct lumbar spine w/o & w/dye"
-  },
-  {
-    "code": "72141",
-    "name": "Mri neck spine w/o dye"
-  },
-  {
-    "code": "72142",
-    "name": "Mri neck spine w/dye"
-  },
-  {
-    "code": "72146",
-    "name": "Mri chest spine w/o dye"
-  },
-  {
-    "code": "72147",
-    "name": "Mri chest spine w/dye"
-  },
-  {
-    "code": "72148",
-    "name": "Mri lumbar spine w/o dye"
-  },
-  {
-    "code": "72149",
-    "name": "Mri lumbar spine w/dye"
-  },
-  {
-    "code": "72156",
-    "name": "Mri neck spine w/o & w/dye"
-  },
-  {
-    "code": "72157",
-    "name": "Mri chest spine w/o & w/dye"
-  },
-  {
-    "code": "72158",
-    "name": "Mri lumbar spine w/o & w/dye"
-  },
-  {
-    "code": "72159",
-    "name": "Mr angio spine w/o&w/dye"
-  },
-  {
-    "code": "72170",
-    "name": "X-ray exam of pelvis"
-  },
-  {
-    "code": "72190",
-    "name": "X-ray exam of pelvis"
-  },
-  {
-    "code": "72191",
-    "name": "Ct angiograph pelv w/o&w/dye"
-  },
-  {
-    "code": "72192",
-    "name": "Ct pelvis w/o dye"
-  },
-  {
-    "code": "72193",
-    "name": "Ct pelvis w/dye"
-  },
-  {
-    "code": "72194",
-    "name": "Ct pelvis w/o & w/dye"
-  },
-  {
-    "code": "72195",
-    "name": "Mri pelvis w/o dye"
-  },
-  {
-    "code": "72196",
-    "name": "Mri pelvis w/dye"
-  },
-  {
-    "code": "72197",
-    "name": "Mri pelvis w/o & w/dye"
-  },
-  {
-    "code": "72198",
-    "name": "Mr angio pelvis w/o & w/dye"
-  },
-  {
-    "code": "72200",
-    "name": "X-ray exam sacroiliac joints"
-  },
-  {
-    "code": "72202",
-    "name": "X-ray exam sacroiliac joints"
-  },
-  {
-    "code": "72220",
-    "name": "X-ray exam of tailbone"
-  },
-  {
-    "code": "73000",
-    "name": "X-ray exam of collar bone"
-  },
-  {
-    "code": "73010",
-    "name": "X-ray exam of shoulder blade"
-  },
-  {
-    "code": "73020",
-    "name": "X-ray exam of shoulder"
-  },
-  {
-    "code": "73030",
-    "name": "X-ray exam of shoulder"
-  },
-  {
-    "code": "73050",
-    "name": "X-ray exam of shoulders"
-  },
-  {
-    "code": "73060",
-    "name": "X-ray exam of humerus"
-  },
-  {
-    "code": "73070",
-    "name": "X-ray exam of elbow"
-  },
-  {
-    "code": "73080",
-    "name": "X-ray exam of elbow"
-  },
-  {
-    "code": "73090",
-    "name": "X-ray exam of forearm"
-  },
-  {
-    "code": "73092",
-    "name": "X-ray exam of arm infant"
-  },
-  {
-    "code": "73100",
-    "name": "X-ray exam of wrist"
-  },
-  {
-    "code": "73110",
-    "name": "X-ray exam of wrist"
-  },
-  {
-    "code": "73120",
-    "name": "X-ray exam of hand"
-  },
-  {
-    "code": "73130",
-    "name": "X-ray exam of hand"
-  },
-  {
-    "code": "73140",
-    "name": "X-ray exam of finger(s)"
-  },
-  {
-    "code": "73200",
-    "name": "Ct upper extremity w/o dye"
-  },
-  {
-    "code": "73201",
-    "name": "Ct upper extremity w/dye"
-  },
-  {
-    "code": "73202",
-    "name": "Ct uppr extremity w/o&w/dye"
-  },
-  {
-    "code": "73206",
-    "name": "Ct angio upr extrm w/o&w/dye"
-  },
-  {
-    "code": "73218",
-    "name": "Mri upper extremity w/o dye"
-  },
-  {
-    "code": "73219",
-    "name": "Mri upper extremity w/dye"
-  },
-  {
-    "code": "73220",
-    "name": "Mri uppr extremity w/o&w/dye"
-  },
-  {
-    "code": "73221",
-    "name": "Mri joint upr extrem w/o dye"
-  },
-  {
-    "code": "73222",
-    "name": "Mri joint upr extrem w/dye"
-  },
-  {
-    "code": "73223",
-    "name": "Mri joint upr extr w/o&w/dye"
-  },
-  {
-    "code": "73225",
-    "name": "Mr angio upr extr w/o&w/dye"
-  },
-  {
-    "code": "73501",
-    "name": "X-ray exam hip uni 1 view"
-  },
-  {
-    "code": "73502",
-    "name": "X-ray exam hip uni 2-3 views"
-  },
-  {
-    "code": "73503",
-    "name": "X-ray exam hip uni 4/> views"
-  },
-  {
-    "code": "73521",
-    "name": "X-ray exam hips bi 2 views"
-  },
-  {
-    "code": "73522",
-    "name": "X-ray exam hips bi 3-4 views"
-  },
-  {
-    "code": "73523",
-    "name": "X-ray exam hips bi 5/> views"
-  },
-  {
-    "code": "73551",
-    "name": "X-ray exam of femur 1"
-  },
-  {
-    "code": "73552",
-    "name": "X-ray exam of femur 2/>"
-  },
-  {
-    "code": "73560",
-    "name": "X-ray exam of knee 1 or 2"
-  },
-  {
-    "code": "73562",
-    "name": "X-ray exam of knee 3"
-  },
-  {
-    "code": "73564",
-    "name": "X-ray exam knee 4 or more"
-  },
-  {
-    "code": "73565",
-    "name": "X-ray exam of knees"
-  },
-  {
-    "code": "73590",
-    "name": "X-ray exam of lower leg"
-  },
-  {
-    "code": "73592",
-    "name": "X-ray exam of leg infant"
-  },
-  {
-    "code": "73600",
-    "name": "X-ray exam of ankle"
-  },
-  {
-    "code": "73610",
-    "name": "X-ray exam of ankle"
-  },
-  {
-    "code": "73620",
-    "name": "X-ray exam of foot"
-  },
-  {
-    "code": "73630",
-    "name": "X-ray exam of foot"
-  },
-  {
-    "code": "73650",
-    "name": "X-ray exam of heel"
-  },
-  {
-    "code": "73660",
-    "name": "X-ray exam of toe(s)"
-  },
-  {
-    "code": "73700",
-    "name": "Ct lower extremity w/o dye"
-  },
-  {
-    "code": "73701",
-    "name": "Ct lower extremity w/dye"
-  },
-  {
-    "code": "73702",
-    "name": "Ct lwr extremity w/o&w/dye"
-  },
-  {
-    "code": "73706",
-    "name": "Ct angio lwr extr w/o&w/dye"
-  },
-  {
-    "code": "73718",
-    "name": "Mri lower extremity w/o dye"
-  },
-  {
-    "code": "73719",
-    "name": "Mri lower extremity w/dye"
-  },
-  {
-    "code": "73720",
-    "name": "Mri lwr extremity w/o&w/dye"
-  },
-  {
-    "code": "73721",
-    "name": "Mri jnt of lwr extre w/o dye"
-  },
-  {
-    "code": "73722",
-    "name": "Mri joint of lwr extr w/dye"
-  },
-  {
-    "code": "73723",
-    "name": "Mri joint lwr extr w/o&w/dye"
-  },
-  {
-    "code": "73725",
-    "name": "Mr ang lwr ext w or w/o dye"
-  },
-  {
-    "code": "74018",
-    "name": "X-ray exam abdomen 1 view"
-  },
-  {
-    "code": "74019",
-    "name": "X-ray exam abdomen 2 views"
-  },
-  {
-    "code": "74021",
-    "name": "X-ray exam abdomen 3+ views"
-  },
-  {
-    "code": "74022",
-    "name": "X-ray exam series abdomen"
-  },
-  {
-    "code": "74150",
-    "name": "Ct abdomen w/o dye"
-  },
-  {
-    "code": "74160",
-    "name": "Ct abdomen w/dye"
-  },
-  {
-    "code": "74170",
-    "name": "Ct abdomen w/o & w/dye"
-  },
-  {
-    "code": "74174",
-    "name": "Ct angio abd&pelv w/o&w/dye"
-  },
-  {
-    "code": "74175",
-    "name": "Ct angio abdom w/o & w/dye"
-  },
-  {
-    "code": "74176",
-    "name": "Ct abd & pelvis"
-  },
-  {
-    "code": "74177",
-    "name": "Ct abd & pelv w/contrast"
-  },
-  {
-    "code": "74178",
-    "name": "Ct abd & pelv 1/>regns"
-  },
-  {
-    "code": "74181",
-    "name": "Mri abdomen w/o dye"
-  },
-  {
-    "code": "74182",
-    "name": "Mri abdomen w/dye"
-  },
-  {
-    "code": "74183",
-    "name": "Mri abdomen w/o & w/dye"
-  },
-  {
-    "code": "74185",
-    "name": "Mri angio abdom w orw/o dye"
-  },
-  {
-    "code": "74210",
-    "name": "Contrst x-ray exam of throat"
-  },
-  {
-    "code": "74220",
-    "name": "Contrast x-ray esophagus"
-  },
-  {
-    "code": "74230",
-    "name": "Cine/vid x-ray throat/esoph"
-  },
-  {
-    "code": "74240",
-    "name": "X-ray exam upper gi tract"
-  },
-  {
-    "code": "74241",
-    "name": "X-ray exam upper gi tract"
-  },
-  {
-    "code": "74245",
-    "name": "X-ray exam upper gi tract"
-  },
-  {
-    "code": "74246",
-    "name": "Contrst x-ray uppr gi tract"
-  },
-  {
-    "code": "74247",
-    "name": "Contrst x-ray uppr gi tract"
-  },
-  {
-    "code": "74249",
-    "name": "Contrst x-ray uppr gi tract"
-  },
-  {
-    "code": "74250",
-    "name": "X-ray exam of small bowel"
-  },
-  {
-    "code": "74261",
-    "name": "Ct colonography dx"
-  },
-  {
-    "code": "74262",
-    "name": "Ct colonography dx w/dye"
-  },
-  {
-    "code": "74290",
-    "name": "Contrast x-ray gallbladder"
-  },
-  {
-    "code": "74710",
-    "name": "X-ray measurement of pelvis"
-  },
-  {
-    "code": "74712",
-    "name": "Mri fetal sngl/1st gestation"
-  },
-  {
-    "code": "75557",
-    "name": "Cardiac MRI for morph"
-  },
-  {
-    "code": "75559",
-    "name": "Cardiac MRI w/stress img"
-  },
-  {
-    "code": "75561",
-    "name": "Cardiac MRI for morph w/dye"
-  },
-  {
-    "code": "75563",
-    "name": "Card MRI w/stress img & dye"
-  },
-  {
-    "code": "75565",
-    "name": "Card MRI veloc flow mapping"
-  },
-  {
-    "code": "75571",
-    "name": "Ct hrt w/o dye w/ca test"
-  },
-  {
-    "code": "75572",
-    "name": "Ct hrt w/3d image"
-  },
-  {
-    "code": "75573",
-    "name": "Ct hrt w/3d image congen"
-  },
-  {
-    "code": "75574",
-    "name": "Ct angio hrt w/3d image"
-  },
-  {
-    "code": "75635",
-    "name": "Ct angio abdominal arteries"
-  },
-  {
-    "code": "76000",
-    "name": "Fluoroscopy <1 hr phys/qhp"
-  },
-  {
-    "code": "76010",
-    "name": "X-ray nose to rectum"
-  },
-  {
-    "code": "76100",
-    "name": "X-ray exam of body section"
-  },
-  {
-    "code": "76101",
-    "name": "Complex body section x-ray"
-  },
-  {
-    "code": "76102",
-    "name": "Complex body section x-rays"
-  },
-  {
-    "code": "76120",
-    "name": "Cine/video x-rays"
-  },
-  {
-    "code": "76125",
-    "name": "Cine/video x-rays add-on"
-  },
-  {
-    "code": "76376",
-    "name": "3d render w/o postprocess"
-  },
-  {
-    "code": "76377",
-    "name": "3d rendering w/postprocess"
-  },
-  {
-    "code": "76380",
-    "name": "CAT scan follow-up study"
-  },
-  {
-    "code": "76499",
-    "name": "Radiographic procedure"
-  },
-  {
-    "code": "76506",
-    "name": "Echo exam of head"
-  },
-  {
-    "code": "76510",
-    "name": "Ophth us b & quant a"
-  },
-  {
-    "code": "76511",
-    "name": "Ophth us quant a only"
-  },
-  {
-    "code": "76512",
-    "name": "Ophth us b w/non-quant a"
-  },
-  {
-    "code": "76513",
-    "name": "Echo exam of eye water bath"
-  },
-  {
-    "code": "76514",
-    "name": "Echo exam of eye thickness"
-  },
-  {
-    "code": "76516",
-    "name": "Echo exam of eye"
-  },
-  {
-    "code": "76519",
-    "name": "Echo exam of eye"
-  },
-  {
-    "code": "76536",
-    "name": "Us exam of head and neck"
-  },
-  {
-    "code": "76604",
-    "name": "Us exam chest"
-  },
-  {
-    "code": "76641",
-    "name": "Ultrasound breast complete"
-  },
-  {
-    "code": "76642",
-    "name": "Ultrasound breast limited"
-  },
-  {
-    "code": "76700",
-    "name": "Us exam abdom complete"
-  },
-  {
-    "code": "76705",
-    "name": "Echo exam of abdomen"
-  },
-  {
-    "code": "76706",
-    "name": "Us abdl aorta screen aaa"
-  },
-  {
-    "code": "76770",
-    "name": "Us exam abdo back wall comp"
-  },
-  {
-    "code": "76775",
-    "name": "Us exam abdo back wall lim"
-  },
-  {
-    "code": "76776",
-    "name": "Us exam k transpl w/Doppler"
-  },
-  {
-    "code": "76800",
-    "name": "Us exam spinal canal"
-  },
-  {
-    "code": "76801",
-    "name": "Ob us < 14 wks single fetus"
-  },
-  {
-    "code": "76802",
-    "name": "Ob us < 14 wks addl fetus"
-  },
-  {
-    "code": "76805",
-    "name": "Ob us >/= 14 wks sngl fetus"
-  },
-  {
-    "code": "76810",
-    "name": "Ob us >/= 14 wks addl fetus"
-  },
-  {
-    "code": "76811",
-    "name": "Ob us detailed sngl fetus"
-  },
-  {
-    "code": "76812",
-    "name": "Ob us detailed addl fetus"
-  },
-  {
-    "code": "76815",
-    "name": "Ob us limited fetus(s)"
-  },
-  {
-    "code": "76816",
-    "name": "Ob us follow-up per fetus"
-  },
-  {
-    "code": "76818",
-    "name": "Fetal biophys profile w/nst"
-  },
-  {
-    "code": "76819",
-    "name": "Fetal biophys profil w/o nst"
-  },
-  {
-    "code": "76820",
-    "name": "Umbilical artery echo"
-  },
-  {
-    "code": "76821",
-    "name": "Middle cerebral artery echo"
-  },
-  {
-    "code": "76825",
-    "name": "Echo exam of fetal heart"
-  },
-  {
-    "code": "76826",
-    "name": "Echo exam of fetal heart"
-  },
-  {
-    "code": "76827",
-    "name": "Echo exam of fetal heart"
-  },
-  {
-    "code": "76828",
-    "name": "Echo exam of fetal heart"
-  },
-  {
-    "code": "76856",
-    "name": "Us exam pelvic complete"
-  },
-  {
-    "code": "76857",
-    "name": "Us exam pelvic limited"
-  },
-  {
-    "code": "76870",
-    "name": "Us exam scrotum"
-  },
-  {
-    "code": "76881",
-    "name": "Us compl joint r-t w/img"
-  },
-  {
-    "code": "76882",
-    "name": "Us lmtd jt/nonvasc xtr strux"
-  },
-  {
-    "code": "76885",
-    "name": "Us exam infant hips dynamic"
-  },
-  {
-    "code": "76886",
-    "name": "Us exam infant hips static"
-  },
-  {
-    "code": "76970",
-    "name": "Ultrasound exam follow-up"
-  },
-  {
-    "code": "76977",
-    "name": "Us bone density measure"
-  },
-  {
-    "code": "76999",
-    "name": "Echo examination procedure"
-  },
-  {
-    "code": "77058",
-    "name": "Mri one breast"
-  },
-  {
-    "code": "77059",
-    "name": "Mri both breasts"
-  },
-  {
-    "code": "77061",
-    "name": "Breast tomosynthesis uni"
-  },
-  {
-    "code": "77062",
-    "name": "Breast tomosynthesis bi"
-  },
-  {
-    "code": "77063",
-    "name": "Breast tomosynthesis bi"
-  },
-  {
-    "code": "77065",
-    "name": "Dx mammo incl cad uni"
-  },
-  {
-    "code": "77066",
-    "name": "Dx mammo incl cad bi"
-  },
-  {
-    "code": "77067",
-    "name": "Scr mammo bi incl cad"
-  },
-  {
-    "code": "77071",
-    "name": "X-ray stress view"
-  },
-  {
-    "code": "77072",
-    "name": "X-rays for bone age"
-  },
-  {
-    "code": "77073",
-    "name": "X-rays bone length studies"
-  },
-  {
-    "code": "77074",
-    "name": "X-rays bone survey limited"
-  },
-  {
-    "code": "77075",
-    "name": "X-rays bone survey complete"
-  },
-  {
-    "code": "77076",
-    "name": "X-rays bone survey infant"
-  },
-  {
-    "code": "77077",
-    "name": "Joint survey single view"
-  },
-  {
-    "code": "77078",
-    "name": "Ct bone density axial"
-  },
-  {
-    "code": "77080",
-    "name": "Dxa bone density axial"
-  },
-  {
-    "code": "77081",
-    "name": "Dxa bone density/peripheral"
-  },
-  {
-    "code": "77084",
-    "name": "Magnetic image bone marrow"
-  },
-  {
-    "code": "77085",
-    "name": "Dxa bone density study"
-  },
-  {
-    "code": "77086",
-    "name": "Fracture assessment via dxa"
-  },
-  {
-    "code": "78012",
-    "name": "Thyroid uptake measurement"
-  },
-  {
-    "code": "78013",
-    "name": "Thyroid imaging w/blood flow"
-  },
-  {
-    "code": "78014",
-    "name": "Thyroid imaging w/blood flow"
-  },
-  {
-    "code": "78015",
-    "name": "Thyroid met imaging"
-  },
-  {
-    "code": "78016",
-    "name": "Thyroid met imaging/studies"
-  },
-  {
-    "code": "78018",
-    "name": "Thyroid met imaging body"
-  },
-  {
-    "code": "78020",
-    "name": "Thyroid met uptake"
-  },
-  {
-    "code": "78070",
-    "name": "Parathyroid nuclear imaging"
-  },
-  {
-    "code": "78071",
-    "name": "Parathyrd planar w/wo subtrj"
-  },
-  {
-    "code": "78072",
-    "name": "Parathyrd planar w/spect&ct"
-  },
-  {
-    "code": "78075",
-    "name": "Adrenal nuclear imaging"
-  },
-  {
-    "code": "78099",
-    "name": "Endocrine nuclear procedure"
-  },
-  {
-    "code": "78102",
-    "name": "Bone marrow imaging ltd"
-  },
-  {
-    "code": "78103",
-    "name": "Bone marrow imaging mult"
-  },
-  {
-    "code": "78104",
-    "name": "Bone marrow imaging body"
-  },
-  {
-    "code": "78135",
-    "name": "Red cell survival kinetics"
-  },
-  {
-    "code": "78140",
-    "name": "Red cell sequestration"
-  },
-  {
-    "code": "78185",
-    "name": "Spleen imaging"
-  },
-  {
-    "code": "78195",
-    "name": "Lymph system imaging"
-  },
-  {
-    "code": "78199",
-    "name": "Blood/lymph nuclear exam"
-  },
-  {
-    "code": "78201",
-    "name": "Liver imaging"
-  },
-  {
-    "code": "78202",
-    "name": "Liver imaging with flow"
-  },
-  {
-    "code": "78205",
-    "name": "Liver imaging (3D)"
-  },
-  {
-    "code": "78206",
-    "name": "Liver image (3d) with flow"
-  },
-  {
-    "code": "78215",
-    "name": "Liver and spleen imaging"
-  },
-  {
-    "code": "78216",
-    "name": "Liver & spleen image/flow"
-  },
-  {
-    "code": "78226",
-    "name": "Hepatobiliary system imaging"
-  },
-  {
-    "code": "78227",
-    "name": "Hepatobil syst image w/drug"
-  },
-  {
-    "code": "78230",
-    "name": "Salivary gland imaging"
-  },
-  {
-    "code": "78231",
-    "name": "Serial salivary imaging"
-  },
-  {
-    "code": "78232",
-    "name": "Salivary gland function exam"
-  },
-  {
-    "code": "78258",
-    "name": "Esophageal motility study"
-  },
-  {
-    "code": "78261",
-    "name": "Gastric mucosa imaging"
-  },
-  {
-    "code": "78262",
-    "name": "Gastroesophageal reflux exam"
-  },
-  {
-    "code": "78264",
-    "name": "Gastric emptying study"
-  },
-  {
-    "code": "78265",
-    "name": "Gastric emptying imag study"
-  },
-  {
-    "code": "78266",
-    "name": "Gastric emptying imag study"
-  },
-  {
-    "code": "78278",
-    "name": "Acute GI blood loss imaging"
-  },
-  {
-    "code": "78282",
-    "name": "GI protein loss exam"
-  },
-  {
-    "code": "78290",
-    "name": "Meckels divert exam"
-  },
-  {
-    "code": "78291",
-    "name": "Leveen/shunt patency exam"
-  },
-  {
-    "code": "78299",
-    "name": "GI nuclear procedure"
-  },
-  {
-    "code": "78300",
-    "name": "Bone imaging limited area"
-  },
-  {
-    "code": "78305",
-    "name": "Bone imaging multiple areas"
-  },
-  {
-    "code": "78306",
-    "name": "Bone imaging whole body"
-  },
-  {
-    "code": "78315",
-    "name": "Bone imaging 3 phase"
-  },
-  {
-    "code": "78320",
-    "name": "Bone imaging (3D)"
-  },
-  {
-    "code": "78399",
-    "name": "Musculoskeletal nuclear exam"
-  },
-  {
-    "code": "78428",
-    "name": "Cardiac shunt imaging"
-  },
-  {
-    "code": "78445",
-    "name": "Vascular flow imaging"
-  },
-  {
-    "code": "78451",
-    "name": "Ht muscle image spect sing"
-  },
-  {
-    "code": "78452",
-    "name": "Ht muscle image spect mult"
-  },
-  {
-    "code": "78453",
-    "name": "Ht muscle image planar sing"
-  },
-  {
-    "code": "78454",
-    "name": "Ht musc image planar mult"
-  },
-  {
-    "code": "78456",
-    "name": "Acute venous thrombus image"
-  },
-  {
-    "code": "78457",
-    "name": "Venous thrombosis imaging"
-  },
-  {
-    "code": "78458",
-    "name": "Ven thrombosis images bilat"
-  },
-  {
-    "code": "78459",
-    "name": "Heart muscle imaging (PET)"
-  },
-  {
-    "code": "78466",
-    "name": "Heart infarct image"
-  },
-  {
-    "code": "78468",
-    "name": "Heart infarct image (ef)"
-  },
-  {
-    "code": "78469",
-    "name": "Heart infarct image (3D)"
-  },
-  {
-    "code": "78472",
-    "name": "Gated heart planar single"
-  },
-  {
-    "code": "78473",
-    "name": "Gated heart multiple"
-  },
-  {
-    "code": "78481",
-    "name": "Heart first pass single"
-  },
-  {
-    "code": "78483",
-    "name": "Heart first pass multiple"
-  },
-  {
-    "code": "78491",
-    "name": "Heart image (pet) single"
-  },
-  {
-    "code": "78492",
-    "name": "Heart image (pet) multiple"
-  },
-  {
-    "code": "78494",
-    "name": "Heart image spect"
-  },
-  {
-    "code": "78496",
-    "name": "Heart first pass add-on"
-  },
-  {
-    "code": "78499",
-    "name": "Cardiovascular nuclear exam"
-  },
-  {
-    "code": "78579",
-    "name": "Lung ventilation imaging"
-  },
-  {
-    "code": "78580",
-    "name": "Lung perfusion imaging"
-  },
-  {
-    "code": "78582",
-    "name": "Lung ventilat&perfus imaging"
-  },
-  {
-    "code": "78597",
-    "name": "Lung perfusion differential"
-  },
-  {
-    "code": "78598",
-    "name": "Lung perf&ventilat diferentl"
-  },
-  {
-    "code": "78599",
-    "name": "Respiratory nuclear exam"
-  },
-  {
-    "code": "78600",
-    "name": "Brain image < 4 views"
-  },
-  {
-    "code": "78601",
-    "name": "Brain image w/flow < 4 views"
-  },
-  {
-    "code": "78605",
-    "name": "Brain image 4+ views"
-  },
-  {
-    "code": "78606",
-    "name": "Brain image w/flow 4 + views"
-  },
-  {
-    "code": "78607",
-    "name": "Brain imaging (3D)"
-  },
-  {
-    "code": "78608",
-    "name": "Brain imaging (PET)"
-  },
-  {
-    "code": "78610",
-    "name": "Brain flow imaging only"
-  },
-  {
-    "code": "78630",
-    "name": "Cerebrospinal fluid scan"
-  },
-  {
-    "code": "78635",
-    "name": "CSF ventriculography"
-  },
-  {
-    "code": "78645",
-    "name": "CSF shunt evaluation"
-  },
-  {
-    "code": "78647",
-    "name": "Cerebrospinal fluid scan"
-  },
-  {
-    "code": "78650",
-    "name": "CSF leakage imaging"
-  },
-  {
-    "code": "78660",
-    "name": "Nuclear exam of tear flow"
-  },
-  {
-    "code": "78699",
-    "name": "Nervous system nuclear exam"
-  },
-  {
-    "code": "78700",
-    "name": "Kidney imaging morphol"
-  },
-  {
-    "code": "78701",
-    "name": "Kidney imaging with flow"
-  },
-  {
-    "code": "78707",
-    "name": "K flow/funct image w/o drug"
-  },
-  {
-    "code": "78708",
-    "name": "K flow/funct image w/drug"
-  },
-  {
-    "code": "78709",
-    "name": "K flow/funct image multiple"
-  },
-  {
-    "code": "78710",
-    "name": "Kidney imaging (3D)"
-  },
-  {
-    "code": "78730",
-    "name": "Urinary bladder retention"
-  },
-  {
-    "code": "78740",
-    "name": "Ureteral reflux study"
-  },
-  {
-    "code": "78761",
-    "name": "Testicular imaging w/flow"
-  },
-  {
-    "code": "78799",
-    "name": "Genitourinary nuclear exam"
-  },
-  {
-    "code": "78800",
-    "name": "Tumor imaging limited area"
-  },
-  {
-    "code": "78801",
-    "name": "Tumor imaging mult areas"
-  },
-  {
-    "code": "78802",
-    "name": "Tumor imaging whole body"
-  },
-  {
-    "code": "78803",
-    "name": "Tumor imaging (3D)"
-  },
-  {
-    "code": "78804",
-    "name": "Tumor imaging whole body"
-  },
-  {
-    "code": "78805",
-    "name": "Abscess imaging ltd area"
-  },
-  {
-    "code": "78806",
-    "name": "Abscess imaging whole body"
-  },
-  {
-    "code": "78807",
-    "name": "Nuclear localization/abscess"
-  },
-  {
-    "code": "78811",
-    "name": "PET image ltd area"
-  },
-  {
-    "code": "78812",
-    "name": "PET image skull-thigh"
-  },
-  {
-    "code": "78813",
-    "name": "PET image full body"
-  },
-  {
-    "code": "78814",
-    "name": "PET image w/ct lmtd"
-  },
-  {
-    "code": "78815",
-    "name": "PET image w/ct skull-thigh"
-  },
-  {
-    "code": "78816",
-    "name": "PET image w/ct full body"
-  },
-  {
-    "code": "78999",
-    "name": "Nuclear diagnostic exam"
-  },
-  {
-    "code": "91110",
-    "name": "Gi tract capsule endoscopy"
-  },
-  {
-    "code": "91111",
-    "name": "Esophageal capsule endoscopy"
-  },
-  {
-    "code": "92132",
-    "name": "Cpmtr ophth dx img ant segmt"
-  },
-  {
-    "code": "92133",
-    "name": "Cmptr ophth img optic nerve"
-  },
-  {
-    "code": "92134",
-    "name": "Cptr ophth dx img post segmt"
-  },
-  {
-    "code": "92227",
-    "name": "Remote dx retinal imaging"
-  },
-  {
-    "code": "92228",
-    "name": "Remote retinal imaging mgmt"
-  },
-  {
-    "code": "93303",
-    "name": "Echo transthoracic"
-  },
-  {
-    "code": "93304",
-    "name": "Echo transthoracic"
-  },
-  {
-    "code": "93306",
-    "name": "TTE w/Doppler complete"
-  },
-  {
-    "code": "93307",
-    "name": "TTE w/o Doppler complete"
-  },
-  {
-    "code": "93308",
-    "name": "TTE f-up or lmtd"
-  },
-  {
-    "code": "93875",
-    "name": "Extracranial study"
-  },
-  {
-    "code": "93880",
-    "name": "Extracranial study"
-  },
-  {
-    "code": "93882",
-    "name": "Extracranial study"
-  },
-  {
-    "code": "93886",
-    "name": "Intracranial study"
-  },
-  {
-    "code": "93888",
-    "name": "Intracranial study"
-  },
-  {
-    "code": "93890",
-    "name": "Tcd vasoreactivity study"
-  },
-  {
-    "code": "93892",
-    "name": "Tcd emboli detect w/o inj"
-  },
-  {
-    "code": "93922",
-    "name": "Upr/l xtremity art 2 levels"
-  },
-  {
-    "code": "93923",
-    "name": "Upr/lxtr art stdy 3+ lvls"
-  },
-  {
-    "code": "93924",
-    "name": "Lwr xtr vasc stdy bilat"
-  },
-  {
-    "code": "93925",
-    "name": "Lower extremity study"
-  },
-  {
-    "code": "93926",
-    "name": "Lower extremity study"
-  },
-  {
-    "code": "93930",
-    "name": "Upper extremity study"
-  },
-  {
-    "code": "93931",
-    "name": "Upper extremity study"
-  },
-  {
-    "code": "93965",
-    "name": "Extremity study"
-  },
-  {
-    "code": "93970",
-    "name": "Extremity study"
-  },
-  {
-    "code": "93971",
-    "name": "Extremity study"
-  },
-  {
-    "code": "93975",
-    "name": "Vascular study"
-  },
-  {
-    "code": "93976",
-    "name": "Vascular study"
-  },
-  {
-    "code": "93978",
-    "name": "Vascular study"
-  },
-  {
-    "code": "93979",
-    "name": "Vascular study"
-  },
-  {
-    "code": "93980",
-    "name": "Penile vascular study"
-  },
-  {
-    "code": "93981",
-    "name": "Penile vascular study"
-  },
-  {
-    "code": "93990",
-    "name": "Doppler flow testing"
-  },
-  {
-    "code": "93998",
-    "name": "Noninvas vasc dx study proc"
-  },
-  {
-    "code": "97610",
-    "name": "Low frequency non-thermal US"
-  },
-  {
-    "code": "A4641",
-    "name": "Radiopharm dx agent noc"
-  },
-  {
-    "code": "A4642",
-    "name": "In111 satumomab"
-  },
-  {
-    "code": "A9500",
-    "name": "Tc99m sestamibi"
-  },
-  {
-    "code": "A9501",
-    "name": "Technetium TC-99m teboroxime"
-  },
-  {
-    "code": "A9502",
-    "name": "Tc99m tetrofosmin"
-  },
-  {
-    "code": "A9503",
-    "name": "Tc99m medronate"
-  },
-  {
-    "code": "A9504",
-    "name": "Tc99m apcitide"
-  },
-  {
-    "code": "A9505",
-    "name": "TL201 thallium"
-  },
-  {
-    "code": "A9507",
-    "name": "In111 capromab"
-  },
-  {
-    "code": "A9508",
-    "name": "I131 iodobenguate, dx"
-  },
-  {
-    "code": "A9509",
-    "name": "Iodine I-123 sod iodide mil"
-  },
-  {
-    "code": "A9510",
-    "name": "Tc99m disofenin"
-  },
-  {
-    "code": "A9512",
-    "name": "Tc99m pertechnetate"
-  },
-  {
-    "code": "A9515",
-    "name": "Choline c-11"
-  },
-  {
-    "code": "A9516",
-    "name": "Iodine I-123 sod iodide mic"
-  },
-  {
-    "code": "A9521",
-    "name": "Tc99m exametazime"
-  },
-  {
-    "code": "A9524",
-    "name": "I131 serum albumin, dx"
-  },
-  {
-    "code": "A9526",
-    "name": "Nitrogen N-13 ammonia"
-  },
-  {
-    "code": "A9528",
-    "name": "Iodine I-131 iodide cap, dx"
-  },
-  {
-    "code": "A9529",
-    "name": "I131 iodide sol, dx"
-  },
-  {
-    "code": "A9531",
-    "name": "I131 max 100uCi"
-  },
-  {
-    "code": "A9532",
-    "name": "I125 serum albumin, dx"
-  },
-  {
-    "code": "A9536",
-    "name": "TC99m depreotide"
-  },
-  {
-    "code": "A9537",
-    "name": "Tc99m mebrofenin"
-  },
-  {
-    "code": "A9538",
-    "name": "Tc99m pyrophosphate"
-  },
-  {
-    "code": "A9542",
-    "name": "In111 ibritumomab, dx"
-  },
-  {
-    "code": "A9546",
-    "name": "CO57/58"
-  },
-  {
-    "code": "A9547",
-    "name": "In111 oxyquinoline"
-  },
-  {
-    "code": "A9548",
-    "name": "In111 pentetate"
-  },
-  {
-    "code": "A9550",
-    "name": "Tc99m gluceptate"
-  },
-  {
-    "code": "A9551",
-    "name": "Tc99m succimer"
-  },
-  {
-    "code": "A9552",
-    "name": "F18 fdg"
-  },
-  {
-    "code": "A9553",
-    "name": "Cr51 chromate"
-  },
-  {
-    "code": "A9554",
-    "name": "I125 iothalamate, dx"
-  },
-  {
-    "code": "A9555",
-    "name": "Rb82 rubidium"
-  },
-  {
-    "code": "A9556",
-    "name": "Ga67 gallium"
-  },
-  {
-    "code": "A9557",
-    "name": "Tc99m bicisate"
-  },
-  {
-    "code": "A9558",
-    "name": "Xe133 xenon 10mci"
-  },
-  {
-    "code": "A9559",
-    "name": "Co57 cyano"
-  },
-  {
-    "code": "A9560",
-    "name": "Tc99m labeled rbc"
-  },
-  {
-    "code": "A9561",
-    "name": "Tc99m oxidronate"
-  },
-  {
-    "code": "A9562",
-    "name": "Tc99m mertiatide"
-  },
-  {
-    "code": "A9566",
-    "name": "Tc99m fanolesomab"
-  },
-  {
-    "code": "A9567",
-    "name": "Technetium TC-99m aerosol"
-  },
-  {
-    "code": "A9568",
-    "name": "Technetium tc99m arcitumomab"
-  },
-  {
-    "code": "A9569",
-    "name": "Technetium TC-99m auto WBC"
-  },
-  {
-    "code": "A9570",
-    "name": "Indium In-111 auto WBC"
-  },
-  {
-    "code": "A9571",
-    "name": "Indium In-111 auto platelet"
-  },
-  {
-    "code": "A9572",
-    "name": "Indium In-111 pentetreotide"
-  },
-  {
-    "code": "A9576",
-    "name": "Inj prohance multipack"
-  },
-  {
-    "code": "A9577",
-    "name": "Inj multihance"
-  },
-  {
-    "code": "A9578",
-    "name": "Inj multihance multipack"
-  },
-  {
-    "code": "A9579",
-    "name": "Gad-base MR contrast NOS,1ml"
-  },
-  {
-    "code": "A9580",
-    "name": "Sodium fluoride F-18"
-  },
-  {
-    "code": "A9584",
-    "name": "Iodine I-123 ioflupane"
-  },
-  {
-    "code": "A9586",
-    "name": "Florbetapir F18"
-  },
-  {
-    "code": "A9587",
-    "name": "Gallium Ga-68"
-  },
-  {
-    "code": "A9588",
-    "name": "Fluciclovine F-18"
-  },
-  {
-    "code": "A9597",
-    "name": "Pet, dx, for tumor id, noc"
-  },
-  {
-    "code": "A9598",
-    "name": "Pet dx for non-tumor id, noc"
-  },
-  {
-    "code": "A9700",
-    "name": "Echocardiography contrast"
-  },
-  {
-    "code": "A9520",
-    "name": "Tc99 Tilmanocept diag 0.5mci"
-  },
-  {
-    "code": "C9457",
-    "name": "Lumason contrast agent"
-  },
-  {
-    "code": "C9461",
-    "name": "Choline C 11, diagnostic"
-  },
-  {
-    "code": "C9734",
-    "name": "U/S trtmt, not leiomyomata"
-  },
-  {
-    "code": "C9744",
-    "name": "Abd us w/contrast"
-  },
-  {
-    "code": "G0130",
-    "name": "Single energy x-ray study"
-  },
-  {
-    "code": "G0279",
-    "name": "Tomosynthesis, mammo screen"
-  },
-  {
-    "code": "G0288",
-    "name": "Recon, CTA for surg plan"
-  },
-  {
-    "code": "G0297",
-    "name": "LDCT for Lung CA screen"
-  },
-  {
-    "code": "G0389",
-    "name": "Ultrasound exam AAA screen"
-  },
-  {
-    "code": "Q0092",
-    "name": "Set up port xray equipment"
-  },
-  {
-    "code": "Q9951",
-    "name": "LOCM>=400 mg/ml iodine,1ml"
-  },
-  {
-    "code": "Q9953",
-    "name": "Inj Fe-based MR contrast,1ml"
-  },
-  {
-    "code": "Q9954",
-    "name": "Oral MR contrast, 100ml"
-  },
-  {
-    "code": "Q9955",
-    "name": "Inj perflexane lip micros,ml"
-  },
-  {
-    "code": "Q9956",
-    "name": "Inj octafluoropropane mic,ml"
-  },
-  {
-    "code": "Q9957",
-    "name": "Inj perflutren lip micros,ml"
-  },
-  {
-    "code": "Q9958",
-    "name": "HOCM <=149 mg/ml iodine, 1ml"
-  },
-  {
-    "code": "Q9959",
-    "name": "HOCM 150-199mg/ml iodine,1ml"
-  },
-  {
-    "code": "Q9960",
-    "name": "HOCM 200-249mg/ml iodine,1ml"
-  },
-  {
-    "code": "Q9961",
-    "name": "HOCM 250-299mg/ml iodine,1ml"
-  },
-  {
-    "code": "Q9962",
-    "name": "HOCM 300-349mg/ml iodine,1ml"
-  },
-  {
-    "code": "Q9963",
-    "name": "HOCM 350-399mg/ml iodine,1ml"
-  },
-  {
-    "code": "Q9964",
-    "name": "HOCM>= 400mg/ml iodine, 1ml"
-  },
-  {
-    "code": "Q9965",
-    "name": "LOCM 100-199mg/ml iodine,1ml"
-  },
-  {
-    "code": "Q9966",
-    "name": "LOCM 200-299mg/ml iodine,1ml"
-  },
-  {
-    "code": "Q9967",
-    "name": "LOCM 300-399mg/ml iodine,1ml"
-  },
-  {
-    "code": "Q9982",
-    "name": "Flutemetamol f18 diagnostic"
-  },
-  {
-    "code": "Q9983",
-    "name": "Florbetaben f18 diagnostic"
-  },
-  {
-    "code": "R0070",
-    "name": "Transport portable x-ray"
-  },
-  {
-    "code": "0190T",
-    "name": "Place intraoc radiation src"
-  },
-  {
-    "code": "0394T",
-    "name": "Hdr elctrnc skn surf brchytx"
-  },
-  {
-    "code": "0395T",
-    "name": "Hdr elctr ntrst/ntrcv brchtx"
-  },
-  {
-    "code": "19296",
-    "name": "Place po breast cath for rad"
-  },
-  {
-    "code": "19297",
-    "name": "Place breast cath for rad"
-  },
-  {
-    "code": "19298",
-    "name": "Place breast rad tube/caths"
-  },
-  {
-    "code": "20555",
-    "name": "Place ndl musc/tis for rt"
-  },
-  {
-    "code": "31643",
-    "name": "Diag bronchoscope/catheter"
-  },
-  {
-    "code": "32553",
-    "name": "Ins mark thor for rt perq"
-  },
-  {
-    "code": "32701",
-    "name": "Thorax stereo rad targetw/tx"
-  },
-  {
-    "code": "41019",
-    "name": "Place needles h&n for rt"
-  },
-  {
-    "code": "49327",
-    "name": "Lap ins device for rt"
-  },
-  {
-    "code": "49411",
-    "name": "Ins mark abd/pel for rt perq"
-  },
-  {
-    "code": "49412",
-    "name": "Ins device for rt guide open"
-  },
-  {
-    "code": "55875",
-    "name": "Transperi needle place pros"
-  },
-  {
-    "code": "55876",
-    "name": "Place rt device/marker pros"
-  },
-  {
-    "code": "55920",
-    "name": "Place needles pelvic for rt"
-  },
-  {
-    "code": "57155",
-    "name": "Insert uteri tandems/ovoids"
-  },
-  {
-    "code": "57156",
-    "name": "Ins vag brachytx device"
-  },
-  {
-    "code": "58346",
-    "name": "Insert heyman uteri capsule"
-  },
-  {
-    "code": "61770",
-    "name": "Incise skull for treatment"
-  },
-  {
-    "code": "61796",
-    "name": "SRS cranial lesion simple"
-  },
-  {
-    "code": "61797",
-    "name": "SRS cran les simple addl"
-  },
-  {
-    "code": "61798",
-    "name": "SRS cranial lesion complex"
-  },
-  {
-    "code": "61799",
-    "name": "SRS cran les complex addl"
-  },
-  {
-    "code": "61800",
-    "name": "Apply SRS headframe add-on"
-  },
-  {
-    "code": "63620",
-    "name": "SRS spinal lesion"
-  },
-  {
-    "code": "63621",
-    "name": "SRS spinal lesion addl"
-  },
-  {
-    "code": "77261",
-    "name": "Radiation therapy planning"
-  },
-  {
-    "code": "77262",
-    "name": "Radiation therapy planning"
-  },
-  {
-    "code": "77263",
-    "name": "Radiation therapy planning"
-  },
-  {
-    "code": "77280",
-    "name": "Set radiation therapy field"
-  },
-  {
-    "code": "77285",
-    "name": "Set radiation therapy field"
-  },
-  {
-    "code": "77290",
-    "name": "Set radiation therapy field"
-  },
-  {
-    "code": "77295",
-    "name": "Set radiation therapy field"
-  },
-  {
-    "code": "77299",
-    "name": "Radiation therapy planning"
-  },
-  {
-    "code": "77300",
-    "name": "Radiation therapy dose plan"
-  },
-  {
-    "code": "77301",
-    "name": "Radiotherapy dose plan imrt"
-  },
-  {
-    "code": "77306",
-    "name": "Telethx isodose plan simple"
-  },
-  {
-    "code": "77307",
-    "name": "Telethx isodose plan cplx"
-  },
-  {
-    "code": "77316",
-    "name": "Brachytx isodose plan simple"
-  },
-  {
-    "code": "77317",
-    "name": "Brachytx isodose intermed"
-  },
-  {
-    "code": "77318",
-    "name": "Brachytx isodose complex"
-  },
-  {
-    "code": "77321",
-    "name": "Special teletx port plan"
-  },
-  {
-    "code": "77331",
-    "name": "Special radiation dosimetry"
-  },
-  {
-    "code": "77332",
-    "name": "Radiation treatment aid(s)"
-  },
-  {
-    "code": "77333",
-    "name": "Radiation treatment aid(s)"
-  },
-  {
-    "code": "77334",
-    "name": "Radiation treatment aid(s)"
-  },
-  {
-    "code": "77336",
-    "name": "Radiation physics consult"
-  },
-  {
-    "code": "77338",
-    "name": "Design mlc device for imrt"
-  },
-  {
-    "code": "77370",
-    "name": "Radiation physics consult"
-  },
-  {
-    "code": "77371",
-    "name": "Srs multisource"
-  },
-  {
-    "code": "77372",
-    "name": "Srs linear based"
-  },
-  {
-    "code": "77373",
-    "name": "Sbrt delivery"
-  },
-  {
-    "code": "77385",
-    "name": "Ntsty modul rad tx dlvr smpl"
-  },
-  {
-    "code": "77386",
-    "name": "Ntsty modul rad tx dlvr cplx"
-  },
-  {
-    "code": "77399",
-    "name": "External radiation dosimetry"
-  },
-  {
-    "code": "77401",
-    "name": "Radiation treatment delivery"
-  },
-  {
-    "code": "77402",
-    "name": "Radiation treatment delivery"
-  },
-  {
-    "code": "77407",
-    "name": "Radiation treatment delivery"
-  },
-  {
-    "code": "77412",
-    "name": "Radiation treatment delivery"
-  },
-  {
-    "code": "77417",
-    "name": "Radiology port film(s)"
-  },
-  {
-    "code": "77423",
-    "name": "Neutron beam tx complex"
-  },
-  {
-    "code": "77427",
-    "name": "Radiation tx management x5"
-  },
-  {
-    "code": "77431",
-    "name": "Radiation therapy management"
-  },
-  {
-    "code": "77432",
-    "name": "Stereotactic radiation trmt"
-  },
-  {
-    "code": "77435",
-    "name": "Sbrt management"
-  },
-  {
-    "code": "77470",
-    "name": "Special radiation treatment"
-  },
-  {
-    "code": "77499",
-    "name": "Radiation therapy management"
-  },
-  {
-    "code": "77520",
-    "name": "Proton trmt simple w/o comp"
-  },
-  {
-    "code": "77522",
-    "name": "Proton trmt simple w/comp"
-  },
-  {
-    "code": "77523",
-    "name": "Proton trmt intermediate"
-  },
-  {
-    "code": "77525",
-    "name": "Proton treatment complex"
-  },
-  {
-    "code": "77600",
-    "name": "Hyperthermia treatment"
-  },
-  {
-    "code": "77605",
-    "name": "Hyperthermia treatment"
-  },
-  {
-    "code": "77610",
-    "name": "Hyperthermia treatment"
-  },
-  {
-    "code": "77615",
-    "name": "Hyperthermia treatment"
-  },
-  {
-    "code": "77620",
-    "name": "Hyperthermia treatment"
-  },
-  {
-    "code": "77750",
-    "name": "Infuse radioactive materials"
-  },
-  {
-    "code": "77761",
-    "name": "Apply intrcav radiat simple"
-  },
-  {
-    "code": "77762",
-    "name": "Apply intrcav radiat interm"
-  },
-  {
-    "code": "77763",
-    "name": "Apply intrcav radiat compl"
-  },
-  {
-    "code": "77767",
-    "name": "Hdr rdncl skn surf brachytx"
-  },
-  {
-    "code": "77768",
-    "name": "Hdr rdncl skn surf brachytx"
-  },
-  {
-    "code": "77770",
-    "name": "Hdr rdncl ntrstl/icav brchtx"
-  },
-  {
-    "code": "77771",
-    "name": "Hdr rdncl ntrstl/icav brchtx"
-  },
-  {
-    "code": "77772",
-    "name": "Hdr rdncl ntrstl/icav brchtx"
-  },
-  {
-    "code": "77776",
-    "name": "Apply interstit radiat simpl"
-  },
-  {
-    "code": "77778",
-    "name": "Apply interstit radiat compl"
-  },
-  {
-    "code": "77785",
-    "name": "HDR brachytx 1 channel"
-  },
-  {
-    "code": "77786",
-    "name": "HDR brachytx 2-12 channel"
-  },
-  {
-    "code": "77789",
-    "name": "Apply surface radiation"
-  },
-  {
-    "code": "77790",
-    "name": "Radiation handling"
-  },
-  {
-    "code": "77799",
-    "name": "Radium/radioisotope therapy"
-  },
-  {
-    "code": "79005",
-    "name": "Nuclear rx oral admin"
-  },
-  {
-    "code": "79101",
-    "name": "Nuclear rx iv admin"
-  },
-  {
-    "code": "79200",
-    "name": "Nuclear rx intracav admin"
-  },
-  {
-    "code": "79300",
-    "name": "Nuclr rx interstit colloid"
-  },
-  {
-    "code": "79403",
-    "name": "Hematopoietic nuclear tx"
-  },
-  {
-    "code": "79440",
-    "name": "Nuclear rx intra-articular"
-  },
-  {
-    "code": "79445",
-    "name": "Nuclear rx intra-arterial"
-  },
-  {
-    "code": "79999",
-    "name": "Nuclear medicine therapy"
-  },
-  {
-    "code": "92974",
-    "name": "Cath place cardio brachytx"
-  },
-  {
-    "code": "A4650",
-    "name": "Implant radiation dosimeter"
-  },
-  {
-    "code": "A9517",
-    "name": "I131 iodide cap, rx"
-  },
-  {
-    "code": "A9527",
-    "name": "Iodine I-125 sodium iodide"
-  },
-  {
-    "code": "A9530",
-    "name": "I131 iodide sol, rx"
-  },
-  {
-    "code": "A9543",
-    "name": "Y90 ibritumomab, rx"
-  },
-  {
-    "code": "A9563",
-    "name": "P32 Na phosphate"
-  },
-  {
-    "code": "A9564",
-    "name": "P32 chromic phosphate"
-  },
-  {
-    "code": "A9600",
-    "name": "Sr89 strontium"
-  },
-  {
-    "code": "A9604",
-    "name": "Sm 153 lexidronam"
-  },
-  {
-    "code": "A9606",
-    "name": "Radium Ra223 dichloride ther"
-  },
-  {
-    "code": "A9699",
-    "name": "Radiopharm rx agent noc"
-  },
-  {
-    "code": "C1716",
-    "name": "Brachytx, non-str, Gold-198"
-  },
-  {
-    "code": "C1717",
-    "name": "Brachytx, non-str,HDR Ir-192"
-  },
-  {
-    "code": "C1719",
-    "name": "Brachytx, NS, Non-HDRIr-192"
-  },
-  {
-    "code": "C2616",
-    "name": "Brachytx, non-str,Yttrium-90"
-  },
-  {
-    "code": "C2634",
-    "name": "Brachytx, non-str, HA, I-125"
-  },
-  {
-    "code": "C2635",
-    "name": "Brachytx, non-str, HA, P-103"
-  },
-  {
-    "code": "C2636",
-    "name": "Brachy linear, non-str,P-103"
-  },
-  {
-    "code": "C2638",
-    "name": "Brachytx, stranded, I-125"
-  },
-  {
-    "code": "C2639",
-    "name": "Brachytx,non-stranded,I-125"
-  },
-  {
-    "code": "C2640",
-    "name": "Brachytx, stranded, P-103"
-  },
-  {
-    "code": "C2641",
-    "name": "Brachytx, non-stranded,P-103"
-  },
-  {
-    "code": "C2642",
-    "name": "Brachytx, stranded, C-131"
-  },
-  {
-    "code": "C2643",
-    "name": "Brachytx, non-stranded,C-131"
-  },
-  {
-    "code": "C2644",
-    "name": "Brachytx cesium-131 chloride"
-  },
-  {
-    "code": "C2645",
-    "name": "Brachytx planar, p-103"
-  },
-  {
-    "code": "C2698",
-    "name": "Brachytx, stranded, NOS"
-  },
-  {
-    "code": "C2699",
-    "name": "Brachytx, non-stranded, NOS"
-  },
-  {
-    "code": "C9734",
-    "name": "U/S trtmt, not leiomyomata"
-  },
-  {
-    "code": "G0173",
-    "name": "Linear acc stereo radsur com"
-  },
-  {
-    "code": "G0251",
-    "name": "Linear acc based stero radio"
-  },
-  {
-    "code": "G0339",
-    "name": "Robot lin-radsurg com, first"
-  },
-  {
-    "code": "G0340",
-    "name": "Robt lin-radsurg fractx 2-5"
-  },
-  {
-    "code": "G6001",
-    "name": "Echo guidance radiotherapy"
-  },
-  {
-    "code": "G6002",
-    "name": "Stereoscopic x-ray guidance"
-  },
-  {
-    "code": "G6003",
-    "name": "Radiation treatment delivery"
-  },
-  {
-    "code": "G6004",
-    "name": "Radiation treatment delivery"
-  },
-  {
-    "code": "G6005",
-    "name": "Radiation treatment delivery"
-  },
-  {
-    "code": "G6006",
-    "name": "Radiation treatment delivery"
-  },
-  {
-    "code": "G6007",
-    "name": "Radiation treatment delivery"
-  },
-  {
-    "code": "G6008",
-    "name": "Radiation treatment delivery"
-  },
-  {
-    "code": "G6009",
-    "name": "Radiation treatment delivery"
-  },
-  {
-    "code": "G6010",
-    "name": "Radiation treatment delivery"
-  },
-  {
-    "code": "G6011",
-    "name": "Radiation treatment delivery"
-  },
-  {
-    "code": "G6012",
-    "name": "Radiation treatment delivery"
-  },
-  {
-    "code": "G6013",
-    "name": "Radiation treatment delivery"
-  },
-  {
-    "code": "G6014",
-    "name": "Radiation treatment delivery"
-  },
-  {
-    "code": "G6015",
-    "name": "Radiation tx delivery imrt"
-  },
-  {
-    "code": "G6016",
-    "name": "Delivery comp imrt"
-  },
-  {
-    "code": "G6017",
-    "name": "Intrafraction track motion"
-  },
-  {
-    "code": "Q3001",
-    "name": "Brachytherapy Radioelements"
-  },
-  {
-    "code": "77063",
-    "name": "Breast tomosynthesis bi"
-  },
-  {
-    "code": "77067",
-    "name": "Scr mammo bi incl cad"
-  },
+  { "code": "86152", "name": "Cell enumeration" },
+  { "code": "86153", "name": "Cell enumeration phys interp" },
+  { "code": "86890", "name": "Autologous blood process" },
+  { "code": "86891", "name": "Autologous blood op salvage" },
+  { "code": "86927", "name": "Plasma fresh frozen" },
+  { "code": "86930", "name": "Frozen blood prep" },
+  { "code": "86931", "name": "Frozen blood thaw" },
+  { "code": "86932", "name": "Frozen blood freeze/thaw" },
+  { "code": "86945", "name": "Blood product/irradiation" },
+  { "code": "86950", "name": "Leukacyte transfusion" },
+  { "code": "86960", "name": "Vol reduction of blood/prod" },
+  { "code": "86965", "name": "Pooling blood platelets" },
+  { "code": "0008M", "name": "Onc breast risk score" },
+  { "code": "0357T", "name": "Cryopreservation oocyte(s)" },
+  { "code": "0058T", "name": "Cryopreservation ovary tiss" },
+  { "code": "0111T", "name": "RBC membranes fatty acids" },
+  { "code": "36415", "name": "Routine venipuncture" },
+  { "code": "78110", "name": "Plasma volume single" },
+  { "code": "78111", "name": "Plasma volume multiple" },
+  { "code": "78120", "name": "Red cell mass single" },
+  { "code": "78121", "name": "Red cell mass multiple" },
+  { "code": "78122", "name": "Blood volume" },
+  { "code": "78130", "name": "Red cell survival study" },
+  { "code": "78191", "name": "Platelet survival" },
+  { "code": "78267", "name": "Breath tst attain/anal c-14" },
+  { "code": "78268", "name": "Breath test analysis c-14" },
+  { "code": "78270", "name": "Vit B-12 absorption exam" },
+  { "code": "78271", "name": "Vit B-12 absrp exam int fac" },
+  { "code": "78272", "name": "Vit B-12 absorp combined" },
+  { "code": "78725", "name": "Kidney function study" },
+  { "code": "G0027", "name": "Semen analysis" },
+  { "code": "G0103", "name": "Psa screening" },
+  { "code": "G0123", "name": "Screen cerv/vag thin layer" },
+  { "code": "G0124", "name": "Screen c/v thin layer by MD" },
+  { "code": "G0141", "name": "Scr c/v cyto,autosys and md" },
+  { "code": "G0143", "name": "Scr c/v cyto,thinlayer,rescr" },
+  { "code": "G0144", "name": "Scr c/v cyto,thinlayer,rescr" },
+  { "code": "G0145", "name": "Scr c/v cyto,thinlayer,rescr" },
+  { "code": "G0147", "name": "Scr c/v cyto, automated sys" },
+  { "code": "G0148", "name": "Scr c/v cyto, autosys, rescr" },
+  { "code": "G0306", "name": "CBC/diffwbc w/o platelet" },
+  { "code": "G0307", "name": "CBC without platelet" },
+  { "code": "G0328", "name": "Fecal blood scrn immunoassay" },
+  { "code": "G0416", "name": "Prostate biopsy, any mthd" },
+  { "code": "G0432", "name": "EIA HIV-1/HIV-2 screen" },
+  { "code": "G0433", "name": "ELISA HIV-1/HIV-2 screen" },
+  { "code": "G0435", "name": "Oral HIV-1/HIV-2 screen" },
+  { "code": "G0475", "name": "HIV combination assay" },
+  { "code": "G0476", "name": "HPV combo assay CA screen" },
+  { "code": "G9143", "name": "Warfarin respon genetic test" },
+  { "code": "P2028", "name": "Cephalin floculation test" },
+  { "code": "P2029", "name": "Congo red blood test" },
+  { "code": "P2033", "name": "Blood thymol turbidity" },
+  { "code": "P2038", "name": "Blood mucoprotein" },
+  { "code": "P3000", "name": "Screen pap by tech w md supv" },
+  { "code": "P3001", "name": "Screening pap smear by phys" },
+  { "code": "P9612", "name": "Catheterize for urine spec" },
+  { "code": "P9615", "name": "Urine specimen collect mult" },
+  { "code": "Q0111", "name": "Wet mounts/ w preparations" },
+  { "code": "Q0112", "name": "Potassium hydroxide preps" },
+  { "code": "Q0113", "name": "Pinworm examinations" },
+  { "code": "Q0114", "name": "Fern test" },
+  { "code": "Q0115", "name": "Post-coital mucous exam" },
+  { "code": "64550", "name": "Appl surface neurostimulator" },
+  { "code": "90901", "name": "Biofeedback train any meth" },
+  { "code": "90911", "name": "Biofeedback peri/uro/rectal" },
+  { "code": "92507", "name": "Speech/hearing therapy" },
+  { "code": "92508", "name": "Speech/hearing therapy" },
+  { "code": "92520", "name": "Laryngeal function studies" },
+  { "code": "92521", "name": "Evaluation of speech fluency" },
+  { "code": "92522", "name": "Evaluate speech production" },
+  { "code": "92523", "name": "Speech sound lang comprehen" },
+  { "code": "92524", "name": "Behavral qualit analys voice" },
+  { "code": "92526", "name": "Oral function therapy" },
+  { "code": "92597", "name": "Oral speech device eval" },
+  { "code": "92607", "name": "Ex for speech device rx 1hr" },
+  { "code": "92608", "name": "Ex for speech device rx addl" },
+  { "code": "92609", "name": "Use of speech device service" },
+  { "code": "92610", "name": "Evaluate swallowing function" },
+  { "code": "92611", "name": "Motion fluoroscopy/swallow" },
+  { "code": "92612", "name": "Endoscopy swallow tst (fees)" },
+  { "code": "92614", "name": "Laryngoscopic sensory test" },
+  { "code": "92616", "name": "Fees w/laryngeal sense test" },
+  { "code": "93797", "name": "Cardiac rehab" },
+  { "code": "93798", "name": "Cardiac rehab/monitor" },
+  { "code": "95831", "name": "Limb muscle testing manual" },
+  { "code": "95832", "name": "Hand muscle testing manual" },
+  { "code": "95833", "name": "Body muscle testing manual" },
+  { "code": "95834", "name": "Body muscle testing manual" },
+  { "code": "95851", "name": "Range of motion measurements" },
+  { "code": "95852", "name": "Range of motion measurements" },
+  { "code": "95992", "name": "Canalith repositioning proc" },
+  { "code": "96000", "name": "Motion analysis video/3d" },
+  { "code": "96001", "name": "Motion test w/ft press meas" },
+  { "code": "96002", "name": "Dynamic surface emg" },
+  { "code": "96003", "name": "Dynamic fine wire emg" },
+  { "code": "96105", "name": "Assessment of aphasia" },
+  { "code": "96111", "name": "Developmental testing" },
+  { "code": "96125", "name": "Cognitive test by HC pro" },
+  { "code": "97010", "name": "Hot or cold packs therapy" },
+  { "code": "97012", "name": "Mechanical traction therapy" },
+  { "code": "97016", "name": "Vasopneumatic device therapy" },
+  { "code": "97018", "name": "Paraffin bath therapy" },
+  { "code": "97022", "name": "Whirlpool therapy" },
+  { "code": "97024", "name": "Diathermy eg microwave" },
+  { "code": "97026", "name": "Infrared therapy" },
+  { "code": "97028", "name": "Ultraviolet therapy" },
+  { "code": "97032", "name": "Electrical stimulation" },
+  { "code": "97033", "name": "Electric current therapy" },
+  { "code": "97034", "name": "Contrast bath therapy" },
+  { "code": "97035", "name": "Ultrasound therapy" },
+  { "code": "97036", "name": "Hydrotherapy" },
+  { "code": "97039", "name": "Physical therapy treatment" },
+  { "code": "97110", "name": "Therapeutic exercises" },
+  { "code": "97112", "name": "Neuromuscular reeducation" },
+  { "code": "97113", "name": "Aquatic therapy/exercises" },
+  { "code": "97116", "name": "Gait training therapy" },
+  { "code": "97124", "name": "Massage therapy" },
+  { "code": "97139", "name": "Physical medicine procedure" },
+  { "code": "97140", "name": "Manual therapy" },
+  { "code": "97150", "name": "Group therapeutic procedures" },
+  { "code": "97161", "name": "Pt eval low complex 20 min" },
+  { "code": "97162", "name": "Pt eval mod complex 30 min" },
+  { "code": "97163", "name": "Pt eval high complex 45 min" },
+  { "code": "97164", "name": "Pt re-eval est plan care" },
+  { "code": "97165", "name": "Ot eval low complex 30 min" },
+  { "code": "97166", "name": "Ot eval mod complex 45 min" },
+  { "code": "97167", "name": "Ot eval high complex 60 min" },
+  { "code": "97168", "name": "Ot re-eval est plan care" },
+  { "code": "97530", "name": "Therapeutic activities" },
+  { "code": "97533", "name": "Sensory integration" },
+  { "code": "97535", "name": "Self care mngment training" },
+  { "code": "97537", "name": "Community/work reintegration" },
+  { "code": "97542", "name": "Wheelchair mngment training" },
+  { "code": "97545", "name": "Work hardening" },
+  { "code": "97546", "name": "Work hardening add-on" },
+  { "code": "97597", "name": "RMVL devital tis 20cm/<" },
+  { "code": "97598", "name": "RMVL devital tis addl 20 cm<" },
+  { "code": "97602", "name": "Wound(s) care non-selective" },
+  { "code": "97605", "name": "Neg press wound tx < 50 cm" },
+  { "code": "97606", "name": "Neg press wound tx > 50 cm" },
+  { "code": "97607", "name": "Neg press wnd tx </=50 sq cm" },
+  { "code": "97608", "name": "Neg press wound tx >50 cm" },
+  { "code": "97610", "name": "Low frequency non-thermal US" },
+  { "code": "97750", "name": "Physical performance test" },
+  { "code": "97755", "name": "Assistive technology assess" },
+  { "code": "97760", "name": "Orthotic mgmt&trainj 1st enc" },
+  { "code": "97761", "name": "Prosthetic trainj 1st enc" },
+  { "code": "97763", "name": "Orth/prostc mgmt sbsq enc" },
+  { "code": "97799", "name": "Physical medicine procedure" },
+  { "code": "G0281", "name": "Elec stim unattend for press" },
+  { "code": "G0283", "name": "Elec stim other than wound" },
+  { "code": "G0329", "name": "Electromagntic tx for ulcers" },
+  { "code": "G0451", "name": "Development test interp & rep" },
+  { "code": "G0460", "name": "Autologous PRP for ulcers" },
+  { "code": "0042T", "name": "Ct perfusion w/contrast cbf" },
+  { "code": "0159T", "name": "Cad breast mri" },
+  { "code": "0174T", "name": "Cad cxr with interp" },
+  { "code": "0175T", "name": "Cad cxr remote" },
+  { "code": "0330T", "name": "Tear film img uni/bi w/i&r" },
+  { "code": "0331T", "name": "Heart symp image plnr" },
+  { "code": "0332T", "name": "Heart symp image plnr spect" },
+  { "code": "0346T", "name": "Ultrasound elastography" },
+  { "code": "0422T", "name": "Tactile breast img uni/bi" },
+  { "code": "51798", "name": "Us urine capacity measure" },
+  { "code": "70100", "name": "X-ray exam of jaw" },
+  { "code": "70110", "name": "X-ray exam of jaw" },
+  { "code": "70120", "name": "X-ray exam of mastoids" },
+  { "code": "70130", "name": "X-ray exam of mastoids" },
+  { "code": "70134", "name": "X-ray exam of middle ear" },
+  { "code": "70140", "name": "X-ray exam of facial bones" },
+  { "code": "70150", "name": "X-ray exam of facial bones" },
+  { "code": "70160", "name": "X-ray exam of nasal bones" },
+  { "code": "70190", "name": "X-ray exam of eye sockets" },
+  { "code": "70200", "name": "X-ray exam of eye sockets" },
+  { "code": "70210", "name": "X-ray exam of sinuses" },
+  { "code": "70220", "name": "X-ray exam of sinuses" },
+  { "code": "70240", "name": "X-ray exam pituitary saddle" },
+  { "code": "70250", "name": "X-ray exam of skull" },
+  { "code": "70260", "name": "X-ray exam of skull" },
+  { "code": "70300", "name": "X-ray exam of teeth" },
+  { "code": "70310", "name": "X-ray exam of teeth" },
+  { "code": "70320", "name": "Full mouth x-ray of teeth" },
+  { "code": "70328", "name": "X-ray exam of jaw joint" },
+  { "code": "70330", "name": "X-ray exam of jaw joints" },
+  { "code": "70336", "name": "Magnetic image jaw joint" },
+  { "code": "70350", "name": "X-ray head for orthodontia" },
+  { "code": "70355", "name": "Panoramic x-ray of jaws" },
+  { "code": "70360", "name": "X-ray exam of neck" },
+  { "code": "70370", "name": "Throat x-ray & fluoroscopy" },
+  { "code": "70371", "name": "Speech evaluation complex" },
+  { "code": "70380", "name": "X-ray exam of salivary gland" },
+  { "code": "70450", "name": "Ct head/brain w/o dye" },
+  { "code": "70460", "name": "Ct head/brain w/dye" },
+  { "code": "70470", "name": "Ct head/brain w/o & w/dye" },
+  { "code": "70480", "name": "Ct orbit/ear/fossa w/o dye" },
+  { "code": "70481", "name": "Ct orbit/ear/fossa w/dye" },
+  { "code": "70482", "name": "Ct orbit/ear/fossa w/o&w/dye" },
+  { "code": "70486", "name": "Ct maxillofacial w/o dye" },
+  { "code": "70487", "name": "Ct maxillofacial w/dye" },
+  { "code": "70488", "name": "Ct maxillofacial w/o & w/dye" },
+  { "code": "70490", "name": "Ct soft tissue neck w/o dye" },
+  { "code": "70491", "name": "Ct soft tissue neck w/dye" },
+  { "code": "70492", "name": "Ct sft tsue nck w/o & w/dye" },
+  { "code": "70496", "name": "Ct angiography head" },
+  { "code": "70498", "name": "Ct angiography neck" },
+  { "code": "70540", "name": "Mri orbit/face/neck w/o dye" },
+  { "code": "70542", "name": "Mri orbit/face/neck w/dye" },
+  { "code": "70543", "name": "Mri orbt/fac/nck w/o & w/dye" },
+  { "code": "70544", "name": "Mr angiography head w/o dye" },
+  { "code": "70545", "name": "Mr angiography head w/dye" },
+  { "code": "70546", "name": "Mr angiograph head w/o&w/dye" },
+  { "code": "70547", "name": "Mr angiography neck w/o dye" },
+  { "code": "70548", "name": "Mr angiography neck w/dye" },
+  { "code": "70549", "name": "Mr angiograph neck w/o&w/dye" },
+  { "code": "70551", "name": "Mri brain w/o dye" },
+  { "code": "70552", "name": "Mri brain w/dye" },
+  { "code": "70553", "name": "Mri brain w/o & w/dye" },
+  { "code": "70554", "name": "Fmri brain by tech" },
+  { "code": "70555", "name": "Fmri brain by phys/psych" },
+  { "code": "71045", "name": "Xray exam chest 1 view" },
+  { "code": "71046", "name": "X-ray exam chest 2 views" },
+  { "code": "71047", "name": "X-ray exam chest 3 views" },
+  { "code": "71048", "name": "X-ray exam chest 4+ views" },
+  { "code": "71100", "name": "X-ray exam of ribs" },
+  { "code": "71101", "name": "X-ray exam of ribs/chest" },
+  { "code": "71110", "name": "X-ray exam of ribs" },
+  { "code": "71111", "name": "X-ray exam of ribs/chest" },
+  { "code": "71120", "name": "X-ray exam of breastbone" },
+  { "code": "71130", "name": "X-ray exam of breastbone" },
+  { "code": "71250", "name": "Ct thorax w/o dye" },
+  { "code": "71260", "name": "Ct thorax w/dye" },
+  { "code": "71270", "name": "Ct thorax w/o & w/dye" },
+  { "code": "71275", "name": "Ct angiography chest" },
+  { "code": "71550", "name": "Mri chest w/o dye" },
+  { "code": "71551", "name": "Mri chest w/dye" },
+  { "code": "71552", "name": "Mri chest w/o & w/dye" },
+  { "code": "71555", "name": "Mri angio chest w or w/o dye" },
+  { "code": "72020", "name": "X-ray exam of spine" },
+  { "code": "72040", "name": "X-ray exam neck spine 3/<vws" },
+  { "code": "72050", "name": "X-ray exam of neck spine" },
+  { "code": "72052", "name": "X-ray exam of neck spine" },
+  { "code": "72070", "name": "X-ray exam of thoracic spine" },
+  { "code": "72072", "name": "X-ray exam of thoracic spine" },
+  { "code": "72074", "name": "X-ray exam of thoracic spine" },
+  { "code": "72080", "name": "X-ray exam of trunk spine" },
+  { "code": "72081", "name": "X-ray exam entire spi 1 vw" },
+  { "code": "72082", "name": "X-ray exam entire spi 2/3 vw" },
+  { "code": "72083", "name": "X-ray exam entire spi 4/5 vw" },
+  { "code": "72084", "name": "X-ray exam entire spi 6/> vw" },
+  { "code": "72100", "name": "X-ray exam of lower spine" },
+  { "code": "72110", "name": "X-ray exam of lower spine" },
+  { "code": "72114", "name": "X-ray exam of lower spine" },
+  { "code": "72120", "name": "X-ray exam of lower spine" },
+  { "code": "72125", "name": "Ct neck spine w/o dye" },
+  { "code": "72126", "name": "Ct neck spine w/dye" },
+  { "code": "72127", "name": "Ct neck spine w/o & w/dye" },
+  { "code": "72128", "name": "Ct chest spine w/o dye" },
+  { "code": "72129", "name": "Ct chest spine w/dye" },
+  { "code": "72130", "name": "Ct chest spine w/o & w/dye" },
+  { "code": "72131", "name": "Ct lumbar spine w/o dye" },
+  { "code": "72132", "name": "Ct lumbar spine w/dye" },
+  { "code": "72133", "name": "Ct lumbar spine w/o & w/dye" },
+  { "code": "72141", "name": "Mri neck spine w/o dye" },
+  { "code": "72142", "name": "Mri neck spine w/dye" },
+  { "code": "72146", "name": "Mri chest spine w/o dye" },
+  { "code": "72147", "name": "Mri chest spine w/dye" },
+  { "code": "72148", "name": "Mri lumbar spine w/o dye" },
+  { "code": "72149", "name": "Mri lumbar spine w/dye" },
+  { "code": "72156", "name": "Mri neck spine w/o & w/dye" },
+  { "code": "72157", "name": "Mri chest spine w/o & w/dye" },
+  { "code": "72158", "name": "Mri lumbar spine w/o & w/dye" },
+  { "code": "72159", "name": "Mr angio spine w/o&w/dye" },
+  { "code": "72170", "name": "X-ray exam of pelvis" },
+  { "code": "72190", "name": "X-ray exam of pelvis" },
+  { "code": "72191", "name": "Ct angiograph pelv w/o&w/dye" },
+  { "code": "72192", "name": "Ct pelvis w/o dye" },
+  { "code": "72193", "name": "Ct pelvis w/dye" },
+  { "code": "72194", "name": "Ct pelvis w/o & w/dye" },
+  { "code": "72195", "name": "Mri pelvis w/o dye" },
+  { "code": "72196", "name": "Mri pelvis w/dye" },
+  { "code": "72197", "name": "Mri pelvis w/o & w/dye" },
+  { "code": "72198", "name": "Mr angio pelvis w/o & w/dye" },
+  { "code": "72200", "name": "X-ray exam sacroiliac joints" },
+  { "code": "72202", "name": "X-ray exam sacroiliac joints" },
+  { "code": "72220", "name": "X-ray exam of tailbone" },
+  { "code": "73000", "name": "X-ray exam of collar bone" },
+  { "code": "73010", "name": "X-ray exam of shoulder blade" },
+  { "code": "73020", "name": "X-ray exam of shoulder" },
+  { "code": "73030", "name": "X-ray exam of shoulder" },
+  { "code": "73050", "name": "X-ray exam of shoulders" },
+  { "code": "73060", "name": "X-ray exam of humerus" },
+  { "code": "73070", "name": "X-ray exam of elbow" },
+  { "code": "73080", "name": "X-ray exam of elbow" },
+  { "code": "73090", "name": "X-ray exam of forearm" },
+  { "code": "73092", "name": "X-ray exam of arm infant" },
+  { "code": "73100", "name": "X-ray exam of wrist" },
+  { "code": "73110", "name": "X-ray exam of wrist" },
+  { "code": "73120", "name": "X-ray exam of hand" },
+  { "code": "73130", "name": "X-ray exam of hand" },
+  { "code": "73140", "name": "X-ray exam of finger(s)" },
+  { "code": "73200", "name": "Ct upper extremity w/o dye" },
+  { "code": "73201", "name": "Ct upper extremity w/dye" },
+  { "code": "73202", "name": "Ct uppr extremity w/o&w/dye" },
+  { "code": "73206", "name": "Ct angio upr extrm w/o&w/dye" },
+  { "code": "73218", "name": "Mri upper extremity w/o dye" },
+  { "code": "73219", "name": "Mri upper extremity w/dye" },
+  { "code": "73220", "name": "Mri uppr extremity w/o&w/dye" },
+  { "code": "73221", "name": "Mri joint upr extrem w/o dye" },
+  { "code": "73222", "name": "Mri joint upr extrem w/dye" },
+  { "code": "73223", "name": "Mri joint upr extr w/o&w/dye" },
+  { "code": "73225", "name": "Mr angio upr extr w/o&w/dye" },
+  { "code": "73501", "name": "X-ray exam hip uni 1 view" },
+  { "code": "73502", "name": "X-ray exam hip uni 2-3 views" },
+  { "code": "73503", "name": "X-ray exam hip uni 4/> views" },
+  { "code": "73521", "name": "X-ray exam hips bi 2 views" },
+  { "code": "73522", "name": "X-ray exam hips bi 3-4 views" },
+  { "code": "73523", "name": "X-ray exam hips bi 5/> views" },
+  { "code": "73551", "name": "X-ray exam of femur 1" },
+  { "code": "73552", "name": "X-ray exam of femur 2/>" },
+  { "code": "73560", "name": "X-ray exam of knee 1 or 2" },
+  { "code": "73562", "name": "X-ray exam of knee 3" },
+  { "code": "73564", "name": "X-ray exam knee 4 or more" },
+  { "code": "73565", "name": "X-ray exam of knees" },
+  { "code": "73590", "name": "X-ray exam of lower leg" },
+  { "code": "73592", "name": "X-ray exam of leg infant" },
+  { "code": "73600", "name": "X-ray exam of ankle" },
+  { "code": "73610", "name": "X-ray exam of ankle" },
+  { "code": "73620", "name": "X-ray exam of foot" },
+  { "code": "73630", "name": "X-ray exam of foot" },
+  { "code": "73650", "name": "X-ray exam of heel" },
+  { "code": "73660", "name": "X-ray exam of toe(s)" },
+  { "code": "73700", "name": "Ct lower extremity w/o dye" },
+  { "code": "73701", "name": "Ct lower extremity w/dye" },
+  { "code": "73702", "name": "Ct lwr extremity w/o&w/dye" },
+  { "code": "73706", "name": "Ct angio lwr extr w/o&w/dye" },
+  { "code": "73718", "name": "Mri lower extremity w/o dye" },
+  { "code": "73719", "name": "Mri lower extremity w/dye" },
+  { "code": "73720", "name": "Mri lwr extremity w/o&w/dye" },
+  { "code": "73721", "name": "Mri jnt of lwr extre w/o dye" },
+  { "code": "73722", "name": "Mri joint of lwr extr w/dye" },
+  { "code": "73723", "name": "Mri joint lwr extr w/o&w/dye" },
+  { "code": "73725", "name": "Mr ang lwr ext w or w/o dye" },
+  { "code": "74018", "name": "X-ray exam abdomen 1 view" },
+  { "code": "74019", "name": "X-ray exam abdomen 2 views" },
+  { "code": "74021", "name": "X-ray exam abdomen 3+ views" },
+  { "code": "74022", "name": "X-ray exam series abdomen" },
+  { "code": "74150", "name": "Ct abdomen w/o dye" },
+  { "code": "74160", "name": "Ct abdomen w/dye" },
+  { "code": "74170", "name": "Ct abdomen w/o & w/dye" },
+  { "code": "74174", "name": "Ct angio abd&pelv w/o&w/dye" },
+  { "code": "74175", "name": "Ct angio abdom w/o & w/dye" },
+  { "code": "74176", "name": "Ct abd & pelvis" },
+  { "code": "74177", "name": "Ct abd & pelv w/contrast" },
+  { "code": "74178", "name": "Ct abd & pelv 1/>regns" },
+  { "code": "74181", "name": "Mri abdomen w/o dye" },
+  { "code": "74182", "name": "Mri abdomen w/dye" },
+  { "code": "74183", "name": "Mri abdomen w/o & w/dye" },
+  { "code": "74185", "name": "Mri angio abdom w orw/o dye" },
+  { "code": "74210", "name": "Contrst x-ray exam of throat" },
+  { "code": "74220", "name": "Contrast x-ray esophagus" },
+  { "code": "74230", "name": "Cine/vid x-ray throat/esoph" },
+  { "code": "74240", "name": "X-ray exam upper gi tract" },
+  { "code": "74241", "name": "X-ray exam upper gi tract" },
+  { "code": "74245", "name": "X-ray exam upper gi tract" },
+  { "code": "74246", "name": "Contrst x-ray uppr gi tract" },
+  { "code": "74247", "name": "Contrst x-ray uppr gi tract" },
+  { "code": "74249", "name": "Contrst x-ray uppr gi tract" },
+  { "code": "74250", "name": "X-ray exam of small bowel" },
+  { "code": "74261", "name": "Ct colonography dx" },
+  { "code": "74262", "name": "Ct colonography dx w/dye" },
+  { "code": "74290", "name": "Contrast x-ray gallbladder" },
+  { "code": "74710", "name": "X-ray measurement of pelvis" },
+  { "code": "74712", "name": "Mri fetal sngl/1st gestation" },
+  { "code": "75557", "name": "Cardiac MRI for morph" },
+  { "code": "75559", "name": "Cardiac MRI w/stress img" },
+  { "code": "75561", "name": "Cardiac MRI for morph w/dye" },
+  { "code": "75563", "name": "Card MRI w/stress img & dye" },
+  { "code": "75565", "name": "Card MRI veloc flow mapping" },
+  { "code": "75571", "name": "Ct hrt w/o dye w/ca test" },
+  { "code": "75572", "name": "Ct hrt w/3d image" },
+  { "code": "75573", "name": "Ct hrt w/3d image congen" },
+  { "code": "75574", "name": "Ct angio hrt w/3d image" },
+  { "code": "75635", "name": "Ct angio abdominal arteries" },
+  { "code": "76000", "name": "Fluoroscopy <1 hr phys/qhp" },
+  { "code": "76010", "name": "X-ray nose to rectum" },
+  { "code": "76100", "name": "X-ray exam of body section" },
+  { "code": "76101", "name": "Complex body section x-ray" },
+  { "code": "76102", "name": "Complex body section x-rays" },
+  { "code": "76120", "name": "Cine/video x-rays" },
+  { "code": "76125", "name": "Cine/video x-rays add-on" },
+  { "code": "76376", "name": "3d render w/o postprocess" },
+  { "code": "76377", "name": "3d rendering w/postprocess" },
+  { "code": "76380", "name": "CAT scan follow-up study" },
+  { "code": "76499", "name": "Radiographic procedure" },
+  { "code": "76506", "name": "Echo exam of head" },
+  { "code": "76510", "name": "Ophth us b & quant a" },
+  { "code": "76511", "name": "Ophth us quant a only" },
+  { "code": "76512", "name": "Ophth us b w/non-quant a" },
+  { "code": "76513", "name": "Echo exam of eye water bath" },
+  { "code": "76514", "name": "Echo exam of eye thickness" },
+  { "code": "76516", "name": "Echo exam of eye" },
+  { "code": "76519", "name": "Echo exam of eye" },
+  { "code": "76536", "name": "Us exam of head and neck" },
+  { "code": "76604", "name": "Us exam chest" },
+  { "code": "76641", "name": "Ultrasound breast complete" },
+  { "code": "76642", "name": "Ultrasound breast limited" },
+  { "code": "76700", "name": "Us exam abdom complete" },
+  { "code": "76705", "name": "Echo exam of abdomen" },
+  { "code": "76706", "name": "Us abdl aorta screen aaa" },
+  { "code": "76770", "name": "Us exam abdo back wall comp" },
+  { "code": "76775", "name": "Us exam abdo back wall lim" },
+  { "code": "76776", "name": "Us exam k transpl w/Doppler" },
+  { "code": "76800", "name": "Us exam spinal canal" },
+  { "code": "76801", "name": "Ob us < 14 wks single fetus" },
+  { "code": "76802", "name": "Ob us < 14 wks addl fetus" },
+  { "code": "76805", "name": "Ob us >/= 14 wks sngl fetus" },
+  { "code": "76810", "name": "Ob us >/= 14 wks addl fetus" },
+  { "code": "76811", "name": "Ob us detailed sngl fetus" },
+  { "code": "76812", "name": "Ob us detailed addl fetus" },
+  { "code": "76815", "name": "Ob us limited fetus(s)" },
+  { "code": "76816", "name": "Ob us follow-up per fetus" },
+  { "code": "76818", "name": "Fetal biophys profile w/nst" },
+  { "code": "76819", "name": "Fetal biophys profil w/o nst" },
+  { "code": "76820", "name": "Umbilical artery echo" },
+  { "code": "76821", "name": "Middle cerebral artery echo" },
+  { "code": "76825", "name": "Echo exam of fetal heart" },
+  { "code": "76826", "name": "Echo exam of fetal heart" },
+  { "code": "76827", "name": "Echo exam of fetal heart" },
+  { "code": "76828", "name": "Echo exam of fetal heart" },
+  { "code": "76856", "name": "Us exam pelvic complete" },
+  { "code": "76857", "name": "Us exam pelvic limited" },
+  { "code": "76870", "name": "Us exam scrotum" },
+  { "code": "76881", "name": "Us compl joint r-t w/img" },
+  { "code": "76882", "name": "Us lmtd jt/nonvasc xtr strux" },
+  { "code": "76885", "name": "Us exam infant hips dynamic" },
+  { "code": "76886", "name": "Us exam infant hips static" },
+  { "code": "76970", "name": "Ultrasound exam follow-up" },
+  { "code": "76977", "name": "Us bone density measure" },
+  { "code": "76999", "name": "Echo examination procedure" },
+  { "code": "77058", "name": "Mri one breast" },
+  { "code": "77059", "name": "Mri both breasts" },
+  { "code": "77061", "name": "Breast tomosynthesis uni" },
+  { "code": "77062", "name": "Breast tomosynthesis bi" },
+  { "code": "77063", "name": "Breast tomosynthesis bi" },
+  { "code": "77065", "name": "Dx mammo incl cad uni" },
+  { "code": "77066", "name": "Dx mammo incl cad bi" },
+  { "code": "77067", "name": "Scr mammo bi incl cad" },
+  { "code": "77071", "name": "X-ray stress view" },
+  { "code": "77072", "name": "X-rays for bone age" },
+  { "code": "77073", "name": "X-rays bone length studies" },
+  { "code": "77074", "name": "X-rays bone survey limited" },
+  { "code": "77075", "name": "X-rays bone survey complete" },
+  { "code": "77076", "name": "X-rays bone survey infant" },
+  { "code": "77077", "name": "Joint survey single view" },
+  { "code": "77078", "name": "Ct bone density axial" },
+  { "code": "77080", "name": "Dxa bone density axial" },
+  { "code": "77081", "name": "Dxa bone density/peripheral" },
+  { "code": "77084", "name": "Magnetic image bone marrow" },
+  { "code": "77085", "name": "Dxa bone density study" },
+  { "code": "77086", "name": "Fracture assessment via dxa" },
+  { "code": "78012", "name": "Thyroid uptake measurement" },
+  { "code": "78013", "name": "Thyroid imaging w/blood flow" },
+  { "code": "78014", "name": "Thyroid imaging w/blood flow" },
+  { "code": "78015", "name": "Thyroid met imaging" },
+  { "code": "78016", "name": "Thyroid met imaging/studies" },
+  { "code": "78018", "name": "Thyroid met imaging body" },
+  { "code": "78020", "name": "Thyroid met uptake" },
+  { "code": "78070", "name": "Parathyroid nuclear imaging" },
+  { "code": "78071", "name": "Parathyrd planar w/wo subtrj" },
+  { "code": "78072", "name": "Parathyrd planar w/spect&ct" },
+  { "code": "78075", "name": "Adrenal nuclear imaging" },
+  { "code": "78099", "name": "Endocrine nuclear procedure" },
+  { "code": "78102", "name": "Bone marrow imaging ltd" },
+  { "code": "78103", "name": "Bone marrow imaging mult" },
+  { "code": "78104", "name": "Bone marrow imaging body" },
+  { "code": "78135", "name": "Red cell survival kinetics" },
+  { "code": "78140", "name": "Red cell sequestration" },
+  { "code": "78185", "name": "Spleen imaging" },
+  { "code": "78195", "name": "Lymph system imaging" },
+  { "code": "78199", "name": "Blood/lymph nuclear exam" },
+  { "code": "78201", "name": "Liver imaging" },
+  { "code": "78202", "name": "Liver imaging with flow" },
+  { "code": "78205", "name": "Liver imaging (3D)" },
+  { "code": "78206", "name": "Liver image (3d) with flow" },
+  { "code": "78215", "name": "Liver and spleen imaging" },
+  { "code": "78216", "name": "Liver & spleen image/flow" },
+  { "code": "78226", "name": "Hepatobiliary system imaging" },
+  { "code": "78227", "name": "Hepatobil syst image w/drug" },
+  { "code": "78230", "name": "Salivary gland imaging" },
+  { "code": "78231", "name": "Serial salivary imaging" },
+  { "code": "78232", "name": "Salivary gland function exam" },
+  { "code": "78258", "name": "Esophageal motility study" },
+  { "code": "78261", "name": "Gastric mucosa imaging" },
+  { "code": "78262", "name": "Gastroesophageal reflux exam" },
+  { "code": "78264", "name": "Gastric emptying study" },
+  { "code": "78265", "name": "Gastric emptying imag study" },
+  { "code": "78266", "name": "Gastric emptying imag study" },
+  { "code": "78278", "name": "Acute GI blood loss imaging" },
+  { "code": "78282", "name": "GI protein loss exam" },
+  { "code": "78290", "name": "Meckels divert exam" },
+  { "code": "78291", "name": "Leveen/shunt patency exam" },
+  { "code": "78299", "name": "GI nuclear procedure" },
+  { "code": "78300", "name": "Bone imaging limited area" },
+  { "code": "78305", "name": "Bone imaging multiple areas" },
+  { "code": "78306", "name": "Bone imaging whole body" },
+  { "code": "78315", "name": "Bone imaging 3 phase" },
+  { "code": "78320", "name": "Bone imaging (3D)" },
+  { "code": "78399", "name": "Musculoskeletal nuclear exam" },
+  { "code": "78428", "name": "Cardiac shunt imaging" },
+  { "code": "78445", "name": "Vascular flow imaging" },
+  { "code": "78451", "name": "Ht muscle image spect sing" },
+  { "code": "78452", "name": "Ht muscle image spect mult" },
+  { "code": "78453", "name": "Ht muscle image planar sing" },
+  { "code": "78454", "name": "Ht musc image planar mult" },
+  { "code": "78456", "name": "Acute venous thrombus image" },
+  { "code": "78457", "name": "Venous thrombosis imaging" },
+  { "code": "78458", "name": "Ven thrombosis images bilat" },
+  { "code": "78459", "name": "Heart muscle imaging (PET)" },
+  { "code": "78466", "name": "Heart infarct image" },
+  { "code": "78468", "name": "Heart infarct image (ef)" },
+  { "code": "78469", "name": "Heart infarct image (3D)" },
+  { "code": "78472", "name": "Gated heart planar single" },
+  { "code": "78473", "name": "Gated heart multiple" },
+  { "code": "78481", "name": "Heart first pass single" },
+  { "code": "78483", "name": "Heart first pass multiple" },
+  { "code": "78491", "name": "Heart image (pet) single" },
+  { "code": "78492", "name": "Heart image (pet) multiple" },
+  { "code": "78494", "name": "Heart image spect" },
+  { "code": "78496", "name": "Heart first pass add-on" },
+  { "code": "78499", "name": "Cardiovascular nuclear exam" },
+  { "code": "78579", "name": "Lung ventilation imaging" },
+  { "code": "78580", "name": "Lung perfusion imaging" },
+  { "code": "78582", "name": "Lung ventilat&perfus imaging" },
+  { "code": "78597", "name": "Lung perfusion differential" },
+  { "code": "78598", "name": "Lung perf&ventilat diferentl" },
+  { "code": "78599", "name": "Respiratory nuclear exam" },
+  { "code": "78600", "name": "Brain image < 4 views" },
+  { "code": "78601", "name": "Brain image w/flow < 4 views" },
+  { "code": "78605", "name": "Brain image 4+ views" },
+  { "code": "78606", "name": "Brain image w/flow 4 + views" },
+  { "code": "78607", "name": "Brain imaging (3D)" },
+  { "code": "78608", "name": "Brain imaging (PET)" },
+  { "code": "78610", "name": "Brain flow imaging only" },
+  { "code": "78630", "name": "Cerebrospinal fluid scan" },
+  { "code": "78635", "name": "CSF ventriculography" },
+  { "code": "78645", "name": "CSF shunt evaluation" },
+  { "code": "78647", "name": "Cerebrospinal fluid scan" },
+  { "code": "78650", "name": "CSF leakage imaging" },
+  { "code": "78660", "name": "Nuclear exam of tear flow" },
+  { "code": "78699", "name": "Nervous system nuclear exam" },
+  { "code": "78700", "name": "Kidney imaging morphol" },
+  { "code": "78701", "name": "Kidney imaging with flow" },
+  { "code": "78707", "name": "K flow/funct image w/o drug" },
+  { "code": "78708", "name": "K flow/funct image w/drug" },
+  { "code": "78709", "name": "K flow/funct image multiple" },
+  { "code": "78710", "name": "Kidney imaging (3D)" },
+  { "code": "78730", "name": "Urinary bladder retention" },
+  { "code": "78740", "name": "Ureteral reflux study" },
+  { "code": "78761", "name": "Testicular imaging w/flow" },
+  { "code": "78799", "name": "Genitourinary nuclear exam" },
+  { "code": "78800", "name": "Tumor imaging limited area" },
+  { "code": "78801", "name": "Tumor imaging mult areas" },
+  { "code": "78802", "name": "Tumor imaging whole body" },
+  { "code": "78803", "name": "Tumor imaging (3D)" },
+  { "code": "78804", "name": "Tumor imaging whole body" },
+  { "code": "78805", "name": "Abscess imaging ltd area" },
+  { "code": "78806", "name": "Abscess imaging whole body" },
+  { "code": "78807", "name": "Nuclear localization/abscess" },
+  { "code": "78811", "name": "PET image ltd area" },
+  { "code": "78812", "name": "PET image skull-thigh" },
+  { "code": "78813", "name": "PET image full body" },
+  { "code": "78814", "name": "PET image w/ct lmtd" },
+  { "code": "78815", "name": "PET image w/ct skull-thigh" },
+  { "code": "78816", "name": "PET image w/ct full body" },
+  { "code": "78999", "name": "Nuclear diagnostic exam" },
+  { "code": "91110", "name": "Gi tract capsule endoscopy" },
+  { "code": "91111", "name": "Esophageal capsule endoscopy" },
+  { "code": "92132", "name": "Cpmtr ophth dx img ant segmt" },
+  { "code": "92133", "name": "Cmptr ophth img optic nerve" },
+  { "code": "92134", "name": "Cptr ophth dx img post segmt" },
+  { "code": "92227", "name": "Remote dx retinal imaging" },
+  { "code": "92228", "name": "Remote retinal imaging mgmt" },
+  { "code": "93303", "name": "Echo transthoracic" },
+  { "code": "93304", "name": "Echo transthoracic" },
+  { "code": "93306", "name": "TTE w/Doppler complete" },
+  { "code": "93307", "name": "TTE w/o Doppler complete" },
+  { "code": "93308", "name": "TTE f-up or lmtd" },
+  { "code": "93875", "name": "Extracranial study" },
+  { "code": "93880", "name": "Extracranial study" },
+  { "code": "93882", "name": "Extracranial study" },
+  { "code": "93886", "name": "Intracranial study" },
+  { "code": "93888", "name": "Intracranial study" },
+  { "code": "93890", "name": "Tcd vasoreactivity study" },
+  { "code": "93892", "name": "Tcd emboli detect w/o inj" },
+  { "code": "93922", "name": "Upr/l xtremity art 2 levels" },
+  { "code": "93923", "name": "Upr/lxtr art stdy 3+ lvls" },
+  { "code": "93924", "name": "Lwr xtr vasc stdy bilat" },
+  { "code": "93925", "name": "Lower extremity study" },
+  { "code": "93926", "name": "Lower extremity study" },
+  { "code": "93930", "name": "Upper extremity study" },
+  { "code": "93931", "name": "Upper extremity study" },
+  { "code": "93965", "name": "Extremity study" },
+  { "code": "93970", "name": "Extremity study" },
+  { "code": "93971", "name": "Extremity study" },
+  { "code": "93975", "name": "Vascular study" },
+  { "code": "93976", "name": "Vascular study" },
+  { "code": "93978", "name": "Vascular study" },
+  { "code": "93979", "name": "Vascular study" },
+  { "code": "93980", "name": "Penile vascular study" },
+  { "code": "93981", "name": "Penile vascular study" },
+  { "code": "93990", "name": "Doppler flow testing" },
+  { "code": "93998", "name": "Noninvas vasc dx study proc" },
+  { "code": "A4641", "name": "Radiopharm dx agent noc" },
+  { "code": "A4642", "name": "In111 satumomab" },
+  { "code": "A9500", "name": "Tc99m sestamibi" },
+  { "code": "A9501", "name": "Technetium TC-99m teboroxime" },
+  { "code": "A9502", "name": "Tc99m tetrofosmin" },
+  { "code": "A9503", "name": "Tc99m medronate" },
+  { "code": "A9504", "name": "Tc99m apcitide" },
+  { "code": "A9505", "name": "TL201 thallium" },
+  { "code": "A9507", "name": "In111 capromab" },
+  { "code": "A9508", "name": "I131 iodobenguate, dx" },
+  { "code": "A9509", "name": "Iodine I-123 sod iodide mil" },
+  { "code": "A9510", "name": "Tc99m disofenin" },
+  { "code": "A9512", "name": "Tc99m pertechnetate" },
+  { "code": "A9515", "name": "Choline c-11" },
+  { "code": "A9516", "name": "Iodine I-123 sod iodide mic" },
+  { "code": "A9521", "name": "Tc99m exametazime" },
+  { "code": "A9524", "name": "I131 serum albumin, dx" },
+  { "code": "A9526", "name": "Nitrogen N-13 ammonia" },
+  { "code": "A9528", "name": "Iodine I-131 iodide cap, dx" },
+  { "code": "A9529", "name": "I131 iodide sol, dx" },
+  { "code": "A9531", "name": "I131 max 100uCi" },
+  { "code": "A9532", "name": "I125 serum albumin, dx" },
+  { "code": "A9536", "name": "TC99m depreotide" },
+  { "code": "A9537", "name": "Tc99m mebrofenin" },
+  { "code": "A9538", "name": "Tc99m pyrophosphate" },
+  { "code": "A9542", "name": "In111 ibritumomab, dx" },
+  { "code": "A9546", "name": "CO57/58" },
+  { "code": "A9547", "name": "In111 oxyquinoline" },
+  { "code": "A9548", "name": "In111 pentetate" },
+  { "code": "A9550", "name": "Tc99m gluceptate" },
+  { "code": "A9551", "name": "Tc99m succimer" },
+  { "code": "A9552", "name": "F18 fdg" },
+  { "code": "A9553", "name": "Cr51 chromate" },
+  { "code": "A9554", "name": "I125 iothalamate, dx" },
+  { "code": "A9555", "name": "Rb82 rubidium" },
+  { "code": "A9556", "name": "Ga67 gallium" },
+  { "code": "A9557", "name": "Tc99m bicisate" },
+  { "code": "A9558", "name": "Xe133 xenon 10mci" },
+  { "code": "A9559", "name": "Co57 cyano" },
+  { "code": "A9560", "name": "Tc99m labeled rbc" },
+  { "code": "A9561", "name": "Tc99m oxidronate" },
+  { "code": "A9562", "name": "Tc99m mertiatide" },
+  { "code": "A9566", "name": "Tc99m fanolesomab" },
+  { "code": "A9567", "name": "Technetium TC-99m aerosol" },
+  { "code": "A9568", "name": "Technetium tc99m arcitumomab" },
+  { "code": "A9569", "name": "Technetium TC-99m auto WBC" },
+  { "code": "A9570", "name": "Indium In-111 auto WBC" },
+  { "code": "A9571", "name": "Indium In-111 auto platelet" },
+  { "code": "A9572", "name": "Indium In-111 pentetreotide" },
+  { "code": "A9576", "name": "Inj prohance multipack" },
+  { "code": "A9577", "name": "Inj multihance" },
+  { "code": "A9578", "name": "Inj multihance multipack" },
+  { "code": "A9579", "name": "Gad-base MR contrast NOS,1ml" },
+  { "code": "A9580", "name": "Sodium fluoride F-18" },
+  { "code": "A9584", "name": "Iodine I-123 ioflupane" },
+  { "code": "A9586", "name": "Florbetapir F18" },
+  { "code": "A9587", "name": "Gallium Ga-68" },
+  { "code": "A9588", "name": "Fluciclovine F-18" },
+  { "code": "A9597", "name": "Pet, dx, for tumor id, noc" },
+  { "code": "A9598", "name": "Pet dx for non-tumor id, noc" },
+  { "code": "A9700", "name": "Echocardiography contrast" },
+  { "code": "A9520", "name": "Tc99 Tilmanocept diag 0.5mci" },
+  { "code": "C9457", "name": "Lumason contrast agent" },
+  { "code": "C9461", "name": "Choline C 11, diagnostic" },
+  { "code": "C9734", "name": "U/S trtmt, not leiomyomata" },
+  { "code": "C9744", "name": "Abd us w/contrast" },
+  { "code": "G0130", "name": "Single energy x-ray study" },
+  { "code": "G0279", "name": "Tomosynthesis, mammo screen" },
+  { "code": "G0288", "name": "Recon, CTA for surg plan" },
+  { "code": "G0297", "name": "LDCT for Lung CA screen" },
+  { "code": "G0389", "name": "Ultrasound exam AAA screen" },
+  { "code": "Q0092", "name": "Set up port xray equipment" },
+  { "code": "Q9951", "name": "LOCM>=400 mg/ml iodine,1ml" },
+  { "code": "Q9953", "name": "Inj Fe-based MR contrast,1ml" },
+  { "code": "Q9954", "name": "Oral MR contrast, 100ml" },
+  { "code": "Q9955", "name": "Inj perflexane lip micros,ml" },
+  { "code": "Q9956", "name": "Inj octafluoropropane mic,ml" },
+  { "code": "Q9957", "name": "Inj perflutren lip micros,ml" },
+  { "code": "Q9958", "name": "HOCM <=149 mg/ml iodine, 1ml" },
+  { "code": "Q9959", "name": "HOCM 150-199mg/ml iodine,1ml" },
+  { "code": "Q9960", "name": "HOCM 200-249mg/ml iodine,1ml" },
+  { "code": "Q9961", "name": "HOCM 250-299mg/ml iodine,1ml" },
+  { "code": "Q9962", "name": "HOCM 300-349mg/ml iodine,1ml" },
+  { "code": "Q9963", "name": "HOCM 350-399mg/ml iodine,1ml" },
+  { "code": "Q9964", "name": "HOCM>= 400mg/ml iodine, 1ml" },
+  { "code": "Q9965", "name": "LOCM 100-199mg/ml iodine,1ml" },
+  { "code": "Q9966", "name": "LOCM 200-299mg/ml iodine,1ml" },
+  { "code": "Q9967", "name": "LOCM 300-399mg/ml iodine,1ml" },
+  { "code": "Q9982", "name": "Flutemetamol f18 diagnostic" },
+  { "code": "Q9983", "name": "Florbetaben f18 diagnostic" },
+  { "code": "R0070", "name": "Transport portable x-ray" },
+  { "code": "0190T", "name": "Place intraoc radiation src" },
+  { "code": "0394T", "name": "Hdr elctrnc skn surf brchytx" },
+  { "code": "0395T", "name": "Hdr elctr ntrst/ntrcv brchtx" },
+  { "code": "19296", "name": "Place po breast cath for rad" },
+  { "code": "19297", "name": "Place breast cath for rad" },
+  { "code": "19298", "name": "Place breast rad tube/caths" },
+  { "code": "20555", "name": "Place ndl musc/tis for rt" },
+  { "code": "31643", "name": "Diag bronchoscope/catheter" },
+  { "code": "32553", "name": "Ins mark thor for rt perq" },
+  { "code": "32701", "name": "Thorax stereo rad targetw/tx" },
+  { "code": "41019", "name": "Place needles h&n for rt" },
+  { "code": "49327", "name": "Lap ins device for rt" },
+  { "code": "49411", "name": "Ins mark abd/pel for rt perq" },
+  { "code": "49412", "name": "Ins device for rt guide open" },
+  { "code": "55875", "name": "Transperi needle place pros" },
+  { "code": "55876", "name": "Place rt device/marker pros" },
+  { "code": "55920", "name": "Place needles pelvic for rt" },
+  { "code": "57155", "name": "Insert uteri tandems/ovoids" },
+  { "code": "57156", "name": "Ins vag brachytx device" },
+  { "code": "58346", "name": "Insert heyman uteri capsule" },
+  { "code": "61770", "name": "Incise skull for treatment" },
+  { "code": "61796", "name": "SRS cranial lesion simple" },
+  { "code": "61797", "name": "SRS cran les simple addl" },
+  { "code": "61798", "name": "SRS cranial lesion complex" },
+  { "code": "61799", "name": "SRS cran les complex addl" },
+  { "code": "61800", "name": "Apply SRS headframe add-on" },
+  { "code": "63620", "name": "SRS spinal lesion" },
+  { "code": "63621", "name": "SRS spinal lesion addl" },
+  { "code": "77261", "name": "Radiation therapy planning" },
+  { "code": "77262", "name": "Radiation therapy planning" },
+  { "code": "77263", "name": "Radiation therapy planning" },
+  { "code": "77280", "name": "Set radiation therapy field" },
+  { "code": "77285", "name": "Set radiation therapy field" },
+  { "code": "77290", "name": "Set radiation therapy field" },
+  { "code": "77295", "name": "Set radiation therapy field" },
+  { "code": "77299", "name": "Radiation therapy planning" },
+  { "code": "77300", "name": "Radiation therapy dose plan" },
+  { "code": "77301", "name": "Radiotherapy dose plan imrt" },
+  { "code": "77306", "name": "Telethx isodose plan simple" },
+  { "code": "77307", "name": "Telethx isodose plan cplx" },
+  { "code": "77316", "name": "Brachytx isodose plan simple" },
+  { "code": "77317", "name": "Brachytx isodose intermed" },
+  { "code": "77318", "name": "Brachytx isodose complex" },
+  { "code": "77321", "name": "Special teletx port plan" },
+  { "code": "77331", "name": "Special radiation dosimetry" },
+  { "code": "77332", "name": "Radiation treatment aid(s)" },
+  { "code": "77333", "name": "Radiation treatment aid(s)" },
+  { "code": "77334", "name": "Radiation treatment aid(s)" },
+  { "code": "77336", "name": "Radiation physics consult" },
+  { "code": "77338", "name": "Design mlc device for imrt" },
+  { "code": "77370", "name": "Radiation physics consult" },
+  { "code": "77371", "name": "Srs multisource" },
+  { "code": "77372", "name": "Srs linear based" },
+  { "code": "77373", "name": "Sbrt delivery" },
+  { "code": "77385", "name": "Ntsty modul rad tx dlvr smpl" },
+  { "code": "77386", "name": "Ntsty modul rad tx dlvr cplx" },
+  { "code": "77399", "name": "External radiation dosimetry" },
+  { "code": "77401", "name": "Radiation treatment delivery" },
+  { "code": "77402", "name": "Radiation treatment delivery" },
+  { "code": "77407", "name": "Radiation treatment delivery" },
+  { "code": "77412", "name": "Radiation treatment delivery" },
+  { "code": "77417", "name": "Radiology port film(s)" },
+  { "code": "77423", "name": "Neutron beam tx complex" },
+  { "code": "77427", "name": "Radiation tx management x5" },
+  { "code": "77431", "name": "Radiation therapy management" },
+  { "code": "77432", "name": "Stereotactic radiation trmt" },
+  { "code": "77435", "name": "Sbrt management" },
+  { "code": "77470", "name": "Special radiation treatment" },
+  { "code": "77499", "name": "Radiation therapy management" },
+  { "code": "77520", "name": "Proton trmt simple w/o comp" },
+  { "code": "77522", "name": "Proton trmt simple w/comp" },
+  { "code": "77523", "name": "Proton trmt intermediate" },
+  { "code": "77525", "name": "Proton treatment complex" },
+  { "code": "77600", "name": "Hyperthermia treatment" },
+  { "code": "77605", "name": "Hyperthermia treatment" },
+  { "code": "77610", "name": "Hyperthermia treatment" },
+  { "code": "77615", "name": "Hyperthermia treatment" },
+  { "code": "77620", "name": "Hyperthermia treatment" },
+  { "code": "77750", "name": "Infuse radioactive materials" },
+  { "code": "77761", "name": "Apply intrcav radiat simple" },
+  { "code": "77762", "name": "Apply intrcav radiat interm" },
+  { "code": "77763", "name": "Apply intrcav radiat compl" },
+  { "code": "77767", "name": "Hdr rdncl skn surf brachytx" },
+  { "code": "77768", "name": "Hdr rdncl skn surf brachytx" },
+  { "code": "77770", "name": "Hdr rdncl ntrstl/icav brchtx" },
+  { "code": "77771", "name": "Hdr rdncl ntrstl/icav brchtx" },
+  { "code": "77772", "name": "Hdr rdncl ntrstl/icav brchtx" },
+  { "code": "77776", "name": "Apply interstit radiat simpl" },
+  { "code": "77778", "name": "Apply interstit radiat compl" },
+  { "code": "77785", "name": "HDR brachytx 1 channel" },
+  { "code": "77786", "name": "HDR brachytx 2-12 channel" },
+  { "code": "77789", "name": "Apply surface radiation" },
+  { "code": "77790", "name": "Radiation handling" },
+  { "code": "77799", "name": "Radium/radioisotope therapy" },
+  { "code": "79005", "name": "Nuclear rx oral admin" },
+  { "code": "79101", "name": "Nuclear rx iv admin" },
+  { "code": "79200", "name": "Nuclear rx intracav admin" },
+  { "code": "79300", "name": "Nuclr rx interstit colloid" },
+  { "code": "79403", "name": "Hematopoietic nuclear tx" },
+  { "code": "79440", "name": "Nuclear rx intra-articular" },
+  { "code": "79445", "name": "Nuclear rx intra-arterial" },
+  { "code": "79999", "name": "Nuclear medicine therapy" },
+  { "code": "92974", "name": "Cath place cardio brachytx" },
+  { "code": "A4650", "name": "Implant radiation dosimeter" },
+  { "code": "A9517", "name": "I131 iodide cap, rx" },
+  { "code": "A9527", "name": "Iodine I-125 sodium iodide" },
+  { "code": "A9530", "name": "I131 iodide sol, rx" },
+  { "code": "A9543", "name": "Y90 ibritumomab, rx" },
+  { "code": "A9563", "name": "P32 Na phosphate" },
+  { "code": "A9564", "name": "P32 chromic phosphate" },
+  { "code": "A9600", "name": "Sr89 strontium" },
+  { "code": "A9604", "name": "Sm 153 lexidronam" },
+  { "code": "A9606", "name": "Radium Ra223 dichloride ther" },
+  { "code": "A9699", "name": "Radiopharm rx agent noc" },
+  { "code": "C1716", "name": "Brachytx, non-str, Gold-198" },
+  { "code": "C1717", "name": "Brachytx, non-str,HDR Ir-192" },
+  { "code": "C1719", "name": "Brachytx, NS, Non-HDRIr-192" },
+  { "code": "C2616", "name": "Brachytx, non-str,Yttrium-90" },
+  { "code": "C2634", "name": "Brachytx, non-str, HA, I-125" },
+  { "code": "C2635", "name": "Brachytx, non-str, HA, P-103" },
+  { "code": "C2636", "name": "Brachy linear, non-str,P-103" },
+  { "code": "C2638", "name": "Brachytx, stranded, I-125" },
+  { "code": "C2639", "name": "Brachytx,non-stranded,I-125" },
+  { "code": "C2640", "name": "Brachytx, stranded, P-103" },
+  { "code": "C2641", "name": "Brachytx, non-stranded,P-103" },
+  { "code": "C2642", "name": "Brachytx, stranded, C-131" },
+  { "code": "C2643", "name": "Brachytx, non-stranded,C-131" },
+  { "code": "C2644", "name": "Brachytx cesium-131 chloride" },
+  { "code": "C2645", "name": "Brachytx planar, p-103" },
+  { "code": "C2698", "name": "Brachytx, stranded, NOS" },
+  { "code": "C2699", "name": "Brachytx, non-stranded, NOS" },
+  { "code": "G0173", "name": "Linear acc stereo radsur com" },
+  { "code": "G0251", "name": "Linear acc based stero radio" },
+  { "code": "G0339", "name": "Robot lin-radsurg com, first" },
+  { "code": "G0340", "name": "Robt lin-radsurg fractx 2-5" },
+  { "code": "G6001", "name": "Echo guidance radiotherapy" },
+  { "code": "G6002", "name": "Stereoscopic x-ray guidance" },
+  { "code": "G6003", "name": "Radiation treatment delivery" },
+  { "code": "G6004", "name": "Radiation treatment delivery" },
+  { "code": "G6005", "name": "Radiation treatment delivery" },
+  { "code": "G6006", "name": "Radiation treatment delivery" },
+  { "code": "G6007", "name": "Radiation treatment delivery" },
+  { "code": "G6008", "name": "Radiation treatment delivery" },
+  { "code": "G6009", "name": "Radiation treatment delivery" },
+  { "code": "G6010", "name": "Radiation treatment delivery" },
+  { "code": "G6011", "name": "Radiation treatment delivery" },
+  { "code": "G6012", "name": "Radiation treatment delivery" },
+  { "code": "G6013", "name": "Radiation treatment delivery" },
+  { "code": "G6014", "name": "Radiation treatment delivery" },
+  { "code": "G6015", "name": "Radiation tx delivery imrt" },
+  { "code": "G6016", "name": "Delivery comp imrt" },
+  { "code": "G6017", "name": "Intrafraction track motion" },
+  { "code": "Q3001", "name": "Brachytherapy Radioelements" },
   {
     "code": "80061",
     "name":
       "Lipid panel [only when billed with one of the following ICD-9-CM codes:  V81.0, V81.1, or V81.2]"
   },
-  {
-    "code": "82270",
-    "name": "Occult blood feces"
-  },
+  { "code": "82270", "name": "Occult blood feces" },
   {
     "code": "82465",
     "name":
@@ -3481,212 +891,38 @@
     "name":
       "Assay of triglycerides [only when billed with one of the following ICD-9-CM codes:  V81.0, V81.1, or V81.2]"
   },
-  {
-    "code": "G0103",
-    "name": "PSA screening"
-  },
-  {
-    "code": "G0106",
-    "name": "Colon CA screen;barium enema"
-  },
-  {
-    "code": "G0118",
-    "name": "Glaucoma scrn hgh risk direc"
-  },
-  {
-    "code": "G0120",
-    "name": "Colon ca scrn; barium enema"
-  },
-  {
-    "code": "G0123",
-    "name": "Screen cerv/vag thin layer"
-  },
-  {
-    "code": "G0124",
-    "name": "Screen c/v thin layer by MD"
-  },
-  {
-    "code": "G0141",
-    "name": "Scr c/v cyto,autosys and md"
-  },
-  {
-    "code": "G0143",
-    "name": "Scr c/v cyto,thinlayer,rescr"
-  },
-  {
-    "code": "G0144",
-    "name": "Scr c/v cyto,thinlayer,rescr"
-  },
-  {
-    "code": "G0145",
-    "name": "Scr c/v cyto,thinlayer,rescr"
-  },
-  {
-    "code": "G0147",
-    "name": "Scr c/v cyto, automated sys"
-  },
-  {
-    "code": "G0148",
-    "name": "Scr c/v cyto, autosys, rescr"
-  },
-  {
-    "code": "G0328",
-    "name": "Fecal blood scrn immunoassay"
-  },
-  {
-    "code": "G0389",
-    "name": "Ultrasound exam AAA screen"
-  },
-  {
-    "code": "G0432",
-    "name": "EIA HIV-1/HIV-2 screen"
-  },
-  {
-    "code": "G0433",
-    "name": "ELISA HIV-1/HIV-2 screen"
-  },
-  {
-    "code": "G0435",
-    "name": "Oral HIV-1/HIV-2 screen"
-  },
-  {
-    "code": "G0464",
-    "name": "Colorec CA scr, sto bas DNA"
-  },
-  {
-    "code": "G0475",
-    "name": "HIV combination assay"
-  },
-  {
-    "code": "G0476",
-    "name": "HPV combo assay CA  screen"
-  },
-  {
-    "code": "G0499",
-    "name": "HepB screen high risk indiv"
-  },
-  {
-    "code": "P3000",
-    "name": "Screen pap by tech w md supv"
-  },
-  {
-    "code": "P3001",
-    "name": "Screening pap smear by phys"
-  },
-  {
-    "code": "90630",
-    "name": "Flu vacc iiv4 no preserv id"
-  },
-  {
-    "code": "90654",
-    "name": "Flu vacc iiv3 no preserv id"
-  },
-  {
-    "code": "90655",
-    "name": "IIV3 vacc no prsv 0.25 ml im"
-  },
-  {
-    "code": "90656",
-    "name": "IIV3 vacc no prsv 0.5 ml im"
-  },
-  {
-    "code": "90657",
-    "name": "IIV3 vaccine splt 0.25 ml im"
-  },
-  {
-    "code": "90660",
-    "name": "LAIV3 vaccine intranasal"
-  },
-  {
-    "code": "90661",
-    "name": "CCIIV3 vac no prsv 0.5 ml im"
-  },
-  {
-    "code": "90662",
-    "name": "IIV no prsv increased ag im"
-  },
-  {
-    "code": "90670",
-    "name": "PCV13 vaccine im"
-  },
-  {
-    "code": "90672",
-    "name": "LAIV4 vaccine intranasal"
-  },
-  {
-    "code": "90673",
-    "name": "RIV3 vaccine no preserv im"
-  },
-  {
-    "code": "90674",
-    "name": "CCIIV4 vac no prsv 0.5 ml im"
-  },
-  {
-    "code": "90682",
-    "name": "RIV4 vacc recombinant dna im"
-  },
-  {
-    "code": "90685",
-    "name": "IIV4 vacc no prsv 0.25 ml im"
-  },
-  {
-    "code": "90686",
-    "name": "IIV4 vacc no prsv 0.5 ml im"
-  },
-  {
-    "code": "90687",
-    "name": "IIV4 vacc splt 0.25 ml im"
-  },
-  {
-    "code": "90688",
-    "name": "IIV4 vacc splt 0.5 ml im"
-  },
-  {
-    "code": "90732",
-    "name": "PPSV23 vacc 2 yrs+ subq/im"
-  },
-  {
-    "code": "90740",
-    "name": "Hepb vacc 3 dose immunsup im"
-  },
-  {
-    "code": "90743",
-    "name": "Hepb vacc 2 dose adolesc im"
-  },
-  {
-    "code": "90744",
-    "name": "Hepb vacc 3 dose ped/adol im"
-  },
-  {
-    "code": "90746",
-    "name": "Hepb vaccine 3 dose adult im"
-  },
-  {
-    "code": "90747",
-    "name": "Hepb vacc 4 dose immunsup im"
-  },
-  {
-    "code": "90756",
-    "name": "CCIIV4 vacc abx free im"
-  },
-  {
-    "code": "Q2034",
-    "name": "Agriflu vaccine"
-  },
-  {
-    "code": "Q2035",
-    "name": "Afluria vacc, 3 yrs & >, im"
-  },
-  {
-    "code": "Q2036",
-    "name": "Flulaval vacc, 3 yrs & >, im"
-  },
-  {
-    "code": "Q2037",
-    "name": "Fluvirin vacc, 3 yrs & >, im"
-  },
-  {
-    "code": "Q2038",
-    "name": "Fluzone vacc, 3 yrs & >, im"
-  }
+  { "code": "G0106", "name": "Colon CA screen;barium enema" },
+  { "code": "G0118", "name": "Glaucoma scrn hgh risk direc" },
+  { "code": "G0120", "name": "Colon ca scrn; barium enema" },
+  { "code": "G0464", "name": "Colorec CA scr, sto bas DNA" },
+  { "code": "G0499", "name": "HepB screen high risk indiv" },
+  { "code": "90630", "name": "Flu vacc iiv4 no preserv id" },
+  { "code": "90654", "name": "Flu vacc iiv3 no preserv id" },
+  { "code": "90655", "name": "IIV3 vacc no prsv 0.25 ml im" },
+  { "code": "90656", "name": "IIV3 vacc no prsv 0.5 ml im" },
+  { "code": "90657", "name": "IIV3 vaccine splt 0.25 ml im" },
+  { "code": "90660", "name": "LAIV3 vaccine intranasal" },
+  { "code": "90661", "name": "CCIIV3 vac no prsv 0.5 ml im" },
+  { "code": "90662", "name": "IIV no prsv increased ag im" },
+  { "code": "90670", "name": "PCV13 vaccine im" },
+  { "code": "90672", "name": "LAIV4 vaccine intranasal" },
+  { "code": "90673", "name": "RIV3 vaccine no preserv im" },
+  { "code": "90674", "name": "CCIIV4 vac no prsv 0.5 ml im" },
+  { "code": "90682", "name": "RIV4 vacc recombinant dna im" },
+  { "code": "90685", "name": "IIV4 vacc no prsv 0.25 ml im" },
+  { "code": "90686", "name": "IIV4 vacc no prsv 0.5 ml im" },
+  { "code": "90687", "name": "IIV4 vacc splt 0.25 ml im" },
+  { "code": "90688", "name": "IIV4 vacc splt 0.5 ml im" },
+  { "code": "90732", "name": "PPSV23 vacc 2 yrs+ subq/im" },
+  { "code": "90740", "name": "Hepb vacc 3 dose immunsup im" },
+  { "code": "90743", "name": "Hepb vacc 2 dose adolesc im" },
+  { "code": "90744", "name": "Hepb vacc 3 dose ped/adol im" },
+  { "code": "90746", "name": "Hepb vaccine 3 dose adult im" },
+  { "code": "90747", "name": "Hepb vacc 4 dose immunsup im" },
+  { "code": "90756", "name": "CCIIV4 vacc abx free im" },
+  { "code": "Q2034", "name": "Agriflu vaccine" },
+  { "code": "Q2035", "name": "Afluria vacc, 3 yrs & >, im" },
+  { "code": "Q2036", "name": "Flulaval vacc, 3 yrs & >, im" },
+  { "code": "Q2037", "name": "Fluvirin vacc, 3 yrs & >, im" },
+  { "code": "Q2038", "name": "Fluzone vacc, 3 yrs & >, im" }
 ]
