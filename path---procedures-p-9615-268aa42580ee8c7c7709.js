@@ -1,2 +1,2 @@
-webpackJsonp([0xe6428fe073d2],{2032:function(e,o){e.exports={data:{proceduresJson:{code:"P9615",name:"Urine specimen collect mult"}},pathContext:{slug:"procedures/P9615"}}}});
+webpackJsonp([0xe6428fe073d2],{1882:function(e,o){e.exports={data:{proceduresJson:{code:"P9615",name:"Urine specimen collect mult"}},pathContext:{slug:"procedures/P9615"}}}});
 //# sourceMappingURL=path---procedures-p-9615-268aa42580ee8c7c7709.js.map

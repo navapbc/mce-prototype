@@ -1,2 +1,2 @@
-webpackJsonp([38192914846708],{1732:function(e,a){e.exports={data:{proceduresJson:{code:"90660",name:"LAIV3 vaccine intranasal"}},pathContext:{slug:"procedures/90660"}}}});
+webpackJsonp([38192914846708],{1600:function(e,a){e.exports={data:{proceduresJson:{code:"90660",name:"LAIV3 vaccine intranasal"}},pathContext:{slug:"procedures/90660"}}}});
 //# sourceMappingURL=path---procedures-90660-67ab536a7e3f8b81dda6.js.map

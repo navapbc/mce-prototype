@@ -1,2 +1,2 @@
-webpackJsonp([0xe3e143e0443d],{1618:function(e,a){e.exports={data:{proceduresJson:{code:"78271",name:"Vit B-12 absrp exam int fac"}},pathContext:{slug:"procedures/78271"}}}});
+webpackJsonp([0xe3e143e0443d],{1488:function(e,a){e.exports={data:{proceduresJson:{code:"78271",name:"Vit B-12 absrp exam int fac"}},pathContext:{slug:"procedures/78271"}}}});
 //# sourceMappingURL=path---procedures-78271-5a1153edb43276258504.js.map

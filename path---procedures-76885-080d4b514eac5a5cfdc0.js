@@ -1,2 +1,2 @@
-webpackJsonp([70247515130331],{1479:function(e,n){e.exports={data:{proceduresJson:{code:"76885",name:"Us exam infant hips dynamic"}},pathContext:{slug:"procedures/76885"}}}});
+webpackJsonp([70247515130331],{1372:function(e,n){e.exports={data:{proceduresJson:{code:"76885",name:"Us exam infant hips dynamic"}},pathContext:{slug:"procedures/76885"}}}});
 //# sourceMappingURL=path---procedures-76885-080d4b514eac5a5cfdc0.js.map

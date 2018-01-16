@@ -1,2 +1,2 @@
-webpackJsonp([7977452432653],{1988:function(e,o){e.exports={data:{proceduresJson:{code:"G0288",name:"Recon, CTA for surg plan"}},pathContext:{slug:"procedures/G0288"}}}});
+webpackJsonp([7977452432653],{1838:function(e,o){e.exports={data:{proceduresJson:{code:"G0288",name:"Recon, CTA for surg plan"}},pathContext:{slug:"procedures/G0288"}}}});
 //# sourceMappingURL=path---procedures-g-0288-1eb80b07d123f01c6671.js.map

@@ -1,2 +1,2 @@
-webpackJsonp([42770988255575],{1997:function(e,o){e.exports={data:{proceduresJson:{code:"G0416",name:"Prostate biopsy, any mthd"}},pathContext:{slug:"procedures/G0416"}}}});
+webpackJsonp([42770988255575],{1847:function(e,o){e.exports={data:{proceduresJson:{code:"G0416",name:"Prostate biopsy, any mthd"}},pathContext:{slug:"procedures/G0416"}}}});
 //# sourceMappingURL=path---procedures-g-0416-81d31a8b8b76fe96d9ba.js.map

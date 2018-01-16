@@ -1,2 +1,2 @@
-webpackJsonp([0xc5b87eafbb94],{1878:function(e,o){e.exports={data:{proceduresJson:{code:"A9500",name:"Tc99m sestamibi"}},pathContext:{slug:"procedures/A9500"}}}});
+webpackJsonp([0xc5b87eafbb94],{1730:function(e,o){e.exports={data:{proceduresJson:{code:"A9500",name:"Tc99m sestamibi"}},pathContext:{slug:"procedures/A9500"}}}});
 //# sourceMappingURL=path---procedures-a-9500-397e1188e856fc1b28c7.js.map

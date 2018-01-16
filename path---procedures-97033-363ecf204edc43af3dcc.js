@@ -1,2 +1,2 @@
-webpackJsonp([51067886139899],{1833:function(e,r){e.exports={data:{proceduresJson:{code:"97033",name:"Electric current therapy"}},pathContext:{slug:"procedures/97033"}}}});
+webpackJsonp([51067886139899],{1686:function(e,r){e.exports={data:{proceduresJson:{code:"97033",name:"Electric current therapy"}},pathContext:{slug:"procedures/97033"}}}});
 //# sourceMappingURL=path---procedures-97033-363ecf204edc43af3dcc.js.map

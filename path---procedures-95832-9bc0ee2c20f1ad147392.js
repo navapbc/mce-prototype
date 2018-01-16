@@ -1,2 +1,2 @@
-webpackJsonp([0xc486690f938e],{1811:function(e,n){e.exports={data:{proceduresJson:{code:"95832",name:"Hand muscle testing manual"}},pathContext:{slug:"procedures/95832"}}}});
+webpackJsonp([0xc486690f938e],{1666:function(e,n){e.exports={data:{proceduresJson:{code:"95832",name:"Hand muscle testing manual"}},pathContext:{slug:"procedures/95832"}}}});
 //# sourceMappingURL=path---procedures-95832-9bc0ee2c20f1ad147392.js.map

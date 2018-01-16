@@ -1,2 +1,2 @@
-webpackJsonp([0xecfc2753a565],{1935:function(e,a){e.exports={data:{proceduresJson:{code:"A9579",name:"Gad-base MR contrast NOS,1ml"}},pathContext:{slug:"procedures/A9579"}}}});
+webpackJsonp([0xecfc2753a565],{1787:function(e,a){e.exports={data:{proceduresJson:{code:"A9579",name:"Gad-base MR contrast NOS,1ml"}},pathContext:{slug:"procedures/A9579"}}}});
 //# sourceMappingURL=path---procedures-a-9579-e71d8961a736aac38223.js.map

@@ -1,2 +1,2 @@
-webpackJsonp([0xe2f573e0c3c1],{1936:function(e,o){e.exports={data:{proceduresJson:{code:"A9580",name:"Sodium fluoride F-18"}},pathContext:{slug:"procedures/A9580"}}}});
+webpackJsonp([0xe2f573e0c3c1],{1788:function(e,o){e.exports={data:{proceduresJson:{code:"A9580",name:"Sodium fluoride F-18"}},pathContext:{slug:"procedures/A9580"}}}});
 //# sourceMappingURL=path---procedures-a-9580-6f8dd81243a499d79561.js.map

@@ -1,2 +1,2 @@
-webpackJsonp([0xb1f9b1773ab1],{1721:function(o,e){o.exports={data:{proceduresJson:{code:"86931",name:"Frozen blood thaw"}},pathContext:{slug:"procedures/86931"}}}});
+webpackJsonp([0xb1f9b1773ab1],{1589:function(o,e){o.exports={data:{proceduresJson:{code:"86931",name:"Frozen blood thaw"}},pathContext:{slug:"procedures/86931"}}}});
 //# sourceMappingURL=path---procedures-86931-b1a3634b921baa38b36b.js.map

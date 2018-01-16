@@ -1,2 +1,2 @@
-webpackJsonp([0xb39c421fdd47],{1180:function(e,o){e.exports={data:{proceduresJson:{code:"0422T",name:"Tactile breast img uni/bi"}},pathContext:{slug:"procedures/0422T"}}}});
+webpackJsonp([0xb39c421fdd47],{1105:function(e,o){e.exports={data:{proceduresJson:{code:"0422T",name:"Tactile breast img uni/bi"}},pathContext:{slug:"procedures/0422T"}}}});
 //# sourceMappingURL=path---procedures-0422-t-cba8c0320493a2d218b4.js.map

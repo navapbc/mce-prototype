@@ -1,2 +1,2 @@
-webpackJsonp([91478745686643],{1571:function(e,o){e.exports={data:{proceduresJson:{code:"78012",name:"Thyroid uptake measurement"}},pathContext:{slug:"procedures/78012"}}}});
+webpackJsonp([91478745686643],{1443:function(e,o){e.exports={data:{proceduresJson:{code:"78012",name:"Thyroid uptake measurement"}},pathContext:{slug:"procedures/78012"}}}});
 //# sourceMappingURL=path---procedures-78012-1ecb14ec6308872388b8.js.map

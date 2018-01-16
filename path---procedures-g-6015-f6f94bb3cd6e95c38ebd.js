@@ -1,2 +1,2 @@
-webpackJsonp([37759361918206],{2021:function(e,o){e.exports={data:{proceduresJson:{code:"G6015",name:"Radiation tx delivery imrt"}},pathContext:{slug:"procedures/G6015"}}}});
+webpackJsonp([37759361918206],{1871:function(e,o){e.exports={data:{proceduresJson:{code:"G6015",name:"Radiation tx delivery imrt"}},pathContext:{slug:"procedures/G6015"}}}});
 //# sourceMappingURL=path---procedures-g-6015-f6f94bb3cd6e95c38ebd.js.map

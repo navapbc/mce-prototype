@@ -1,2 +1,2 @@
-webpackJsonp([0x6e8b220d3812],{1889:function(e,o){e.exports={data:{proceduresJson:{code:"A9515",name:"Choline c-11"}},pathContext:{slug:"procedures/A9515"}}}});
+webpackJsonp([0x6e8b220d3812],{1741:function(e,o){e.exports={data:{proceduresJson:{code:"A9515",name:"Choline c-11"}},pathContext:{slug:"procedures/A9515"}}}});
 //# sourceMappingURL=path---procedures-a-9515-34be25c010e7b0891c1f.js.map

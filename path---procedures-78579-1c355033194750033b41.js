@@ -1,2 +1,2 @@
-webpackJsonp([0xe6b1bcfd6c05],{1653:function(e,n){e.exports={data:{proceduresJson:{code:"78579",name:"Lung ventilation imaging"}},pathContext:{slug:"procedures/78579"}}}});
+webpackJsonp([0xe6b1bcfd6c05],{1523:function(e,n){e.exports={data:{proceduresJson:{code:"78579",name:"Lung ventilation imaging"}},pathContext:{slug:"procedures/78579"}}}});
 //# sourceMappingURL=path---procedures-78579-1c355033194750033b41.js.map

@@ -1,2 +1,2 @@
-webpackJsonp([0x6a742583a007],{1860:function(e,o){e.exports={data:{proceduresJson:{code:"97546",name:"Work hardening add-on"}},pathContext:{slug:"procedures/97546"}}}});
+webpackJsonp([0x6a742583a007],{1713:function(e,o){e.exports={data:{proceduresJson:{code:"97546",name:"Work hardening add-on"}},pathContext:{slug:"procedures/97546"}}}});
 //# sourceMappingURL=path---procedures-97546-623c16a9e93aeddf45d6.js.map

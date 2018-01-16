@@ -1,2 +1,2 @@
-webpackJsonp([86256000998085],{1229:function(e,o){e.exports={data:{proceduresJson:{code:"70336",name:"Magnetic image jaw joint"}},pathContext:{slug:"procedures/70336"}}}});
+webpackJsonp([86256000998085],{1147:function(e,o){e.exports={data:{proceduresJson:{code:"70336",name:"Magnetic image jaw joint"}},pathContext:{slug:"procedures/70336"}}}});
 //# sourceMappingURL=path---procedures-70336-5ed735c850a731d632b1.js.map

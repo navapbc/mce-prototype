@@ -1,2 +1,2 @@
-webpackJsonp([0xe78eb3a4eb80],{1226:function(e,o){e.exports={data:{proceduresJson:{code:"70320",name:"Full mouth x-ray of teeth"}},pathContext:{slug:"procedures/70320"}}}});
+webpackJsonp([0xe78eb3a4eb80],{1144:function(e,o){e.exports={data:{proceduresJson:{code:"70320",name:"Full mouth x-ray of teeth"}},pathContext:{slug:"procedures/70320"}}}});
 //# sourceMappingURL=path---procedures-70320-e429d7e6c3f5f7441ad6.js.map

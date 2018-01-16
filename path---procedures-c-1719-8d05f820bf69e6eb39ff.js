@@ -1,2 +1,2 @@
-webpackJsonp([0x715279438399],{1950:function(e,o){e.exports={data:{proceduresJson:{code:"C1719",name:"Brachytx, NS, Non-HDRIr-192"}},pathContext:{slug:"procedures/C1719"}}}});
+webpackJsonp([0x715279438399],{1802:function(e,o){e.exports={data:{proceduresJson:{code:"C1719",name:"Brachytx, NS, Non-HDRIr-192"}},pathContext:{slug:"procedures/C1719"}}}});
 //# sourceMappingURL=path---procedures-c-1719-8d05f820bf69e6eb39ff.js.map

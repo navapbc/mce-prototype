@@ -1,2 +1,2 @@
-webpackJsonp([56045927119429],{1567:function(e,n){e.exports={data:{proceduresJson:{code:"77786",name:"HDR brachytx 2-12 channel"}},pathContext:{slug:"procedures/77786"}}}});
+webpackJsonp([56045927119429],{1439:function(e,n){e.exports={data:{proceduresJson:{code:"77786",name:"HDR brachytx 2-12 channel"}},pathContext:{slug:"procedures/77786"}}}});
 //# sourceMappingURL=path---procedures-77786-aea1f82db77ce41aeb4c.js.map

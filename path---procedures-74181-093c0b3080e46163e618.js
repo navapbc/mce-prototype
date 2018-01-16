@@ -1,2 +1,2 @@
-webpackJsonp([0x9948ab3c14a8],{1399:function(e,o){e.exports={data:{proceduresJson:{code:"74181",name:"Mri abdomen w/o dye"}},pathContext:{slug:"procedures/74181"}}}});
+webpackJsonp([0x9948ab3c14a8],{1300:function(e,o){e.exports={data:{proceduresJson:{code:"74181",name:"Mri abdomen w/o dye"}},pathContext:{slug:"procedures/74181"}}}});
 //# sourceMappingURL=path---procedures-74181-093c0b3080e46163e618.js.map

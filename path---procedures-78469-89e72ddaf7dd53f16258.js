@@ -1,2 +1,2 @@
-webpackJsonp([0xa7a10b029c99],{1643:function(e,a){e.exports={data:{proceduresJson:{code:"78469",name:"Heart infarct image (3D)"}},pathContext:{slug:"procedures/78469"}}}});
+webpackJsonp([0xa7a10b029c99],{1513:function(e,a){e.exports={data:{proceduresJson:{code:"78469",name:"Heart infarct image (3D)"}},pathContext:{slug:"procedures/78469"}}}});
 //# sourceMappingURL=path---procedures-78469-89e72ddaf7dd53f16258.js.map

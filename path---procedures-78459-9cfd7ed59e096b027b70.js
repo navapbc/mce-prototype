@@ -1,2 +1,2 @@
-webpackJsonp([74025509028972],{1640:function(e,o){e.exports={data:{proceduresJson:{code:"78459",name:"Heart muscle imaging (PET)"}},pathContext:{slug:"procedures/78459"}}}});
+webpackJsonp([74025509028972],{1510:function(e,o){e.exports={data:{proceduresJson:{code:"78459",name:"Heart muscle imaging (PET)"}},pathContext:{slug:"procedures/78459"}}}});
 //# sourceMappingURL=path---procedures-78459-9cfd7ed59e096b027b70.js.map

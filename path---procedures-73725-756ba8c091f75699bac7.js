@@ -1,2 +1,2 @@
-webpackJsonp([0xffe60e111f9a],{1386:function(e,o){e.exports={data:{proceduresJson:{code:"73725",name:"Mr ang lwr ext w or w/o dye"}},pathContext:{slug:"procedures/73725"}}}});
+webpackJsonp([0xffe60e111f9a],{1287:function(e,o){e.exports={data:{proceduresJson:{code:"73725",name:"Mr ang lwr ext w or w/o dye"}},pathContext:{slug:"procedures/73725"}}}});
 //# sourceMappingURL=path---procedures-73725-756ba8c091f75699bac7.js.map

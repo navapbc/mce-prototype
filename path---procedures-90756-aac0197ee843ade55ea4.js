@@ -1,2 +1,2 @@
-webpackJsonp([34243383566057],{1750:function(e,o){e.exports={data:{proceduresJson:{code:"90756",name:"CCIIV4 vacc abx free im"}},pathContext:{slug:"procedures/90756"}}}});
+webpackJsonp([34243383566057],{1618:function(e,o){e.exports={data:{proceduresJson:{code:"90756",name:"CCIIV4 vacc abx free im"}},pathContext:{slug:"procedures/90756"}}}});
 //# sourceMappingURL=path---procedures-90756-aac0197ee843ade55ea4.js.map

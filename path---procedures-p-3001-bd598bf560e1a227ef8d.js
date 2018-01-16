@@ -1,2 +1,2 @@
-webpackJsonp([25930298193079],{2030:function(e,p){e.exports={data:{proceduresJson:{code:"P3001",name:"Screening pap smear by phys"}},pathContext:{slug:"procedures/P3001"}}}});
+webpackJsonp([25930298193079],{1880:function(e,p){e.exports={data:{proceduresJson:{code:"P3001",name:"Screening pap smear by phys"}},pathContext:{slug:"procedures/P3001"}}}});
 //# sourceMappingURL=path---procedures-p-3001-bd598bf560e1a227ef8d.js.map

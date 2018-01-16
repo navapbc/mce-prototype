@@ -1,2 +1,2 @@
-webpackJsonp([59600042933362],{1632:function(e,o){e.exports={data:{proceduresJson:{code:"78445",name:"Vascular flow imaging"}},pathContext:{slug:"procedures/78445"}}}});
+webpackJsonp([59600042933362],{1502:function(e,o){e.exports={data:{proceduresJson:{code:"78445",name:"Vascular flow imaging"}},pathContext:{slug:"procedures/78445"}}}});
 //# sourceMappingURL=path---procedures-78445-4bf93984039c1225e51d.js.map

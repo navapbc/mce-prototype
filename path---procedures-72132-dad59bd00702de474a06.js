@@ -1,2 +1,2 @@
-webpackJsonp([0xa5d8f4c0e541],{1305:function(e,o){e.exports={data:{proceduresJson:{code:"72132",name:"Ct lumbar spine w/dye"}},pathContext:{slug:"procedures/72132"}}}});
+webpackJsonp([0xa5d8f4c0e541],{1214:function(e,o){e.exports={data:{proceduresJson:{code:"72132",name:"Ct lumbar spine w/dye"}},pathContext:{slug:"procedures/72132"}}}});
 //# sourceMappingURL=path---procedures-72132-dad59bd00702de474a06.js.map

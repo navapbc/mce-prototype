@@ -1,2 +1,2 @@
-webpackJsonp([0xb53140642c39],{1321:function(e,o){e.exports={data:{proceduresJson:{code:"72193",name:"Ct pelvis w/dye"}},pathContext:{slug:"procedures/72193"}}}});
+webpackJsonp([0xb53140642c39],{1229:function(e,o){e.exports={data:{proceduresJson:{code:"72193",name:"Ct pelvis w/dye"}},pathContext:{slug:"procedures/72193"}}}});
 //# sourceMappingURL=path---procedures-72193-f7f8e57add560728ba6c.js.map

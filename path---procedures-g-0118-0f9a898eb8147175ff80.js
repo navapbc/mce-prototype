@@ -1,2 +1,2 @@
-webpackJsonp([0x676a4422f04a],{1972:function(e,a){e.exports={data:{proceduresJson:{code:"G0118",name:"Glaucoma scrn hgh risk direc"}},pathContext:{slug:"procedures/G0118"}}}});
+webpackJsonp([0x676a4422f04a],{1824:function(e,a){e.exports={data:{proceduresJson:{code:"G0118",name:"Glaucoma scrn hgh risk direc"}},pathContext:{slug:"procedures/G0118"}}}});
 //# sourceMappingURL=path---procedures-g-0118-0f9a898eb8147175ff80.js.map

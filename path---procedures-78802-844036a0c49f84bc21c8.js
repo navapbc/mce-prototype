@@ -1,2 +1,2 @@
-webpackJsonp([71198446335222],{1686:function(o,e){o.exports={data:{proceduresJson:{code:"78802",name:"Tumor imaging whole body"}},pathContext:{slug:"procedures/78802"}}}});
+webpackJsonp([71198446335222],{1555:function(o,e){o.exports={data:{proceduresJson:{code:"78802",name:"Tumor imaging whole body"}},pathContext:{slug:"procedures/78802"}}}});
 //# sourceMappingURL=path---procedures-78802-844036a0c49f84bc21c8.js.map

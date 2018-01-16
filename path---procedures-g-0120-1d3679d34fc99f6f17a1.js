@@ -1,2 +1,2 @@
-webpackJsonp([0xea1895644123],{1973:function(e,o){e.exports={data:{proceduresJson:{code:"G0120",name:"Colon ca scrn; barium enema"}},pathContext:{slug:"procedures/G0120"}}}});
+webpackJsonp([0xea1895644123],{1825:function(e,o){e.exports={data:{proceduresJson:{code:"G0120",name:"Colon ca scrn; barium enema"}},pathContext:{slug:"procedures/G0120"}}}});
 //# sourceMappingURL=path---procedures-g-0120-1d3679d34fc99f6f17a1.js.map

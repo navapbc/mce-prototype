@@ -1,2 +1,2 @@
-webpackJsonp([0xa8c8c2d66907],{1735:function(e,c){e.exports={data:{proceduresJson:{code:"90670",name:"PCV13 vaccine im"}},pathContext:{slug:"procedures/90670"}}}});
+webpackJsonp([0xa8c8c2d66907],{1603:function(e,c){e.exports={data:{proceduresJson:{code:"90670",name:"PCV13 vaccine im"}},pathContext:{slug:"procedures/90670"}}}});
 //# sourceMappingURL=path---procedures-90670-44263e74999f6da0349f.js.map

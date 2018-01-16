@@ -1,2 +1,2 @@
-webpackJsonp([0x66534181872e],{1615:function(e,t){e.exports={data:{proceduresJson:{code:"78267",name:"Breath tst attain/anal c-14"}},pathContext:{slug:"procedures/78267"}}}});
+webpackJsonp([0x66534181872e],{1485:function(e,t){e.exports={data:{proceduresJson:{code:"78267",name:"Breath tst attain/anal c-14"}},pathContext:{slug:"procedures/78267"}}}});
 //# sourceMappingURL=path---procedures-78267-941e90f84a5e40c8fa5c.js.map

@@ -1,2 +1,2 @@
-webpackJsonp([71150440299013],{1549:function(e,o){e.exports={data:{proceduresJson:{code:"77525",name:"Proton treatment complex"}},pathContext:{slug:"procedures/77525"}}}});
+webpackJsonp([71150440299013],{1428:function(e,o){e.exports={data:{proceduresJson:{code:"77525",name:"Proton treatment complex"}},pathContext:{slug:"procedures/77525"}}}});
 //# sourceMappingURL=path---procedures-77525-ee5314785c01d1419e6f.js.map

@@ -1,2 +1,2 @@
-webpackJsonp([0x7f07321059ee],{2050:function(e,o){e.exports={data:{proceduresJson:{code:"Q9957",name:"Inj perflutren lip micros,ml"}},pathContext:{slug:"procedures/Q9957"}}}});
+webpackJsonp([0x7f07321059ee],{1900:function(e,o){e.exports={data:{proceduresJson:{code:"Q9957",name:"Inj perflutren lip micros,ml"}},pathContext:{slug:"procedures/Q9957"}}}});
 //# sourceMappingURL=path---procedures-q-9957-0d2e5a2e082e65b5d6bd.js.map

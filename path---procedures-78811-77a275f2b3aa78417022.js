@@ -1,2 +1,2 @@
-webpackJsonp([0x5b1166a3cac0],{1692:function(e,a){e.exports={data:{proceduresJson:{code:"78811",name:"PET image ltd area"}},pathContext:{slug:"procedures/78811"}}}});
+webpackJsonp([0x5b1166a3cac0],{1560:function(e,a){e.exports={data:{proceduresJson:{code:"78811",name:"PET image ltd area"}},pathContext:{slug:"procedures/78811"}}}});
 //# sourceMappingURL=path---procedures-78811-77a275f2b3aa78417022.js.map

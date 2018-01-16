@@ -1,2 +1,2 @@
-webpackJsonp([62045205816129],{1683:function(e,n){e.exports={data:{proceduresJson:{code:"78799",name:"Genitourinary nuclear exam"}},pathContext:{slug:"procedures/78799"}}}});
+webpackJsonp([62045205816129],{1552:function(e,n){e.exports={data:{proceduresJson:{code:"78799",name:"Genitourinary nuclear exam"}},pathContext:{slug:"procedures/78799"}}}});
 //# sourceMappingURL=path---procedures-78799-e1d6e3a3096c8a52015f.js.map

@@ -1,2 +1,2 @@
-webpackJsonp([0x883e62b84442],{1983:function(e,o){e.exports={data:{proceduresJson:{code:"G0173",name:"Linear acc stereo radsur com"}},pathContext:{slug:"procedures/G0173"}}}});
+webpackJsonp([0x883e62b84442],{1833:function(e,o){e.exports={data:{proceduresJson:{code:"G0173",name:"Linear acc stereo radsur com"}},pathContext:{slug:"procedures/G0173"}}}});
 //# sourceMappingURL=path---procedures-g-0173-bc899f15a8bb48c601af.js.map

@@ -1,2 +1,2 @@
-webpackJsonp([0x827ec814da0e],{1877:function(e,o){e.exports={data:{proceduresJson:{code:"A4650",name:"Implant radiation dosimeter"}},pathContext:{slug:"procedures/A4650"}}}});
+webpackJsonp([0x827ec814da0e],{1729:function(e,o){e.exports={data:{proceduresJson:{code:"A4650",name:"Implant radiation dosimeter"}},pathContext:{slug:"procedures/A4650"}}}});
 //# sourceMappingURL=path---procedures-a-4650-f2e2fbf12f8ab9f1c74b.js.map

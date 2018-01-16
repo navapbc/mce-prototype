@@ -1,2 +1,2 @@
-webpackJsonp([0xadcb4ee5b948],{1413:function(e,o){e.exports={data:{proceduresJson:{code:"74261",name:"Ct colonography dx"}},pathContext:{slug:"procedures/74261"}}}});
+webpackJsonp([0xadcb4ee5b948],{1310:function(e,o){e.exports={data:{proceduresJson:{code:"74261",name:"Ct colonography dx"}},pathContext:{slug:"procedures/74261"}}}});
 //# sourceMappingURL=path---procedures-74261-4a2f4392adcc2b69aee2.js.map

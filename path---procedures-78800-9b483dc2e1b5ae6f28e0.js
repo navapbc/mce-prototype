@@ -1,2 +1,2 @@
-webpackJsonp([0x7d6979e5b552],{1684:function(e,o){e.exports={data:{proceduresJson:{code:"78800",name:"Tumor imaging limited area"}},pathContext:{slug:"procedures/78800"}}}});
+webpackJsonp([0x7d6979e5b552],{1553:function(e,o){e.exports={data:{proceduresJson:{code:"78800",name:"Tumor imaging limited area"}},pathContext:{slug:"procedures/78800"}}}});
 //# sourceMappingURL=path---procedures-78800-9b483dc2e1b5ae6f28e0.js.map

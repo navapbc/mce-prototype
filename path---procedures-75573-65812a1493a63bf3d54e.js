@@ -1,2 +1,2 @@
-webpackJsonp([0x70dfc6b90f08],{1425:function(e,o){e.exports={data:{proceduresJson:{code:"75573",name:"Ct hrt w/3d image congen"}},pathContext:{slug:"procedures/75573"}}}});
+webpackJsonp([0x70dfc6b90f08],{1322:function(e,o){e.exports={data:{proceduresJson:{code:"75573",name:"Ct hrt w/3d image congen"}},pathContext:{slug:"procedures/75573"}}}});
 //# sourceMappingURL=path---procedures-75573-65812a1493a63bf3d54e.js.map

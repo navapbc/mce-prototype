@@ -1,2 +1,2 @@
-webpackJsonp([5959460988121],{1933:function(e,n){e.exports={data:{proceduresJson:{code:"A9577",name:"Inj multihance"}},pathContext:{slug:"procedures/A9577"}}}});
+webpackJsonp([5959460988121],{1785:function(e,n){e.exports={data:{proceduresJson:{code:"A9577",name:"Inj multihance"}},pathContext:{slug:"procedures/A9577"}}}});
 //# sourceMappingURL=path---procedures-a-9577-e8dccf8e7afd63f70154.js.map

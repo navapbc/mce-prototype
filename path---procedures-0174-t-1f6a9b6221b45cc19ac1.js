@@ -1,2 +1,2 @@
-webpackJsonp([38872296538068],{1170:function(e,o){e.exports={data:{proceduresJson:{code:"0174T",name:"Cad cxr with interp"}},pathContext:{slug:"procedures/0174T"}}}});
+webpackJsonp([38872296538068],{1095:function(e,o){e.exports={data:{proceduresJson:{code:"0174T",name:"Cad cxr with interp"}},pathContext:{slug:"procedures/0174T"}}}});
 //# sourceMappingURL=path---procedures-0174-t-1f6a9b6221b45cc19ac1.js.map

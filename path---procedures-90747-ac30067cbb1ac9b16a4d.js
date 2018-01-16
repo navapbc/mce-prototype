@@ -1,2 +1,2 @@
-webpackJsonp([0x9d101ede4e4d],{1749:function(e,o){e.exports={data:{proceduresJson:{code:"90747",name:"Hepb vacc 4 dose immunsup im"}},pathContext:{slug:"procedures/90747"}}}});
+webpackJsonp([0x9d101ede4e4d],{1617:function(e,o){e.exports={data:{proceduresJson:{code:"90747",name:"Hepb vacc 4 dose immunsup im"}},pathContext:{slug:"procedures/90747"}}}});
 //# sourceMappingURL=path---procedures-90747-ac30067cbb1ac9b16a4d.js.map

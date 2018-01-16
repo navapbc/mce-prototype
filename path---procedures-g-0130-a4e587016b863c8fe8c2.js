@@ -1,2 +1,2 @@
-webpackJsonp([0xec4f5497db61],{1976:function(e,n){e.exports={data:{proceduresJson:{code:"G0130",name:"Single energy x-ray study"}},pathContext:{slug:"procedures/G0130"}}}});
+webpackJsonp([0xec4f5497db61],{1828:function(e,n){e.exports={data:{proceduresJson:{code:"G0130",name:"Single energy x-ray study"}},pathContext:{slug:"procedures/G0130"}}}});
 //# sourceMappingURL=path---procedures-g-0130-a4e587016b863c8fe8c2.js.map

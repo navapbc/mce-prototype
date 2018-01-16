@@ -1,2 +1,2 @@
-webpackJsonp([4574186306616],{1482:function(e,o){e.exports={data:{proceduresJson:{code:"76977",name:"Us bone density measure"}},pathContext:{slug:"procedures/76977"}}}});
+webpackJsonp([4574186306616],{1375:function(e,o){e.exports={data:{proceduresJson:{code:"76977",name:"Us bone density measure"}},pathContext:{slug:"procedures/76977"}}}});
 //# sourceMappingURL=path---procedures-76977-05c395e32c330009f4b7.js.map

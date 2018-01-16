@@ -1,2 +1,2 @@
-webpackJsonp([17771577492578],{1774:function(e,o){e.exports={data:{proceduresJson:{code:"92612",name:"Endoscopy swallow tst (fees)"}},pathContext:{slug:"procedures/92612"}}}});
+webpackJsonp([17771577492578],{1641:function(e,o){e.exports={data:{proceduresJson:{code:"92612",name:"Endoscopy swallow tst (fees)"}},pathContext:{slug:"procedures/92612"}}}});
 //# sourceMappingURL=path---procedures-92612-8f894df72297ec8dea4f.js.map

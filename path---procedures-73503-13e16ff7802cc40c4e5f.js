@@ -1,2 +1,2 @@
-webpackJsonp([0x9418555f0688],{1358:function(e,o){e.exports={data:{proceduresJson:{code:"73503",name:"X-ray exam hip uni 4/> views"}},pathContext:{slug:"procedures/73503"}}}});
+webpackJsonp([0x9418555f0688],{1261:function(e,o){e.exports={data:{proceduresJson:{code:"73503",name:"X-ray exam hip uni 4/> views"}},pathContext:{slug:"procedures/73503"}}}});
 //# sourceMappingURL=path---procedures-73503-13e16ff7802cc40c4e5f.js.map

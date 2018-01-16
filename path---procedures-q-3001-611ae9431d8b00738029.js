@@ -1,2 +1,2 @@
-webpackJsonp([0x88b6db88fcea],{2044:function(e,a){e.exports={data:{proceduresJson:{code:"Q3001",name:"Brachytherapy Radioelements"}},pathContext:{slug:"procedures/Q3001"}}}});
+webpackJsonp([0x88b6db88fcea],{1894:function(e,a){e.exports={data:{proceduresJson:{code:"Q3001",name:"Brachytherapy Radioelements"}},pathContext:{slug:"procedures/Q3001"}}}});
 //# sourceMappingURL=path---procedures-q-3001-611ae9431d8b00738029.js.map

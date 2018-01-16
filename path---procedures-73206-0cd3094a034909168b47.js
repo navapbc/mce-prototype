@@ -1,2 +1,2 @@
-webpackJsonp([0xfdbd2cc426fc],{1348:function(e,o){e.exports={data:{proceduresJson:{code:"73206",name:"Ct angio upr extrm w/o&w/dye"}},pathContext:{slug:"procedures/73206"}}}});
+webpackJsonp([0xfdbd2cc426fc],{1251:function(e,o){e.exports={data:{proceduresJson:{code:"73206",name:"Ct angio upr extrm w/o&w/dye"}},pathContext:{slug:"procedures/73206"}}}});
 //# sourceMappingURL=path---procedures-73206-0cd3094a034909168b47.js.map

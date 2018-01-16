@@ -1,2 +1,2 @@
-webpackJsonp([0xc39c48130ba1],{1556:function(e,a){e.exports={data:{proceduresJson:{code:"77761",name:"Apply intrcav radiat simple"}},pathContext:{slug:"procedures/77761"}}}});
+webpackJsonp([0xc39c48130ba1],{1431:function(e,a){e.exports={data:{proceduresJson:{code:"77761",name:"Apply intrcav radiat simple"}},pathContext:{slug:"procedures/77761"}}}});
 //# sourceMappingURL=path---procedures-77761-1310a65314f3b11aa0c4.js.map

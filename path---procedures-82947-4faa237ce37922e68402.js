@@ -1,2 +1,2 @@
-webpackJsonp([0x866f9aa0c11c],{1710:function(e,o){e.exports={data:{proceduresJson:{code:"82947",name:"Assay glucose blood quant [only when billed with ICD-9-CM code V77.1]"}},pathContext:{slug:"procedures/82947"}}}});
+webpackJsonp([0x866f9aa0c11c],{1578:function(e,o){e.exports={data:{proceduresJson:{code:"82947",name:"Assay glucose blood quant [only when billed with ICD-9-CM code V77.1]"}},pathContext:{slug:"procedures/82947"}}}});
 //# sourceMappingURL=path---procedures-82947-4faa237ce37922e68402.js.map

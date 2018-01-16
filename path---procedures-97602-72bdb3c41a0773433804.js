@@ -1,2 +1,2 @@
-webpackJsonp([91009191657815],{1863:function(e,o){e.exports={data:{proceduresJson:{code:"97602",name:"Wound(s) care non-selective"}},pathContext:{slug:"procedures/97602"}}}});
+webpackJsonp([91009191657815],{1716:function(e,o){e.exports={data:{proceduresJson:{code:"97602",name:"Wound(s) care non-selective"}},pathContext:{slug:"procedures/97602"}}}});
 //# sourceMappingURL=path---procedures-97602-72bdb3c41a0773433804.js.map

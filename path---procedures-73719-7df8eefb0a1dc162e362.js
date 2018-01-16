@@ -1,2 +1,2 @@
-webpackJsonp([28155709709723],{1381:function(e,o){e.exports={data:{proceduresJson:{code:"73719",name:"Mri lower extremity w/dye"}},pathContext:{slug:"procedures/73719"}}}});
+webpackJsonp([28155709709723],{1282:function(e,o){e.exports={data:{proceduresJson:{code:"73719",name:"Mri lower extremity w/dye"}},pathContext:{slug:"procedures/73719"}}}});
 //# sourceMappingURL=path---procedures-73719-7df8eefb0a1dc162e362.js.map

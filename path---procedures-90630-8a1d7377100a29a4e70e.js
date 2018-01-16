@@ -1,2 +1,2 @@
-webpackJsonp([0x6d274184528f],{1727:function(e,o){e.exports={data:{proceduresJson:{code:"90630",name:"Flu vacc iiv4 no preserv id"}},pathContext:{slug:"procedures/90630"}}}});
+webpackJsonp([0x6d274184528f],{1595:function(e,o){e.exports={data:{proceduresJson:{code:"90630",name:"Flu vacc iiv4 no preserv id"}},pathContext:{slug:"procedures/90630"}}}});
 //# sourceMappingURL=path---procedures-90630-8a1d7377100a29a4e70e.js.map

@@ -1,2 +1,2 @@
-webpackJsonp([0x9875ee7bb421],{1376:function(e,o){e.exports={data:{proceduresJson:{code:"73700",name:"Ct lower extremity w/o dye"}},pathContext:{slug:"procedures/73700"}}}});
+webpackJsonp([0x9875ee7bb421],{1277:function(e,o){e.exports={data:{proceduresJson:{code:"73700",name:"Ct lower extremity w/o dye"}},pathContext:{slug:"procedures/73700"}}}});
 //# sourceMappingURL=path---procedures-73700-bba35bee2ad52a77cfa8.js.map

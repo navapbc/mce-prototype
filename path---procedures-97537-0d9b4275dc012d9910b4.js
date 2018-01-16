@@ -1,2 +1,2 @@
-webpackJsonp([0xb6f9caf908b3],{1857:function(e,o){e.exports={data:{proceduresJson:{code:"97537",name:"Community/work reintegration"}},pathContext:{slug:"procedures/97537"}}}});
+webpackJsonp([0xb6f9caf908b3],{1710:function(e,o){e.exports={data:{proceduresJson:{code:"97537",name:"Community/work reintegration"}},pathContext:{slug:"procedures/97537"}}}});
 //# sourceMappingURL=path---procedures-97537-0d9b4275dc012d9910b4.js.map

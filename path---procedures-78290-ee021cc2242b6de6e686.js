@@ -1,2 +1,2 @@
-webpackJsonp([0xb2d37a544e13],{1622:function(e,o){e.exports={data:{proceduresJson:{code:"78290",name:"Meckels divert exam"}},pathContext:{slug:"procedures/78290"}}}});
+webpackJsonp([0xb2d37a544e13],{1492:function(e,o){e.exports={data:{proceduresJson:{code:"78290",name:"Meckels divert exam"}},pathContext:{slug:"procedures/78290"}}}});
 //# sourceMappingURL=path---procedures-78290-ee021cc2242b6de6e686.js.map

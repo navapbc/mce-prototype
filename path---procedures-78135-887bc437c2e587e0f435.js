@@ -1,2 +1,2 @@
-webpackJsonp([0xfa0c99238212],{1592:function(e,c){e.exports={data:{proceduresJson:{code:"78135",name:"Red cell survival kinetics"}},pathContext:{slug:"procedures/78135"}}}});
+webpackJsonp([0xfa0c99238212],{1463:function(e,c){e.exports={data:{proceduresJson:{code:"78135",name:"Red cell survival kinetics"}},pathContext:{slug:"procedures/78135"}}}});
 //# sourceMappingURL=path---procedures-78135-887bc437c2e587e0f435.js.map

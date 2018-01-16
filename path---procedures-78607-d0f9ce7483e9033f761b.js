@@ -1,2 +1,2 @@
-webpackJsonp([0x919264b3394],{1663:function(e,n){e.exports={data:{proceduresJson:{code:"78607",name:"Brain imaging (3D)"}},pathContext:{slug:"procedures/78607"}}}});
+webpackJsonp([0x919264b3394],{1533:function(e,n){e.exports={data:{proceduresJson:{code:"78607",name:"Brain imaging (3D)"}},pathContext:{slug:"procedures/78607"}}}});
 //# sourceMappingURL=path---procedures-78607-d0f9ce7483e9033f761b.js.map

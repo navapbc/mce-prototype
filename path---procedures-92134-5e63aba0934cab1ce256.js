@@ -1,2 +1,2 @@
-webpackJsonp([46750609128162],{1757:function(e,o){e.exports={data:{proceduresJson:{code:"92134",name:"Cptr ophth dx img post segmt"}},pathContext:{slug:"procedures/92134"}}}});
+webpackJsonp([46750609128162],{1625:function(e,o){e.exports={data:{proceduresJson:{code:"92134",name:"Cptr ophth dx img post segmt"}},pathContext:{slug:"procedures/92134"}}}});
 //# sourceMappingURL=path---procedures-92134-5e63aba0934cab1ce256.js.map

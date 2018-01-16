@@ -1,2 +1,2 @@
-webpackJsonp([55688309437342],{1415:function(e,a){e.exports={data:{proceduresJson:{code:"74290",name:"Contrast x-ray gallbladder"}},pathContext:{slug:"procedures/74290"}}}});
+webpackJsonp([55688309437342],{1312:function(e,a){e.exports={data:{proceduresJson:{code:"74290",name:"Contrast x-ray gallbladder"}},pathContext:{slug:"procedures/74290"}}}});
 //# sourceMappingURL=path---procedures-74290-067bf5dd8add868f2fa1.js.map

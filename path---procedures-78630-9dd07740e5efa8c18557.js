@@ -1,2 +1,2 @@
-webpackJsonp([0xc3aac0b0f281],{1666:function(e,a){e.exports={data:{proceduresJson:{code:"78630",name:"Cerebrospinal fluid scan"}},pathContext:{slug:"procedures/78630"}}}});
+webpackJsonp([0xc3aac0b0f281],{1536:function(e,a){e.exports={data:{proceduresJson:{code:"78630",name:"Cerebrospinal fluid scan"}},pathContext:{slug:"procedures/78630"}}}});
 //# sourceMappingURL=path---procedures-78630-9dd07740e5efa8c18557.js.map

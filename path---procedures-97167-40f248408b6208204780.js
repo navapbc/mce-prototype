@@ -1,2 +1,2 @@
-webpackJsonp([0xb18250868630],{1852:function(e,o){e.exports={data:{proceduresJson:{code:"97167",name:"Ot eval high complex 60 min"}},pathContext:{slug:"procedures/97167"}}}});
+webpackJsonp([0xb18250868630],{1705:function(e,o){e.exports={data:{proceduresJson:{code:"97167",name:"Ot eval high complex 60 min"}},pathContext:{slug:"procedures/97167"}}}});
 //# sourceMappingURL=path---procedures-97167-40f248408b6208204780.js.map

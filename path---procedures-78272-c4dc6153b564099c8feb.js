@@ -1,2 +1,2 @@
-webpackJsonp([1936472161432],{1619:function(e,o){e.exports={data:{proceduresJson:{code:"78272",name:"Vit B-12 absorp combined"}},pathContext:{slug:"procedures/78272"}}}});
+webpackJsonp([1936472161432],{1489:function(e,o){e.exports={data:{proceduresJson:{code:"78272",name:"Vit B-12 absorp combined"}},pathContext:{slug:"procedures/78272"}}}});
 //# sourceMappingURL=path---procedures-78272-c4dc6153b564099c8feb.js.map

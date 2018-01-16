@@ -1,2 +1,2 @@
-webpackJsonp([0x7ee55afe9cfe],{1703:function(e,o){e.exports={data:{proceduresJson:{code:"79403",name:"Hematopoietic nuclear tx"}},pathContext:{slug:"procedures/79403"}}}});
+webpackJsonp([0x7ee55afe9cfe],{1571:function(e,o){e.exports={data:{proceduresJson:{code:"79403",name:"Hematopoietic nuclear tx"}},pathContext:{slug:"procedures/79403"}}}});
 //# sourceMappingURL=path---procedures-79403-281aab8550848964a52f.js.map

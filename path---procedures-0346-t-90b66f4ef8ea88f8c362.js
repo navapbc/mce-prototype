@@ -1,2 +1,2 @@
-webpackJsonp([0xf9816595b17a],{1176:function(e,o){e.exports={data:{proceduresJson:{code:"0346T",name:"Ultrasound elastography"}},pathContext:{slug:"procedures/0346T"}}}});
+webpackJsonp([0xf9816595b17a],{1101:function(e,o){e.exports={data:{proceduresJson:{code:"0346T",name:"Ultrasound elastography"}},pathContext:{slug:"procedures/0346T"}}}});
 //# sourceMappingURL=path---procedures-0346-t-90b66f4ef8ea88f8c362.js.map

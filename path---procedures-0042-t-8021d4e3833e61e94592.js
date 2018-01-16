@@ -1,2 +1,2 @@
-webpackJsonp([0x766e6907592e],{1166:function(e,o){e.exports={data:{proceduresJson:{code:"0042T",name:"Ct perfusion w/contrast cbf"}},pathContext:{slug:"procedures/0042T"}}}});
+webpackJsonp([0x766e6907592e],{1091:function(e,o){e.exports={data:{proceduresJson:{code:"0042T",name:"Ct perfusion w/contrast cbf"}},pathContext:{slug:"procedures/0042T"}}}});
 //# sourceMappingURL=path---procedures-0042-t-8021d4e3833e61e94592.js.map

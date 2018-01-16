@@ -1,2 +1,2 @@
-webpackJsonp([0x6dcdd25a5598],{1777:function(a,e){a.exports={data:{proceduresJson:{code:"92974",name:"Cath place cardio brachytx"}},pathContext:{slug:"procedures/92974"}}}});
+webpackJsonp([0x6dcdd25a5598],{1644:function(a,e){a.exports={data:{proceduresJson:{code:"92974",name:"Cath place cardio brachytx"}},pathContext:{slug:"procedures/92974"}}}});
 //# sourceMappingURL=path---procedures-92974-afbe9060cd9c6f3e9c8f.js.map
