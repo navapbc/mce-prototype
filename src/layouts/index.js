@@ -5,7 +5,7 @@ import PropTypes from "prop-types";
 import React from "react";
 import { SkipNav } from "@cmsgov/design-system-core";
 
-const TemplateWrapper = ({ children, data }) => (
+const TemplateWrapper = ({ children, data, location }) => (
   <div className="ds-base">
     <SkipNav href="#main" />
     <Helmet
@@ -22,16 +22,17 @@ const TemplateWrapper = ({ children, data }) => (
         }
       ]}
     />
-    <Header title={data.site.siteMetadata.title} />
-    <main id="main" className="ds-l-container">
-      {children()}
-    </main>
+    {location.pathname !== "/" && (
+      <Header title={data.site.siteMetadata.title} />
+    )}
+    <main id="main">{children()}</main>
   </div>
 );
 
 TemplateWrapper.propTypes = {
   children: PropTypes.func,
-  data: PropTypes.object
+  data: PropTypes.object,
+  location: PropTypes.object
 };
 
 export default TemplateWrapper;

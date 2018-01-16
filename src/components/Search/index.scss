@@ -1,0 +1,10 @@
+@import '@cmsgov/design-system-support/src/index';
+
+.field--search {
+  background-image: url('../../images/search.svg');
+  background-position: $spacer-2 center;
+  background-repeat: no-repeat;
+  background-size: 24px;
+  max-width: 60ch;
+  padding-left: $spacer-6;
+}
