@@ -2,9 +2,9 @@
 
 .input--search {
   background-image: url('../../images/search.svg');
-  background-position: $spacer-2 center;
+  background-position: $spacer-1 center;
   background-repeat: no-repeat;
   background-size: 24px;
   max-width: 60ch;
-  padding-left: $spacer-6;
+  padding-left: $spacer-1 + 24px + $spacer-1;
 }
