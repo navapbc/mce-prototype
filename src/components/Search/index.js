@@ -46,9 +46,8 @@ class Search extends React.PureComponent {
    * Event handler for when an autocomplete option is selected
    */
   handleAutocompleteChange(procedure) {
-    this.setState({
-      selectedProcedureSlug: procedure.slug
-    });
+    const slug = procedure ? procedure.slug : null;
+    this.setState({ selectedProcedureSlug: slug });
   }
 
   /**
@@ -141,7 +140,12 @@ class Search extends React.PureComponent {
       name="procedure"
     /> */}
         <div className="ds-l-col ds-l-col--12 ds-u-padding-top--2">
-          <Button onClick={this.handleCompareClick} variation="primary">
+          <Button
+            onClick={this.handleCompareClick}
+            variation={
+              this.state.selectedProcedureSlug ? "primary" : "disabled"
+            }
+          >
             Compare prices
           </Button>
         </div>
