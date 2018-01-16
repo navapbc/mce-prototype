@@ -1,7 +1,3 @@
-// This is the base ESLint config that applies to all JavaScript files.
-// If you want to enable/disable a rule for a specific directory, add the
-// rule to the ESLint config file relative to the directory you want it
-// applied to.
 {
   "extends": ["@cmsgov/eslint-config-design-system"],
   "globals": { "graphql": true },
@@ -10,6 +6,7 @@
     "quotes": 0,
     "react/display-name": 0,
     "react/forbid-prop-types": 0,
+    "react/no-multi-comp": 0,
     "react/prop-types": 0
   }
 }
