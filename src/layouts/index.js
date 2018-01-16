@@ -15,6 +15,10 @@ const TemplateWrapper = ({ children, data }) => (
           name: "description",
           content:
             "Compare Medicare payments and copays for certain procedures in hospital outpatient departments and ambulatory surgery centers."
+        },
+        {
+          name: "robots",
+          content: "noindex, nofollow"
         }
       ]}
     />
