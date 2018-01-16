@@ -3,6 +3,7 @@ import { Autocomplete, Button, TextField } from "@cmsgov/design-system-core";
 import PropTypes from "prop-types";
 import React from "react";
 import _ from "lodash";
+import { navigateTo } from "gatsby-link";
 
 const labelClasses = "ds-u-font-weight--bold";
 const hintClasses = "ds-u-font-weight--normal ds-u-color--gray";
@@ -11,11 +12,12 @@ const fieldClasses = "ds-u-font-size--h3";
 class Search extends React.PureComponent {
   constructor(props) {
     super(props);
-    // Store a constance reference to all procedures so we can
+
     this.procedures = this.props.procedures.map(edge => ({
       id: edge.node.code,
       name: edge.node.name,
-      searchIndex: this.transformSearchTerm(edge.node.name)
+      searchIndex: this.transformSearchTerm(edge.node.name),
+      slug: edge.node.fields.slug
     }));
 
     this.state = {
@@ -24,6 +26,8 @@ class Search extends React.PureComponent {
       procedureValue: ""
     };
 
+    this.handleAutocompleteChange = this.handleAutocompleteChange.bind(this);
+    this.handleCompareClick = this.handleCompareClick.bind(this);
     this.handleProcedureFieldChange = this.handleProcedureFieldChange.bind(
       this
     );
@@ -36,6 +40,24 @@ class Search extends React.PureComponent {
    */
   transformSearchTerm(value) {
     return value.toLowerCase().replace(/\s/, "");
+  }
+
+  /**
+   * Event handler for when an autocomplete option is selected
+   */
+  handleAutocompleteChange(procedure) {
+    this.setState({
+      selectedProcedureSlug: procedure.slug
+    });
+  }
+
+  /**
+   * Event handler for the "Compare prices" button"
+   */
+  handleCompareClick() {
+    if (this.state.selectedProcedureSlug) {
+      return navigateTo(this.state.selectedProcedureSlug);
+    }
   }
 
   /**
@@ -55,7 +77,7 @@ class Search extends React.PureComponent {
       _.startsWith(newValue, this.state.procedureValue)
     ) {
       // Narrow our search on existing filtered options
-      optionsPendingFilter = this.state.procedureOptions;
+      optionsPendingFilter = [].concat(this.state.procedureOptions);
     } else {
       // Widen our search
       optionsPendingFilter = this.procedures;
@@ -77,6 +99,7 @@ class Search extends React.PureComponent {
         <Autocomplete
           items={this.state.procedureOptions}
           label="Select from the procedures below:"
+          onChange={this.handleAutocompleteChange}
         >
           <TextField
             label="Procedure name or code"
@@ -118,7 +141,9 @@ class Search extends React.PureComponent {
       name="procedure"
     /> */}
         <div className="ds-l-col ds-l-col--12 ds-u-padding-top--2">
-          <Button variation="primary">Compare prices</Button>
+          <Button onClick={this.handleCompareClick} variation="primary">
+            Compare prices
+          </Button>
         </div>
       </div>
     );

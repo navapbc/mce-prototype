@@ -28,6 +28,9 @@ export const query = graphql`
     allProceduresJson {
       edges {
         node {
+          fields {
+            slug
+          }
           code
           name
         }
