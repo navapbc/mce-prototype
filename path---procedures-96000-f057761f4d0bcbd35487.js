@@ -1,0 +1,2 @@
+webpackJsonp([43867768173933],{1812:function(o,e){o.exports={data:{proceduresJson:{code:"96000",name:"Motion analysis video/3d"}},pathContext:{slug:"procedures/96000"}}}});
+//# sourceMappingURL=path---procedures-96000-f057761f4d0bcbd35487.js.map

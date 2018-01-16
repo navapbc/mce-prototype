@@ -1,0 +1,2 @@
+webpackJsonp([0x5d96f83e4449],{1901:function(e,o){e.exports={data:{proceduresJson:{code:"A9543",name:"Y90 ibritumomab, rx"}},pathContext:{slug:"procedures/A9543"}}}});
+//# sourceMappingURL=path---procedures-a-9543-3f51897351d6ecfb8933.js.map

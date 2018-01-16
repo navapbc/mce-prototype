@@ -1,0 +1,2 @@
+webpackJsonp([23139978896123],{1633:function(o,e){o.exports={data:{proceduresJson:{code:"78457",name:"Venous thrombosis imaging"}},pathContext:{slug:"procedures/78457"}}}});
+//# sourceMappingURL=path---procedures-78457-6643ed4bb74edd8c851a.js.map

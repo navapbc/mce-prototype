@@ -1,0 +1,2 @@
+webpackJsonp([0x748f3808bb38],{1386:function(e,o){e.exports={data:{proceduresJson:{code:"74150",name:"Ct abdomen w/o dye"}},pathContext:{slug:"procedures/74150"}}}});
+//# sourceMappingURL=path---procedures-74150-3d6461f89c745e7dc56c.js.map

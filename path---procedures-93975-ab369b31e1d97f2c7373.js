@@ -1,0 +1,2 @@
+webpackJsonp([0xe6ba97271762],{1797:function(e,a){e.exports={data:{proceduresJson:{code:"93975",name:"Vascular study"}},pathContext:{slug:"procedures/93975"}}}});
+//# sourceMappingURL=path---procedures-93975-ab369b31e1d97f2c7373.js.map

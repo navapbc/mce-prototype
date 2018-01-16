@@ -1,0 +1,2 @@
+webpackJsonp([33294402209422],{1379:function(e,o){e.exports={data:{proceduresJson:{code:"73722",name:"Mri joint of lwr extr w/dye"}},pathContext:{slug:"procedures/73722"}}}});
+//# sourceMappingURL=path---procedures-73722-1d16932e915ccfd5fea0.js.map

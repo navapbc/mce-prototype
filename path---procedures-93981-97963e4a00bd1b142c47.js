@@ -1,0 +1,2 @@
+webpackJsonp([0xccf2f3b1ee2b],{1802:function(e,c){e.exports={data:{proceduresJson:{code:"93981",name:"Penile vascular study"}},pathContext:{slug:"procedures/93981"}}}});
+//# sourceMappingURL=path---procedures-93981-97963e4a00bd1b142c47.js.map

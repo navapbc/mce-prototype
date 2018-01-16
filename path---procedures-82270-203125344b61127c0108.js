@@ -1,0 +1,2 @@
+webpackJsonp([0x9486384fe559],{1703:function(e,o){e.exports={data:{proceduresJson:{code:"82270",name:"Occult blood feces"}},pathContext:{slug:"procedures/82270"}}}});
+//# sourceMappingURL=path---procedures-82270-203125344b61127c0108.js.map

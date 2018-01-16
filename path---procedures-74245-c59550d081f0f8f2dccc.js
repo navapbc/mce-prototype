@@ -1,0 +1,2 @@
+webpackJsonp([60865300164381],{1403:function(e,a){e.exports={data:{proceduresJson:{code:"74245",name:"X-ray exam upper gi tract"}},pathContext:{slug:"procedures/74245"}}}});
+//# sourceMappingURL=path---procedures-74245-c59550d081f0f8f2dccc.js.map

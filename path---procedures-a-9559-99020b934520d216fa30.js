@@ -1,0 +1,2 @@
+webpackJsonp([69339857140232],{1914:function(o,e){o.exports={data:{proceduresJson:{code:"A9559",name:"Co57 cyano"}},pathContext:{slug:"procedures/A9559"}}}});
+//# sourceMappingURL=path---procedures-a-9559-99020b934520d216fa30.js.map

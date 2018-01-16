@@ -1,0 +1,2 @@
+webpackJsonp([0xc27b9d6469e6],{1815:function(e,n){e.exports={data:{proceduresJson:{code:"96003",name:"Dynamic fine wire emg"}},pathContext:{slug:"procedures/96003"}}}});
+//# sourceMappingURL=path---procedures-96003-2447f3451a230d748c80.js.map

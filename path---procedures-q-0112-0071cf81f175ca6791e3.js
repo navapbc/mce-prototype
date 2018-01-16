@@ -1,0 +1,2 @@
+webpackJsonp([0xb532751b719f],{2030:function(e,o){e.exports={data:{proceduresJson:{code:"Q0112",name:"Potassium hydroxide preps"}},pathContext:{slug:"procedures/Q0112"}}}});
+//# sourceMappingURL=path---procedures-q-0112-0071cf81f175ca6791e3.js.map

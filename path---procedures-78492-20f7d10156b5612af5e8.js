@@ -1,0 +1,2 @@
+webpackJsonp([99832025612262],{1644:function(e,t){e.exports={data:{proceduresJson:{code:"78492",name:"Heart image (pet) multiple"}},pathContext:{slug:"procedures/78492"}}}});
+//# sourceMappingURL=path---procedures-78492-20f7d10156b5612af5e8.js.map

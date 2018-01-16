@@ -1,0 +1,2 @@
+webpackJsonp([79259266915498],{1685:function(e,o){e.exports={data:{proceduresJson:{code:"78806",name:"Abscess imaging whole body"}},pathContext:{slug:"procedures/78806"}}}});
+//# sourceMappingURL=path---procedures-78806-93871cbf51f491e31ef8.js.map

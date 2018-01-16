@@ -1,0 +1,2 @@
+webpackJsonp([0xf69c5f7f221e],{1878:function(e,o){e.exports={data:{proceduresJson:{code:"A9505",name:"TL201 thallium"}},pathContext:{slug:"procedures/A9505"}}}});
+//# sourceMappingURL=path---procedures-a-9505-b028cf0ed51364665be4.js.map

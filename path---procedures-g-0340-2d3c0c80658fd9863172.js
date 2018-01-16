@@ -1,0 +1,2 @@
+webpackJsonp([82234867007161],{1990:function(e,o){e.exports={data:{proceduresJson:{code:"G0340",name:"Robt lin-radsurg fractx 2-5"}},pathContext:{slug:"procedures/G0340"}}}});
+//# sourceMappingURL=path---procedures-g-0340-2d3c0c80658fd9863172.js.map

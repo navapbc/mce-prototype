@@ -1,0 +1,2 @@
+webpackJsonp([30040336731423],{1241:function(e,o){e.exports={data:{proceduresJson:{code:"70491",name:"Ct soft tissue neck w/dye"}},pathContext:{slug:"procedures/70491"}}}});
+//# sourceMappingURL=path---procedures-70491-ffd21ced62bb4eb6b78e.js.map

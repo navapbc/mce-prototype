@@ -1,0 +1,2 @@
+webpackJsonp([0xe3800f708e67],{1933:function(e,o){e.exports={data:{proceduresJson:{code:"A9586",name:"Florbetapir F18"}},pathContext:{slug:"procedures/A9586"}}}});
+//# sourceMappingURL=path---procedures-a-9586-746477855877b867b105.js.map

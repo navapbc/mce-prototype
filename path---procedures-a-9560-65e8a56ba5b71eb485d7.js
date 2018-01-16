@@ -1,0 +1,2 @@
+webpackJsonp([0xcf40fff7b71e],{1915:function(e,c){e.exports={data:{proceduresJson:{code:"A9560",name:"Tc99m labeled rbc"}},pathContext:{slug:"procedures/A9560"}}}});
+//# sourceMappingURL=path---procedures-a-9560-65e8a56ba5b71eb485d7.js.map

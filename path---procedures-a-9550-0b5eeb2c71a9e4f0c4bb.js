@@ -1,0 +1,2 @@
+webpackJsonp([54828271911485],{1905:function(e,o){e.exports={data:{proceduresJson:{code:"A9550",name:"Tc99m gluceptate"}},pathContext:{slug:"procedures/A9550"}}}});
+//# sourceMappingURL=path---procedures-a-9550-0b5eeb2c71a9e4f0c4bb.js.map

@@ -1,0 +1,2 @@
+webpackJsonp([0xb79db893d0e8],{1494:function(e,o){e.exports={data:{proceduresJson:{code:"77078",name:"Ct bone density axial"}},pathContext:{slug:"procedures/77078"}}}});
+//# sourceMappingURL=path---procedures-77078-2dba243ba2282b1ce1e9.js.map

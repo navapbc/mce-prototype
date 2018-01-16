@@ -1,0 +1,2 @@
+webpackJsonp([18527643885684],{2044:function(o,e){o.exports={data:{proceduresJson:{code:"Q9956",name:"Inj octafluoropropane mic,ml"}},pathContext:{slug:"procedures/Q9956"}}}});
+//# sourceMappingURL=path---procedures-q-9956-92b98fd8ff3ecb0d9bde.js.map

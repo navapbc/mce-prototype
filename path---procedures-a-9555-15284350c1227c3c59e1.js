@@ -1,0 +1,2 @@
+webpackJsonp([0x760b87be39be],{1910:function(e,o){e.exports={data:{proceduresJson:{code:"A9555",name:"Rb82 rubidium"}},pathContext:{slug:"procedures/A9555"}}}});
+//# sourceMappingURL=path---procedures-a-9555-15284350c1227c3c59e1.js.map

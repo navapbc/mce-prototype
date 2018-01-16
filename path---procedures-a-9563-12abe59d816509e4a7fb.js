@@ -1,0 +1,2 @@
+webpackJsonp([0xde9970ba35eb],{1918:function(e,o){e.exports={data:{proceduresJson:{code:"A9563",name:"P32 Na phosphate"}},pathContext:{slug:"procedures/A9563"}}}});
+//# sourceMappingURL=path---procedures-a-9563-12abe59d816509e4a7fb.js.map

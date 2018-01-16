@@ -1,0 +1,2 @@
+webpackJsonp([74634887533829],{1888:function(e,o){e.exports={data:{proceduresJson:{code:"A9521",name:"Tc99m exametazime"}},pathContext:{slug:"procedures/A9521"}}}});
+//# sourceMappingURL=path---procedures-a-9521-358ea56e41336c3f56dc.js.map

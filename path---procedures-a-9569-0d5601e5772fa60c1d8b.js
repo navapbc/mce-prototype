@@ -1,0 +1,2 @@
+webpackJsonp([0x8b595690a9c8],{1923:function(e,o){e.exports={data:{proceduresJson:{code:"A9569",name:"Technetium TC-99m auto WBC"}},pathContext:{slug:"procedures/A9569"}}}});
+//# sourceMappingURL=path---procedures-a-9569-0d5601e5772fa60c1d8b.js.map

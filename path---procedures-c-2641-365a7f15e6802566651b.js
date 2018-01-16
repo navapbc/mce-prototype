@@ -1,0 +1,2 @@
+webpackJsonp([77459261701695],{1953:function(e,n){e.exports={data:{proceduresJson:{code:"C2641",name:"Brachytx, non-stranded,P-103"}},pathContext:{slug:"procedures/C2641"}}}});
+//# sourceMappingURL=path---procedures-c-2641-365a7f15e6802566651b.js.map

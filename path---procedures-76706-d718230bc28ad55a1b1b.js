@@ -1,0 +1,2 @@
+webpackJsonp([0x98bbc99b9bbd],{1448:function(a,e){a.exports={data:{proceduresJson:{code:"76706",name:"Us abdl aorta screen aaa"}},pathContext:{slug:"procedures/76706"}}}});
+//# sourceMappingURL=path---procedures-76706-d718230bc28ad55a1b1b.js.map

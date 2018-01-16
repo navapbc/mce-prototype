@@ -1,0 +1,2 @@
+webpackJsonp([0xed1509bed9c7],{1537:function(e,t){e.exports={data:{proceduresJson:{code:"77432",name:"Stereotactic radiation trmt"}},pathContext:{slug:"procedures/77432"}}}});
+//# sourceMappingURL=path---procedures-77432-6c71be295141be124f38.js.map

@@ -1,0 +1,2 @@
+webpackJsonp([0x7d49c39a464d],{1708:function(o,e){o.exports={data:{proceduresJson:{code:"83718",name:"Assay of lipoprotein [only when billed with one of the following ICD-9-CM codes:  V81.0, V81.1, or V81.2]"}},pathContext:{slug:"procedures/83718"}}}});
+//# sourceMappingURL=path---procedures-83718-c2c7ddd6ef5fbe34d9f4.js.map

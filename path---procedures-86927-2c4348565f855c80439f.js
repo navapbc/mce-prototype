@@ -1,0 +1,2 @@
+webpackJsonp([99770195651343],{1714:function(e,o){e.exports={data:{proceduresJson:{code:"86927",name:"Plasma fresh frozen"}},pathContext:{slug:"procedures/86927"}}}});
+//# sourceMappingURL=path---procedures-86927-2c4348565f855c80439f.js.map

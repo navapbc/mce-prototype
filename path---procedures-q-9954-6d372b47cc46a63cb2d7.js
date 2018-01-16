@@ -1,0 +1,2 @@
+webpackJsonp([55010021063923],{2042:function(e,o){e.exports={data:{proceduresJson:{code:"Q9954",name:"Oral MR contrast, 100ml"}},pathContext:{slug:"procedures/Q9954"}}}});
+//# sourceMappingURL=path---procedures-q-9954-6d372b47cc46a63cb2d7.js.map

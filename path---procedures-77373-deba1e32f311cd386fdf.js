@@ -1,0 +1,2 @@
+webpackJsonp([82022701838359],{1525:function(e,o){e.exports={data:{proceduresJson:{code:"77373",name:"Sbrt delivery"}},pathContext:{slug:"procedures/77373"}}}});
+//# sourceMappingURL=path---procedures-77373-deba1e32f311cd386fdf.js.map

@@ -1,0 +1,2 @@
+webpackJsonp([0x972eb05875e5],{1966:function(e,o){e.exports={data:{proceduresJson:{code:"G0106",name:"Colon CA screen;barium enema"}},pathContext:{slug:"procedures/G0106"}}}});
+//# sourceMappingURL=path---procedures-g-0106-2755045c9e2f40beb367.js.map

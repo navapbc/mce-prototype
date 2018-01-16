@@ -1,0 +1,2 @@
+webpackJsonp([0x619cea8e66fe],{2046:function(e,o){e.exports={data:{proceduresJson:{code:"Q9958",name:"HOCM <=149 mg/ml iodine, 1ml"}},pathContext:{slug:"procedures/Q9958"}}}});
+//# sourceMappingURL=path---procedures-q-9958-7cb175799164afd0447e.js.map

@@ -1,0 +1,2 @@
+webpackJsonp([4890243081445],{1895:function(e,o){e.exports={data:{proceduresJson:{code:"A9531",name:"I131 max 100uCi"}},pathContext:{slug:"procedures/A9531"}}}});
+//# sourceMappingURL=path---procedures-a-9531-b9a830291ddca63b8606.js.map

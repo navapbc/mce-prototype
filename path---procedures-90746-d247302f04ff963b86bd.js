@@ -1,0 +1,2 @@
+webpackJsonp([0x9cddb0e13b68],{1743:function(e,o){e.exports={data:{proceduresJson:{code:"90746",name:"Hepb vaccine 3 dose adult im"}},pathContext:{slug:"procedures/90746"}}}});
+//# sourceMappingURL=path---procedures-90746-d247302f04ff963b86bd.js.map

@@ -1,0 +1,2 @@
+webpackJsonp([0x64ca54d95fc7],{1748:function(e,c){e.exports={data:{proceduresJson:{code:"91110",name:"Gi tract capsule endoscopy"}},pathContext:{slug:"procedures/91110"}}}});
+//# sourceMappingURL=path---procedures-91110-42600e71f342eac133a2.js.map

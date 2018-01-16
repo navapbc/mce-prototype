@@ -1,0 +1,2 @@
+webpackJsonp([0xeed72874dc8],{1814:function(e,c){e.exports={data:{proceduresJson:{code:"96002",name:"Dynamic surface emg"}},pathContext:{slug:"procedures/96002"}}}});
+//# sourceMappingURL=path---procedures-96002-c734db2e0d2b91428162.js.map

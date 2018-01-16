@@ -1,0 +1,2 @@
+webpackJsonp([66144035915280],{1269:function(e,o){e.exports={data:{proceduresJson:{code:"71250",name:"Ct thorax w/o dye"}},pathContext:{slug:"procedures/71250"}}}});
+//# sourceMappingURL=path---procedures-71250-bd80616e08008a48b845.js.map

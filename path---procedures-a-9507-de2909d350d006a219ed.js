@@ -1,0 +1,2 @@
+webpackJsonp([0x62c15073607d],{1879:function(e,o){e.exports={data:{proceduresJson:{code:"A9507",name:"In111 capromab"}},pathContext:{slug:"procedures/A9507"}}}});
+//# sourceMappingURL=path---procedures-a-9507-de2909d350d006a219ed.js.map

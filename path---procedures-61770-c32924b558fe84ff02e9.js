@@ -1,0 +1,2 @@
+webpackJsonp([36004537938023],{1195:function(e,o){e.exports={data:{proceduresJson:{code:"61770",name:"Incise skull for treatment"}},pathContext:{slug:"procedures/61770"}}}});
+//# sourceMappingURL=path---procedures-61770-c32924b558fe84ff02e9.js.map

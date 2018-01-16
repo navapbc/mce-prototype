@@ -1,0 +1,2 @@
+webpackJsonp([0x978260c4fbcd],{1249:function(e,o){e.exports={data:{proceduresJson:{code:"70545",name:"Mr angiography head w/dye"}},pathContext:{slug:"procedures/70545"}}}});
+//# sourceMappingURL=path---procedures-70545-b543e48ad3fd21ba33ee.js.map

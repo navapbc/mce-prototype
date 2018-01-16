@@ -1,0 +1,2 @@
+webpackJsonp([0x72297c1e8b34],{1749:function(e,o){e.exports={data:{proceduresJson:{code:"91111",name:"Esophageal capsule endoscopy"}},pathContext:{slug:"procedures/91111"}}}});
+//# sourceMappingURL=path---procedures-91111-29b1700f39ca9eb48327.js.map

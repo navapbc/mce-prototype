@@ -1,0 +1,2 @@
+webpackJsonp([0x79848312d5ea],{1322:function(e,a){e.exports={data:{proceduresJson:{code:"72200",name:"X-ray exam sacroiliac joints"}},pathContext:{slug:"procedures/72200"}}}});
+//# sourceMappingURL=path---procedures-72200-5ff66fa2aa10c98dec75.js.map

@@ -1,0 +1,2 @@
+webpackJsonp([0xbba81105a597],{1432:function(o,e){o.exports={data:{proceduresJson:{code:"76380",name:"CAT scan follow-up study"}},pathContext:{slug:"procedures/76380"}}}});
+//# sourceMappingURL=path---procedures-76380-1f2434a1d03d8989ca5d.js.map

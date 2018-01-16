@@ -1,0 +1,2 @@
+webpackJsonp([3716362105552],{1804:function(o,e){o.exports={data:{proceduresJson:{code:"93998",name:"Noninvas vasc dx study proc"}},pathContext:{slug:"procedures/93998"}}}});
+//# sourceMappingURL=path---procedures-93998-f32e816b1407705dfd91.js.map

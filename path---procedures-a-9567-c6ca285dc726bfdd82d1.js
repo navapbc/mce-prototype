@@ -1,0 +1,2 @@
+webpackJsonp([0xfe2c51ff4e5e],{1921:function(e,o){e.exports={data:{proceduresJson:{code:"A9567",name:"Technetium TC-99m aerosol"}},pathContext:{slug:"procedures/A9567"}}}});
+//# sourceMappingURL=path---procedures-a-9567-c6ca285dc726bfdd82d1.js.map

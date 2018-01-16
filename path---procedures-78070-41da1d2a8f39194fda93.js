@@ -1,0 +1,2 @@
+webpackJsonp([0xb58a5f4e02f3],{1573:function(e,a){e.exports={data:{proceduresJson:{code:"78070",name:"Parathyroid nuclear imaging"}},pathContext:{slug:"procedures/78070"}}}});
+//# sourceMappingURL=path---procedures-78070-41da1d2a8f39194fda93.js.map

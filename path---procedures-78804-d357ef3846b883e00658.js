@@ -1,0 +1,2 @@
+webpackJsonp([0xc98a9d6d2761],{1683:function(o,e){o.exports={data:{proceduresJson:{code:"78804",name:"Tumor imaging whole body"}},pathContext:{slug:"procedures/78804"}}}});
+//# sourceMappingURL=path---procedures-78804-d357ef3846b883e00658.js.map

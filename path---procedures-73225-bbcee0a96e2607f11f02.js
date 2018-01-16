@@ -1,0 +1,2 @@
+webpackJsonp([0xab6bbfdc88c4],{1350:function(e,o){e.exports={data:{proceduresJson:{code:"73225",name:"Mr angio upr extr w/o&w/dye"}},pathContext:{slug:"procedures/73225"}}}});
+//# sourceMappingURL=path---procedures-73225-bbcee0a96e2607f11f02.js.map

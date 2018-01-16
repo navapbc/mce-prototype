@@ -1,0 +1,2 @@
+webpackJsonp([4332513802988],{1934:function(e,o){e.exports={data:{proceduresJson:{code:"A9587",name:"Gallium Ga-68"}},pathContext:{slug:"procedures/A9587"}}}});
+//# sourceMappingURL=path---procedures-a-9587-f53f7af8917494b9de13.js.map

@@ -1,0 +1,2 @@
+webpackJsonp([77766140738833],{1980:function(e,o){e.exports={data:{proceduresJson:{code:"G0279",name:"Tomosynthesis, mammo screen"}},pathContext:{slug:"procedures/G0279"}}}});
+//# sourceMappingURL=path---procedures-g-0279-a0f90832bdebbf52e790.js.map

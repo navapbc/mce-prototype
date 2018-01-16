@@ -1,0 +1,2 @@
+webpackJsonp([48503031603688],{1232:function(e,o){e.exports={data:{proceduresJson:{code:"70460",name:"Ct head/brain w/dye"}},pathContext:{slug:"procedures/70460"}}}});
+//# sourceMappingURL=path---procedures-70460-20e5884a1556c9c49cca.js.map

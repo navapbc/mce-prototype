@@ -1,0 +1,2 @@
+webpackJsonp([0xd733567d4faf],{1774:function(o,e){o.exports={data:{proceduresJson:{code:"93304",name:"Echo transthoracic"}},pathContext:{slug:"procedures/93304"}}}});
+//# sourceMappingURL=path---procedures-93304-2d4bb0419c220c095314.js.map

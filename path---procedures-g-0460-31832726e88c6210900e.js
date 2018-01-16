@@ -1,0 +1,2 @@
+webpackJsonp([62958734980692],{1997:function(o,e){o.exports={data:{proceduresJson:{code:"G0460",name:"Autologous PRP for ulcers"}},pathContext:{slug:"procedures/G0460"}}}});
+//# sourceMappingURL=path---procedures-g-0460-31832726e88c6210900e.js.map

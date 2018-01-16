@@ -1,0 +1,2 @@
+webpackJsonp([32713845774014],{1616:function(e,o){e.exports={data:{proceduresJson:{code:"78282",name:"GI protein loss exam"}},pathContext:{slug:"procedures/78282"}}}});
+//# sourceMappingURL=path---procedures-78282-46f967eb74572a441348.js.map

@@ -1,0 +1,2 @@
+webpackJsonp([0x8b44e300bd92],{1975:function(e,c){e.exports={data:{proceduresJson:{code:"G0145",name:"Scr c/v cyto,thinlayer,rescr"}},pathContext:{slug:"procedures/G0145"}}}});
+//# sourceMappingURL=path---procedures-g-0145-89141453645bdb84cab2.js.map

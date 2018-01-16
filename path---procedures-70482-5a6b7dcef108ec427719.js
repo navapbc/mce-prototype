@@ -1,0 +1,2 @@
+webpackJsonp([7200254068586],{1236:function(e,o){e.exports={data:{proceduresJson:{code:"70482",name:"Ct orbit/ear/fossa w/o&w/dye"}},pathContext:{slug:"procedures/70482"}}}});
+//# sourceMappingURL=path---procedures-70482-5a6b7dcef108ec427719.js.map

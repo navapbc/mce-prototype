@@ -1,0 +1,2 @@
+webpackJsonp([94024146787063],{1984:function(e,o){e.exports={data:{proceduresJson:{code:"G0297",name:"LDCT for Lung CA screen"}},pathContext:{slug:"procedures/G0297"}}}});
+//# sourceMappingURL=path---procedures-g-0297-a94eb82a4300e2de1e12.js.map

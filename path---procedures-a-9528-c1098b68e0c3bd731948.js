@@ -1,0 +1,2 @@
+webpackJsonp([0xc5f855d9c0e1],{1892:function(e,o){e.exports={data:{proceduresJson:{code:"A9528",name:"Iodine I-131 iodide cap, dx"}},pathContext:{slug:"procedures/A9528"}}}});
+//# sourceMappingURL=path---procedures-a-9528-c1098b68e0c3bd731948.js.map

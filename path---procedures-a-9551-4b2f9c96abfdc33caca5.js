@@ -1,0 +1,2 @@
+webpackJsonp([0xb551147235e4],{1906:function(e,c){e.exports={data:{proceduresJson:{code:"A9551",name:"Tc99m succimer"}},pathContext:{slug:"procedures/A9551"}}}});
+//# sourceMappingURL=path---procedures-a-9551-4b2f9c96abfdc33caca5.js.map

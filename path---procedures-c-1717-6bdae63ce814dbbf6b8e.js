@@ -1,0 +1,2 @@
+webpackJsonp([0xae96504d1e38],{1944:function(e,o){e.exports={data:{proceduresJson:{code:"C1717",name:"Brachytx, non-str,HDR Ir-192"}},pathContext:{slug:"procedures/C1717"}}}});
+//# sourceMappingURL=path---procedures-c-1717-6bdae63ce814dbbf6b8e.js.map

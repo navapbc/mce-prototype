@@ -1,0 +1,2 @@
+webpackJsonp([0x8c8dab9d27a9],{1696:function(a,e){a.exports={data:{proceduresJson:{code:"79200",name:"Nuclear rx intracav admin"}},pathContext:{slug:"procedures/79200"}}}});
+//# sourceMappingURL=path---procedures-79200-7804cde3b232e99ca0ff.js.map

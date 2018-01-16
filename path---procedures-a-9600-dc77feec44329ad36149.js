@@ -1,0 +1,2 @@
+webpackJsonp([77880004540428],{1938:function(e,o){e.exports={data:{proceduresJson:{code:"A9600",name:"Sr89 strontium"}},pathContext:{slug:"procedures/A9600"}}}});
+//# sourceMappingURL=path---procedures-a-9600-dc77feec44329ad36149.js.map

@@ -1,0 +1,2 @@
+webpackJsonp([0xa6d173fec1d7],{1585:function(e,o){e.exports={data:{proceduresJson:{code:"78122",name:"Blood volume"}},pathContext:{slug:"procedures/78122"}}}});
+//# sourceMappingURL=path---procedures-78122-1f550e82ac7e2800b865.js.map

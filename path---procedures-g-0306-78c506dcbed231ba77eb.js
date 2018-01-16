@@ -1,0 +1,2 @@
+webpackJsonp([29107455180743],{1985:function(e,o){e.exports={data:{proceduresJson:{code:"G0306",name:"CBC/diffwbc w/o platelet"}},pathContext:{slug:"procedures/G0306"}}}});
+//# sourceMappingURL=path---procedures-g-0306-78c506dcbed231ba77eb.js.map

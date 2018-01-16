@@ -1,0 +1,2 @@
+webpackJsonp([0xfbeba484f662],{1702:function(e,o){e.exports={data:{proceduresJson:{code:"80061",name:"Lipid panel [only when billed with one of the following ICD-9-CM codes:  V81.0, V81.1, or V81.2]"}},pathContext:{slug:"procedures/80061"}}}});
+//# sourceMappingURL=path---procedures-80061-3093b0a05b2daae399ca.js.map
