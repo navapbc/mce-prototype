@@ -18,6 +18,7 @@
   },
   "scripts": {
     "build": "gatsby build",
+    "deploy": "gatsby build --prefix-paths && gh-pages -d public",
     "lint": "eslint src ./ --ext .js --ext .jsx -f table && stylelint src/**/*.scss",
     "precommit": "lint-staged",
     "serve": "gatsby serve",
@@ -29,6 +30,7 @@
     "@cmsgov/stylelint-config-design-system": "^1.1.0",
     "eslint": "^4.15.0",
     "eslint-config-nava": "^2.1.0",
+    "gh-pages": "^1.1.0",
     "husky": "^0.14.3",
     "jest": "^22.1.1",
     "lint-staged": "^6.0.0",

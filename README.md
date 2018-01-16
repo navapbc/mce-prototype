@@ -20,6 +20,10 @@ Gatsby will start a hot-reloading development environment accessible at `localho
 
 Gatsby will perform an optimized production build for your site generating static HTML and per-route JavaScript code bundles.
 
+### `npm run deploy`
+
+An optimized production build of the site will be generated and pushed to the `gh-pages` GitHub branch.
+
 ### `npm run serve`
 
 Gatsby starts a local HTML server for testing your built site.

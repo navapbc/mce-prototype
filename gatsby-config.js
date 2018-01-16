@@ -2,6 +2,7 @@ module.exports = {
   siteMetadata: {
     title: "Medicare Cost Estimator"
   },
+  pathPrefix: "/mce-prototype",
   plugins: [
     "gatsby-plugin-react-helmet",
     "gatsby-transformer-json",
