@@ -42,7 +42,7 @@ Run JS tests.
 ├── gatsby-config.js Gatsby setup
 ├── gatsby-node.js   Gatsby Node API hooks
 ├── public           Compiled static HTML site
-└── src
+├── src
     ├── components   Presentational UI patterns
     ├── data         Data files used for dynamically generated pages
     ├── fonts
@@ -50,6 +50,7 @@ Run JS tests.
     ├── layouts      Base HTML used when rendering each page
     ├── pages        Each file is rendered as a page
     └── templates    Markup for generated pages
+└── tools            Testing and CI/CD setup files
 ```
 
 ## Dynamically creating pages
@@ -60,3 +61,9 @@ At a high-level, you need to:
 
 1. Add a `slug` field to each node. This can be done in `onCreateNode`
 2. Within `createPages`, loop through the nodes and call `createPage` with the node's `path` and point to a template component, which will be used for rendering the page's HTML.
+
+## Tools (TODO)
+
+* Gatsby for generating the site
+* Design system for UI components
+* Jest and Enzyme for tests
