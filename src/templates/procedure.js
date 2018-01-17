@@ -12,13 +12,10 @@ export default ({ data }) => {
     <main id="main">
       <ProcedureHeader procedure={procedure} />
       <div className="ds-l-container">
-        <Alert
-          className="ds-l-row ds-u-margin-x--0"
-          heading="Pricing is for demonstration only"
-        >
+        <Alert className="ds-l-row ds-u-margin-x--0">
           <div className="ds-u-measure--wide">
-            Please note: The prices listed below are for demonstration purposes
-            only and aren&rsquo;t reflective of what they are in reality.
+            <strong>Note</strong>: The prices listed below are for demonstration
+            purposes only.
           </div>
         </Alert>
 
