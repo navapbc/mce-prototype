@@ -1,9 +1,9 @@
 import "./index.scss";
 import { Autocomplete, Button, TextField } from "@cmsgov/design-system-core";
+import { navigateTo, withPrefix } from "gatsby-link";
 import PropTypes from "prop-types";
 import React from "react";
 import _ from "lodash";
-import { navigateTo } from "gatsby-link";
 
 const labelClasses = "ds-u-font-weight--bold";
 const hintClasses = "ds-u-font-weight--normal ds-u-color--gray";
@@ -55,7 +55,7 @@ class Search extends React.PureComponent {
    */
   handleCompareClick() {
     if (this.state.selectedProcedureSlug) {
-      return navigateTo(this.state.selectedProcedureSlug);
+      return navigateTo(withPrefix(this.state.selectedProcedureSlug));
     }
   }
 
@@ -82,8 +82,10 @@ class Search extends React.PureComponent {
       optionsPendingFilter = this.procedures;
     }
 
-    const procedureOptions = optionsPendingFilter.filter(procedure =>
-      _.includes(procedure.searchIndex, newValueIndex)
+    const procedureOptions = optionsPendingFilter.filter(
+      procedure =>
+        _.includes(procedure.searchIndex, newValueIndex) || // Search by name
+        _.startsWith(procedure.id, newValueIndex) // Search by code
     );
 
     this.setState({
@@ -141,10 +143,9 @@ class Search extends React.PureComponent {
     /> */}
         <div className="ds-l-col ds-l-col--12 ds-u-padding-top--2">
           <Button
+            disabled={!this.state.selectedProcedureSlug}
             onClick={this.handleCompareClick}
-            variation={
-              this.state.selectedProcedureSlug ? "primary" : "disabled"
-            }
+            variation="primary"
           >
             Compare prices
           </Button>
