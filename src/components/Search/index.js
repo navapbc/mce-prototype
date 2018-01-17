@@ -1,9 +1,9 @@
 import "./index.scss";
 import { Autocomplete, Button, TextField } from "@cmsgov/design-system-core";
-import { navigateTo, withPrefix } from "gatsby-link";
 import PropTypes from "prop-types";
 import React from "react";
 import _ from "lodash";
+import { navigateTo } from "gatsby-link";
 
 const labelClasses = "ds-u-font-weight--bold";
 const hintClasses = "ds-u-font-weight--normal ds-u-color--gray";
@@ -55,7 +55,7 @@ class Search extends React.PureComponent {
    */
   handleCompareClick() {
     if (this.state.selectedProcedureSlug) {
-      return navigateTo(withPrefix(this.state.selectedProcedureSlug));
+      return navigateTo(this.state.selectedProcedureSlug);
     }
   }
 
