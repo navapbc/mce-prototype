@@ -4,9 +4,14 @@ import PropTypes from "prop-types";
 import React from "react";
 
 const Header = ({ title }) => (
-  <header className="ds-l-container">
-    <h1 className="ds-h4">
-      <Link to="/">{title}</Link>
+  <header className="ds-base--inverse">
+    <h1 className="ds-l-container ds-h4">
+      <Link
+        className="ds-u-color--white ds-u-text-decoration--none ds-u-padding-y--2 ds-u-display--inline-block"
+        to="/"
+      >
+        {title}
+      </Link>
     </h1>
   </header>
 );

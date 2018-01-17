@@ -12,24 +12,28 @@ export default ({ data }) => {
     <main id="main">
       <ProcedureHeader procedure={procedure} />
       <div className="ds-l-container">
-        <div className="ds-l-row">
-          <Alert heading="Pricing is for demonstration only">
+        <Alert
+          className="ds-l-row ds-u-margin-x--0"
+          heading="Pricing is for demonstration only"
+        >
+          <div className="ds-u-measure--wide">
             Please note: The prices listed below are for demonstration purposes
             only and aren&rsquo;t reflective of what they are in reality.
-          </Alert>
-
-          <h2 className="ds-h2 ds-u-font-weight--normal">
-            National average&rsquo;s for this procedure
-          </h2>
-          <NationalAverage />
-        </div>
+          </div>
+        </Alert>
 
         <div className="ds-l-row ds-u-margin-top--6 ds-u-margin-bottom--2">
-          <h2 className="ds-h2 ds-u-font-weight--normal">
-            Facility prices near <strong>Baltimore, MD</strong>
-          </h2>
+          <div className="ds-l-col ds-l-col--12 ds-l-md-col--8">
+            <h2 className="ds-h2 ds-u-font-weight--normal">
+              Facility prices near <strong>Baltimore, MD</strong>
+            </h2>
+            <FacilityPrices facilities={facilities} sort="price" />
+          </div>
+          <div className="ds-l-col ds-l-col--12 ds-l-md-col--4 ds-u-margin-top--6 ds-u-md-margin-top--0 ds-u-md-padding-left--4">
+            <h2 className="ds-h2 ds-u-font-weight--normal">National average</h2>
+            <NationalAverage />
+          </div>
         </div>
-        <FacilityPrices facilities={facilities} sort="price" />
       </div>
     </main>
   );
