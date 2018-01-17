@@ -45,6 +45,7 @@
     "stylelint": "^8.4.0",
     "stylelint-config-prettier": "^2.0.0"
   },
+  "browserslist": ["> 1%", "IE >= 10", "last 2 versions"],
   "lint-staged": {
     "*.{js,jsx}": ["prettier --write", "eslint --fix", "git add"],
     "*.scss": ["prettier --write", "stylelint --fix", "git add"]
