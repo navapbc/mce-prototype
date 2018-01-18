@@ -22,7 +22,10 @@ module.exports = ({ config, stage }) => {
             "../../node_modules/@cmsgov/design-system-core/dist/components/**/*{.js,.jsx}"
           )
         ]),
-        verbose: true
+        purifyOptions: {
+          info: true,
+          minify: true
+        }
       }
     ]);
 
