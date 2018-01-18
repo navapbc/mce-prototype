@@ -1,2 +1,0 @@
-webpackJsonp([58473108070439],{1232:function(e,o){e.exports={data:{proceduresJson:{code:"72196",name:"Mri pelvis w/dye"}},pathContext:{slug:"procedures/72196"}}}});
-//# sourceMappingURL=path---procedures-72196-05e971e027bd20670102.js.map

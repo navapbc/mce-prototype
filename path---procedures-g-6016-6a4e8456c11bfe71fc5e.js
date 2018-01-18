@@ -1,2 +1,0 @@
-webpackJsonp([0xfe762701429e],{1872:function(e,o){e.exports={data:{proceduresJson:{code:"G6016",name:"Delivery comp imrt"}},pathContext:{slug:"procedures/G6016"}}}});
-//# sourceMappingURL=path---procedures-g-6016-6a4e8456c11bfe71fc5e.js.map

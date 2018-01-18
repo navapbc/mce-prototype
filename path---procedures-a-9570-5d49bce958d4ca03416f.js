@@ -1,2 +1,0 @@
-webpackJsonp([0x7b569bee4cda],{1781:function(e,o){e.exports={data:{proceduresJson:{code:"A9570",name:"Indium In-111 auto WBC"}},pathContext:{slug:"procedures/A9570"}}}});
-//# sourceMappingURL=path---procedures-a-9570-5d49bce958d4ca03416f.js.map

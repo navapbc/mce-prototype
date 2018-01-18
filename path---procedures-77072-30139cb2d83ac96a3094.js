@@ -1,2 +1,0 @@
-webpackJsonp([58789438356972],{1385:function(e,o){e.exports={data:{proceduresJson:{code:"77072",name:"X-rays for bone age"}},pathContext:{slug:"procedures/77072"}}}});
-//# sourceMappingURL=path---procedures-77072-30139cb2d83ac96a3094.js.map

@@ -1,2 +1,0 @@
-webpackJsonp([0xd91223b1ea81],{1592:function(e,o){e.exports={data:{proceduresJson:{code:"86950",name:"Leukacyte transfusion"}},pathContext:{slug:"procedures/86950"}}}});
-//# sourceMappingURL=path---procedures-86950-546400f30827e53398ac.js.map

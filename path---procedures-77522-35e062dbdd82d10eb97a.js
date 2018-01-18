@@ -1,2 +1,0 @@
-webpackJsonp([34924690333717],{1426:function(o,e){o.exports={data:{proceduresJson:{code:"77522",name:"Proton trmt simple w/comp"}},pathContext:{slug:"procedures/77522"}}}});
-//# sourceMappingURL=path---procedures-77522-35e062dbdd82d10eb97a.js.map

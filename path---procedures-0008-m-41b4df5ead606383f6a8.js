@@ -1,2 +1,0 @@
-webpackJsonp([76461361161e3],{1090:function(e,o){e.exports={data:{proceduresJson:{code:"0008M",name:"Onc breast risk score"}},pathContext:{slug:"procedures/0008M"}}}});
-//# sourceMappingURL=path---procedures-0008-m-41b4df5ead606383f6a8.js.map

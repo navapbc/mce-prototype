@@ -1,2 +1,0 @@
-webpackJsonp([0xad3f98bfa0b3],{1896:function(e,a){e.exports={data:{proceduresJson:{code:"Q9953",name:"Inj Fe-based MR contrast,1ml"}},pathContext:{slug:"procedures/Q9953"}}}});
-//# sourceMappingURL=path---procedures-q-9953-2338df55e2fa22dcbe23.js.map

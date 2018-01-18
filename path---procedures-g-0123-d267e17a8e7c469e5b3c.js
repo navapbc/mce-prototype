@@ -1,2 +1,0 @@
-webpackJsonp([0x7bb95e2190f5],{1826:function(e,n){e.exports={data:{proceduresJson:{code:"G0123",name:"Screen cerv/vag thin layer"}},pathContext:{slug:"procedures/G0123"}}}});
-//# sourceMappingURL=path---procedures-g-0123-d267e17a8e7c469e5b3c.js.map

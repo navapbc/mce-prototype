@@ -1,2 +1,0 @@
-webpackJsonp([46479007638510],{1756:function(e,o){e.exports={data:{proceduresJson:{code:"A9538",name:"Tc99m pyrophosphate"}},pathContext:{slug:"procedures/A9538"}}}});
-//# sourceMappingURL=path---procedures-a-9538-240f7c78a1f05fe42ef4.js.map

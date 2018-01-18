@@ -1,2 +1,0 @@
-webpackJsonp([0xc5e58d8a6592],{1746:function(e,o){e.exports={data:{proceduresJson:{code:"A9524",name:"I131 serum albumin, dx"}},pathContext:{slug:"procedures/A9524"}}}});
-//# sourceMappingURL=path---procedures-a-9524-c7282a7a12d9139c1d0c.js.map

@@ -1,2 +1,0 @@
-webpackJsonp([0x679ca8ffbcab],{1390:function(e,o){e.exports={data:{proceduresJson:{code:"77077",name:"Joint survey single view"}},pathContext:{slug:"procedures/77077"}}}});
-//# sourceMappingURL=path---procedures-77077-9da68ff3a007eb6d4be0.js.map

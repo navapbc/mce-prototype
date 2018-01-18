@@ -1,2 +1,0 @@
-webpackJsonp([64092223645054],{1889:function(e,o){e.exports={data:{proceduresJson:{code:"Q2034",name:"Agriflu vaccine"}},pathContext:{slug:"procedures/Q2034"}}}});
-//# sourceMappingURL=path---procedures-q-2034-4ccd81e47349f2084445.js.map

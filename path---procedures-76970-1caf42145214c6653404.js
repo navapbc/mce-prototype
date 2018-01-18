@@ -1,2 +1,0 @@
-webpackJsonp([0x8b006ce190a1],{1374:function(e,o){e.exports={data:{proceduresJson:{code:"76970",name:"Ultrasound exam follow-up"}},pathContext:{slug:"procedures/76970"}}}});
-//# sourceMappingURL=path---procedures-76970-1caf42145214c6653404.js.map

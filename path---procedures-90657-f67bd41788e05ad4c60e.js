@@ -1,2 +1,0 @@
-webpackJsonp([7538995012609],{1599:function(e,o){e.exports={data:{proceduresJson:{code:"90657",name:"IIV3 vaccine splt 0.25 ml im"}},pathContext:{slug:"procedures/90657"}}}});
-//# sourceMappingURL=path---procedures-90657-f67bd41788e05ad4c60e.js.map

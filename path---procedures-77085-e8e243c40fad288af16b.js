@@ -1,2 +1,0 @@
-webpackJsonp([0xfd68264f431],{1395:function(e,o){e.exports={data:{proceduresJson:{code:"77085",name:"Dxa bone density study"}},pathContext:{slug:"procedures/77085"}}}});
-//# sourceMappingURL=path---procedures-77085-e8e243c40fad288af16b.js.map

@@ -1,2 +1,0 @@
-webpackJsonp([0xc3f3a9279b80],{1537:function(e,o){e.exports={data:{proceduresJson:{code:"78635",name:"CSF ventriculography"}},pathContext:{slug:"procedures/78635"}}}});
-//# sourceMappingURL=path---procedures-78635-57242e93fcd9616ec454.js.map

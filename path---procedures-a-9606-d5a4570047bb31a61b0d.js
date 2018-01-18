@@ -1,2 +1,0 @@
-webpackJsonp([91760853667427],{1797:function(e,o){e.exports={data:{proceduresJson:{code:"A9606",name:"Radium Ra223 dichloride ther"}},pathContext:{slug:"procedures/A9606"}}}});
-//# sourceMappingURL=path---procedures-a-9606-d5a4570047bb31a61b0d.js.map

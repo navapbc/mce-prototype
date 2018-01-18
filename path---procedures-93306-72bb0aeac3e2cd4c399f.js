@@ -1,2 +1,0 @@
-webpackJsonp([0x5f6ce2b1106c],{1646:function(e,o){e.exports={data:{proceduresJson:{code:"93306",name:"TTE w/Doppler complete"}},pathContext:{slug:"procedures/93306"}}}});
-//# sourceMappingURL=path---procedures-93306-72bb0aeac3e2cd4c399f.js.map

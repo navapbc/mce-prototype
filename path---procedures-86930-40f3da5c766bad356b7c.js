@@ -1,2 +1,0 @@
-webpackJsonp([91872607270173],{1588:function(e,o){e.exports={data:{proceduresJson:{code:"86930",name:"Frozen blood prep"}},pathContext:{slug:"procedures/86930"}}}});
-//# sourceMappingURL=path---procedures-86930-40f3da5c766bad356b7c.js.map

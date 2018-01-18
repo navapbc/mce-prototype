@@ -1,2 +1,0 @@
-webpackJsonp([0xd4450790daff],{1669:function(o,e){o.exports={data:{proceduresJson:{code:"95992",name:"Canalith repositioning proc"}},pathContext:{slug:"procedures/95992"}}}});
-//# sourceMappingURL=path---procedures-95992-495160bd286463923477.js.map

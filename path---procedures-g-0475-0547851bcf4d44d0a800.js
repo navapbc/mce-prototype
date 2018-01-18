@@ -1,2 +1,0 @@
-webpackJsonp([89729210233207],{1854:function(o,e){o.exports={data:{proceduresJson:{code:"G0475",name:"HIV combination assay"}},pathContext:{slug:"procedures/G0475"}}}});
-//# sourceMappingURL=path---procedures-g-0475-0547851bcf4d44d0a800.js.map

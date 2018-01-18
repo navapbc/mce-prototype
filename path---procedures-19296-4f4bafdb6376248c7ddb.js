@@ -1,2 +1,0 @@
-webpackJsonp([0x7872f131342a],{1106:function(e,a){e.exports={data:{proceduresJson:{code:"19296",name:"Place po breast cath for rad"}},pathContext:{slug:"procedures/19296"}}}});
-//# sourceMappingURL=path---procedures-19296-4f4bafdb6376248c7ddb.js.map

@@ -1,2 +1,0 @@
-webpackJsonp([0x7fbd101fb1e7],{1878:function(o,e){o.exports={data:{proceduresJson:{code:"P2038",name:"Blood mucoprotein"}},pathContext:{slug:"procedures/P2038"}}}});
-//# sourceMappingURL=path---procedures-p-2038-3726bcc4b244dca679ad.js.map

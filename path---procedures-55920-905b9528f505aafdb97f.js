@@ -1,2 +1,0 @@
-webpackJsonp([0x7d3eadb2d332],{1121:function(e,o){e.exports={data:{proceduresJson:{code:"55920",name:"Place needles pelvic for rt"}},pathContext:{slug:"procedures/55920"}}}});
-//# sourceMappingURL=path---procedures-55920-905b9528f505aafdb97f.js.map

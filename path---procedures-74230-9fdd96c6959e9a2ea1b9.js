@@ -1,2 +1,0 @@
-webpackJsonp([0x7e422bda9c13],{1306:function(e,o){e.exports={data:{proceduresJson:{code:"74230",name:"Cine/vid x-ray throat/esoph"}},pathContext:{slug:"procedures/74230"}}}});
-//# sourceMappingURL=path---procedures-74230-9fdd96c6959e9a2ea1b9.js.map

@@ -1,2 +1,0 @@
-webpackJsonp([76369748333314],{1803:function(t,e){t.exports={data:{proceduresJson:{code:"C2616",name:"Brachytx, non-str,Yttrium-90"}},pathContext:{slug:"procedures/C2616"}}}});
-//# sourceMappingURL=path---procedures-c-2616-6c4dcb627368fbd07455.js.map

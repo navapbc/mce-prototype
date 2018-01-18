@@ -1,2 +1,0 @@
-webpackJsonp([48806093936862],{1324:function(e,o){e.exports={data:{proceduresJson:{code:"75635",name:"Ct angio abdominal arteries"}},pathContext:{slug:"procedures/75635"}}}});
-//# sourceMappingURL=path---procedures-75635-51c7635c1befb1673c63.js.map

@@ -1,2 +1,0 @@
-webpackJsonp([0xf6f095053195],{1353:function(e,a){e.exports={data:{proceduresJson:{code:"76800",name:"Us exam spinal canal"}},pathContext:{slug:"procedures/76800"}}}});
-//# sourceMappingURL=path---procedures-76800-7387e068691e6b19720b.js.map

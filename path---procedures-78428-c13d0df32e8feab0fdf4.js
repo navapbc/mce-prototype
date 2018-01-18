@@ -1,2 +1,0 @@
-webpackJsonp([0x7ac7fd4539b7],{1501:function(a,e){a.exports={data:{proceduresJson:{code:"78428",name:"Cardiac shunt imaging"}},pathContext:{slug:"procedures/78428"}}}});
-//# sourceMappingURL=path---procedures-78428-c13d0df32e8feab0fdf4.js.map

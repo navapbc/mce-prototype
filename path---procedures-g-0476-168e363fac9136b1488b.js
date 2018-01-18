@@ -1,2 +1,0 @@
-webpackJsonp([0x7e2574c6de8b],{1855:function(e,o){e.exports={data:{proceduresJson:{code:"G0476",name:"HPV combo assay CA screen"}},pathContext:{slug:"procedures/G0476"}}}});
-//# sourceMappingURL=path---procedures-g-0476-168e363fac9136b1488b.js.map

@@ -1,2 +1,0 @@
-webpackJsonp([0x828f9edf9a85],{153:function(e,t,a){"use strict";function r(e){return e&&e.__esModule?e:{default:e}}t.__esModule=!0,t.query=void 0;var u=a(3),n=r(u);t.default=function(e){var t=e.data;return n.default.createElement(n.default.Fragment,null,n.default.createElement("h1",{className:"ds-title"},t.proceduresJson.name))};t.query="** extracted graphql fragment **"}});
-//# sourceMappingURL=component---src-templates-procedure-js-37e27d3f49e72b5f31f7.js.map

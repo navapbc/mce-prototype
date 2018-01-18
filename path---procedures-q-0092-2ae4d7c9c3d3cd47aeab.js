@@ -1,2 +1,0 @@
-webpackJsonp([54124104849542],{1883:function(e,o){e.exports={data:{proceduresJson:{code:"Q0092",name:"Set up port xray equipment"}},pathContext:{slug:"procedures/Q0092"}}}});
-//# sourceMappingURL=path---procedures-q-0092-2ae4d7c9c3d3cd47aeab.js.map

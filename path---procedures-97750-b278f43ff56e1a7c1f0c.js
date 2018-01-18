@@ -1,2 +1,0 @@
-webpackJsonp([0xc28748bd85d],{1722:function(e,o){e.exports={data:{proceduresJson:{code:"97750",name:"Physical performance test"}},pathContext:{slug:"procedures/97750"}}}});
-//# sourceMappingURL=path---procedures-97750-b278f43ff56e1a7c1f0c.js.map

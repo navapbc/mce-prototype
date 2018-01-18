@@ -1,2 +1,0 @@
-webpackJsonp([0x6d5ded1b6328],{1314:function(e,t){e.exports={data:{proceduresJson:{code:"74712",name:"Mri fetal sngl/1st gestation"}},pathContext:{slug:"procedures/74712"}}}});
-//# sourceMappingURL=path---procedures-74712-5eb279d811553201a556.js.map

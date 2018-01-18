@@ -1,2 +1,0 @@
-webpackJsonp([0x73744e09167c],{1793:function(e,o){e.exports={data:{proceduresJson:{code:"A9597",name:"Pet, dx, for tumor id, noc"}},pathContext:{slug:"procedures/A9597"}}}});
-//# sourceMappingURL=path---procedures-a-9597-80851f2de47476906691.js.map

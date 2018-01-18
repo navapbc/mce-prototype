@@ -1,2 +1,0 @@
-webpackJsonp([0xe5113583c1bb],{1742:function(e,o){e.exports={data:{proceduresJson:{code:"A9516",name:"Iodine I-123 sod iodide mic"}},pathContext:{slug:"procedures/A9516"}}}});
-//# sourceMappingURL=path---procedures-a-9516-62cc888bd60b9b92b24f.js.map

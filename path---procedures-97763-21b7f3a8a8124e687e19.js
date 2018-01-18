@@ -1,2 +1,0 @@
-webpackJsonp([0xecdb6662bf55],{1726:function(e,o){e.exports={data:{proceduresJson:{code:"97763",name:"Orth/prostc mgmt sbsq enc"}},pathContext:{slug:"procedures/97763"}}}});
-//# sourceMappingURL=path---procedures-97763-21b7f3a8a8124e687e19.js.map

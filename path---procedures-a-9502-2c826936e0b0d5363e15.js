@@ -1,2 +1,0 @@
-webpackJsonp([97793226756717],{1732:function(e,o){e.exports={data:{proceduresJson:{code:"A9502",name:"Tc99m tetrofosmin"}},pathContext:{slug:"procedures/A9502"}}}});
-//# sourceMappingURL=path---procedures-a-9502-2c826936e0b0d5363e15.js.map

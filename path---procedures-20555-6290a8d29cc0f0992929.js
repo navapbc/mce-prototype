@@ -1,2 +1,0 @@
-webpackJsonp([0xc89ce7f8fc39],{1109:function(e,c){e.exports={data:{proceduresJson:{code:"20555",name:"Place ndl musc/tis for rt"}},pathContext:{slug:"procedures/20555"}}}});
-//# sourceMappingURL=path---procedures-20555-6290a8d29cc0f0992929.js.map

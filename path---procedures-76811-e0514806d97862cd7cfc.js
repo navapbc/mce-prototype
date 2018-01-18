@@ -1,2 +1,0 @@
-webpackJsonp([6234944692893],{1358:function(e,s){e.exports={data:{proceduresJson:{code:"76811",name:"Ob us detailed sngl fetus"}},pathContext:{slug:"procedures/76811"}}}});
-//# sourceMappingURL=path---procedures-76811-e0514806d97862cd7cfc.js.map

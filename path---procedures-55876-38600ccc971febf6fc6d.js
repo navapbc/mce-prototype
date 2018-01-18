@@ -1,2 +1,0 @@
-webpackJsonp([0xa453884498a4],{1120:function(e,a){e.exports={data:{proceduresJson:{code:"55876",name:"Place rt device/marker pros"}},pathContext:{slug:"procedures/55876"}}}});
-//# sourceMappingURL=path---procedures-55876-38600ccc971febf6fc6d.js.map

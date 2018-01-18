@@ -1,2 +1,0 @@
-webpackJsonp([0x9fe5ae876aa],{1540:function(e,a){e.exports={data:{proceduresJson:{code:"78660",name:"Nuclear exam of tear flow"}},pathContext:{slug:"procedures/78660"}}}});
-//# sourceMappingURL=path---procedures-78660-3b986fc2e48b7b441511.js.map

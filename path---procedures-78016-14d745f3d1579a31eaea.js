@@ -1,2 +1,0 @@
-webpackJsonp([0xf2bdaf9629c2],{1446:function(e,o){e.exports={data:{proceduresJson:{code:"78016",name:"Thyroid met imaging/studies"}},pathContext:{slug:"procedures/78016"}}}});
-//# sourceMappingURL=path---procedures-78016-14d745f3d1579a31eaea.js.map

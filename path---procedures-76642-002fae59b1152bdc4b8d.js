@@ -1,2 +1,0 @@
-webpackJsonp([0xe0cb7bc1a7d7],{1346:function(e,o){e.exports={data:{proceduresJson:{code:"76642",name:"Ultrasound breast limited"}},pathContext:{slug:"procedures/76642"}}}});
-//# sourceMappingURL=path---procedures-76642-002fae59b1152bdc4b8d.js.map

@@ -1,2 +1,0 @@
-webpackJsonp([42448980662370],{1813:function(e,o){e.exports={data:{proceduresJson:{code:"95834",name:"Body muscle testing manual"}},pathContext:{slug:"procedures/95834"}}}});
-//# sourceMappingURL=path---procedures-95834-fc241b00e68821af30c5.js.map

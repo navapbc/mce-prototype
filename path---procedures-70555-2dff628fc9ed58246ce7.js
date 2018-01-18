@@ -1,2 +1,0 @@
-webpackJsonp([58835244969994],{1181:function(e,o){e.exports={data:{proceduresJson:{code:"70555",name:"Fmri brain by phys/psych"}},pathContext:{slug:"procedures/70555"}}}});
-//# sourceMappingURL=path---procedures-70555-2dff628fc9ed58246ce7.js.map

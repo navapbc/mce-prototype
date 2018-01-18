@@ -1,2 +1,0 @@
-webpackJsonp([0xe96c30e1ad38],{1807:function(e,a){e.exports={data:{proceduresJson:{code:"C2638",name:"Brachytx, stranded, I-125"}},pathContext:{slug:"procedures/C2638"}}}});
-//# sourceMappingURL=path---procedures-c-2638-26ed5a8023e3518fee82.js.map

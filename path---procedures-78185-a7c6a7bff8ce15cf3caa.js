@@ -1,2 +1,0 @@
-webpackJsonp([0xa9901242e81b],{1465:function(e,n){e.exports={data:{proceduresJson:{code:"78185",name:"Spleen imaging"}},pathContext:{slug:"procedures/78185"}}}});
-//# sourceMappingURL=path---procedures-78185-a7c6a7bff8ce15cf3caa.js.map

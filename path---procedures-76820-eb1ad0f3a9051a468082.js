@@ -1,2 +1,0 @@
-webpackJsonp([0xb96ade54045c],{1364:function(e,o){e.exports={data:{proceduresJson:{code:"76820",name:"Umbilical artery echo"}},pathContext:{slug:"procedures/76820"}}}});
-//# sourceMappingURL=path---procedures-76820-eb1ad0f3a9051a468082.js.map

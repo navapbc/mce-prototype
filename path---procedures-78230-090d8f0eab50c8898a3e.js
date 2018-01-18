@@ -1,2 +1,0 @@
-webpackJsonp([0xa6dc4491c7b7],{1477:function(a,e){a.exports={data:{proceduresJson:{code:"78230",name:"Salivary gland imaging"}},pathContext:{slug:"procedures/78230"}}}});
-//# sourceMappingURL=path---procedures-78230-090d8f0eab50c8898a3e.js.map

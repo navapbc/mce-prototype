@@ -1,2 +1,0 @@
-webpackJsonp([0xfc81c1ff9f2c],{1629:function(e,c){e.exports={data:{proceduresJson:{code:"92520",name:"Laryngeal function studies"}},pathContext:{slug:"procedures/92520"}}}});
-//# sourceMappingURL=path---procedures-92520-26147310bb3aab8d0729.js.map

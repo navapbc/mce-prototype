@@ -1,2 +1,0 @@
-webpackJsonp([0x88acb404d7fd],{1332:function(e,o){e.exports={data:{proceduresJson:{code:"76376",name:"3d render w/o postprocess"}},pathContext:{slug:"procedures/76376"}}}});
-//# sourceMappingURL=path---procedures-76376-8cb21c146bad8643783a.js.map

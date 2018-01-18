@@ -1,2 +1,0 @@
-webpackJsonp([0x96a0b13414df],{1192:function(e,o){e.exports={data:{proceduresJson:{code:"71275",name:"Ct angiography chest"}},pathContext:{slug:"procedures/71275"}}}});
-//# sourceMappingURL=path---procedures-71275-14385816e5339bec4abc.js.map

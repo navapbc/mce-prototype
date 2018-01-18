@@ -1,2 +1,0 @@
-webpackJsonp([0xd421b6f951e4],{1898:function(e,o){e.exports={data:{proceduresJson:{code:"Q9955",name:"Inj perflexane lip micros,ml"}},pathContext:{slug:"procedures/Q9955"}}}});
-//# sourceMappingURL=path---procedures-q-9955-26ce4fab80107418f108.js.map

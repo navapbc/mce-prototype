@@ -1,2 +1,0 @@
-webpackJsonp([37767345145174],{1350:function(e,o){e.exports={data:{proceduresJson:{code:"76770",name:"Us exam abdo back wall comp"}},pathContext:{slug:"procedures/76770"}}}});
-//# sourceMappingURL=path---procedures-76770-5caafe8b1b0be3f3a92a.js.map

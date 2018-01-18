@@ -1,2 +1,0 @@
-webpackJsonp([71828387548688],{1893:function(e,o){e.exports={data:{proceduresJson:{code:"Q2038",name:"Fluzone vacc, 3 yrs & >, im"}},pathContext:{slug:"procedures/Q2038"}}}});
-//# sourceMappingURL=path---procedures-q-2038-06ad23c133a588940c7a.js.map

@@ -1,2 +1,0 @@
-webpackJsonp([0xc12ac901cef0],{1298:function(e,c){e.exports={data:{proceduresJson:{code:"74177",name:"Ct abd & pelv w/contrast"}},pathContext:{slug:"procedures/74177"}}}});
-//# sourceMappingURL=path---procedures-74177-c5b75d22d3d505d9322e.js.map

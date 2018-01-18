@@ -1,2 +1,0 @@
-webpackJsonp([0xb94dbc768701],{1517:function(e,s){e.exports={data:{proceduresJson:{code:"78483",name:"Heart first pass multiple"}},pathContext:{slug:"procedures/78483"}}}});
-//# sourceMappingURL=path---procedures-78483-0703c14e311a056ce28a.js.map

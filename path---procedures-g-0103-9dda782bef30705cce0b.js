@@ -1,2 +1,0 @@
-webpackJsonp([0xfc2d602238a9],{1822:function(e,n){e.exports={data:{proceduresJson:{code:"G0103",name:"Psa screening"}},pathContext:{slug:"procedures/G0103"}}}});
-//# sourceMappingURL=path---procedures-g-0103-9dda782bef30705cce0b.js.map

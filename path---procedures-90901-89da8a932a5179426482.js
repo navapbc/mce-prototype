@@ -1,2 +1,0 @@
-webpackJsonp([0x9ccfdca5945],{1619:function(e,a){e.exports={data:{proceduresJson:{code:"90901",name:"Biofeedback train any meth"}},pathContext:{slug:"procedures/90901"}}}});
-//# sourceMappingURL=path---procedures-90901-89da8a932a5179426482.js.map

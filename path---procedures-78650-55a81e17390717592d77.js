@@ -1,2 +1,0 @@
-webpackJsonp([0xe15350710eca],{1539:function(e,a){e.exports={data:{proceduresJson:{code:"78650",name:"CSF leakage imaging"}},pathContext:{slug:"procedures/78650"}}}});
-//# sourceMappingURL=path---procedures-78650-55a81e17390717592d77.js.map

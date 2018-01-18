@@ -1,2 +1,0 @@
-webpackJsonp([39824292469813],{1436:function(e,t){e.exports={data:{proceduresJson:{code:"77776",name:"Apply interstit radiat simpl"}},pathContext:{slug:"procedures/77776"}}}});
-//# sourceMappingURL=path---procedures-77776-30f0ec7d04e47d930d4c.js.map

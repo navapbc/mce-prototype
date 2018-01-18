@@ -1,2 +1,0 @@
-webpackJsonp([0xe05dfd2df2b],{1225:function(e,o){e.exports={data:{proceduresJson:{code:"72159",name:"Mr angio spine w/o&w/dye"}},pathContext:{slug:"procedures/72159"}}}});
-//# sourceMappingURL=path---procedures-72159-93b5baedbf88b93507ae.js.map

@@ -1,2 +1,0 @@
-webpackJsonp([0xcb6814f1b8c1],{1706:function(e,a){e.exports={data:{proceduresJson:{code:"97168",name:"Ot re-eval est plan care"}},pathContext:{slug:"procedures/97168"}}}});
-//# sourceMappingURL=path---procedures-97168-74fc134c5857434ede94.js.map

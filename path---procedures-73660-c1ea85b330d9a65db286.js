@@ -1,2 +1,0 @@
-webpackJsonp([0xba309edb8ee],{1276:function(e,o){e.exports={data:{proceduresJson:{code:"73660",name:"X-ray exam of toe(s)"}},pathContext:{slug:"procedures/73660"}}}});
-//# sourceMappingURL=path---procedures-73660-c1ea85b330d9a65db286.js.map

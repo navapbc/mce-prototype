@@ -1,2 +1,0 @@
-webpackJsonp([0x61c6aec10475],{1912:function(e,o){e.exports={data:{proceduresJson:{code:"Q9983",name:"Florbetaben f18 diagnostic"}},pathContext:{slug:"procedures/Q9983"}}}});
-//# sourceMappingURL=path---procedures-q-9983-8d7b050ba993e19c9125.js.map

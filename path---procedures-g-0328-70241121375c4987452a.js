@@ -1,2 +1,0 @@
-webpackJsonp([0x78164bd2b338],{1842:function(o,e){o.exports={data:{proceduresJson:{code:"G0328",name:"Fecal blood scrn immunoassay"}},pathContext:{slug:"procedures/G0328"}}}});
-//# sourceMappingURL=path---procedures-g-0328-70241121375c4987452a.js.map

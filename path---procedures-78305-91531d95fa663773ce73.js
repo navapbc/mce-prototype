@@ -1,2 +1,0 @@
-webpackJsonp([62989406115615],{1496:function(e,o){e.exports={data:{proceduresJson:{code:"78305",name:"Bone imaging multiple areas"}},pathContext:{slug:"procedures/78305"}}}});
-//# sourceMappingURL=path---procedures-78305-91531d95fa663773ce73.js.map

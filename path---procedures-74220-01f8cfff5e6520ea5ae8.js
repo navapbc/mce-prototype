@@ -1,2 +1,0 @@
-webpackJsonp([714697217864],{1305:function(e,o){e.exports={data:{proceduresJson:{code:"74220",name:"Contrast x-ray esophagus"}},pathContext:{slug:"procedures/74220"}}}});
-//# sourceMappingURL=path---procedures-74220-01f8cfff5e6520ea5ae8.js.map

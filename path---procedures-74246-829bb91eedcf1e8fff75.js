@@ -1,2 +1,0 @@
-webpackJsonp([30623602789559],{1308:function(t,e){t.exports={data:{proceduresJson:{code:"74246",name:"Contrst x-ray uppr gi tract"}},pathContext:{slug:"procedures/74246"}}}});
-//# sourceMappingURL=path---procedures-74246-829bb91eedcf1e8fff75.js.map

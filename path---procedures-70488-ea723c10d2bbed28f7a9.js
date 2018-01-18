@@ -1,2 +1,0 @@
-webpackJsonp([63063088663546],{1162:function(e,o){e.exports={data:{proceduresJson:{code:"70488",name:"Ct maxillofacial w/o & w/dye"}},pathContext:{slug:"procedures/70488"}}}});
-//# sourceMappingURL=path---procedures-70488-ea723c10d2bbed28f7a9.js.map

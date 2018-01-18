@@ -1,2 +1,0 @@
-webpackJsonp([62412901999940],{1877:function(o,e){o.exports={data:{proceduresJson:{code:"P2033",name:"Blood thymol turbidity"}},pathContext:{slug:"procedures/P2033"}}}});
-//# sourceMappingURL=path---procedures-p-2033-2ca47dd8118d38b54c45.js.map

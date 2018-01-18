@@ -1,2 +1,0 @@
-webpackJsonp([94368822938233],{1680:function(e,a){e.exports={data:{proceduresJson:{code:"97018",name:"Paraffin bath therapy"}},pathContext:{slug:"procedures/97018"}}}});
-//# sourceMappingURL=path---procedures-97018-5de7f3b7523857504d1e.js.map

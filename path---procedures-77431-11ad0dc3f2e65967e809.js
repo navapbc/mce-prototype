@@ -1,2 +1,0 @@
-webpackJsonp([58633333813742],{1421:function(e,a){e.exports={data:{proceduresJson:{code:"77431",name:"Radiation therapy management"}},pathContext:{slug:"procedures/77431"}}}});
-//# sourceMappingURL=path---procedures-77431-11ad0dc3f2e65967e809.js.map

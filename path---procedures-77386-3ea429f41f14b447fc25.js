@@ -1,2 +1,0 @@
-webpackJsonp([0x80645a4a3742],{1415:function(e,o){e.exports={data:{proceduresJson:{code:"77386",name:"Ntsty modul rad tx dlvr cplx"}},pathContext:{slug:"procedures/77386"}}}});
-//# sourceMappingURL=path---procedures-77386-3ea429f41f14b447fc25.js.map

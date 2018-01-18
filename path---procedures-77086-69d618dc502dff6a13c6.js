@@ -1,2 +1,0 @@
-webpackJsonp([0x842d5e805e67],{1396:function(e,s){e.exports={data:{proceduresJson:{code:"77086",name:"Fracture assessment via dxa"}},pathContext:{slug:"procedures/77086"}}}});
-//# sourceMappingURL=path---procedures-77086-69d618dc502dff6a13c6.js.map

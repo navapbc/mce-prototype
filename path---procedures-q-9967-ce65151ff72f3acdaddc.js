@@ -1,2 +1,0 @@
-webpackJsonp([0x718fb9a10884],{1910:function(e,o){e.exports={data:{proceduresJson:{code:"Q9967",name:"LOCM 300-399mg/ml iodine,1ml"}},pathContext:{slug:"procedures/Q9967"}}}});
-//# sourceMappingURL=path---procedures-q-9967-ce65151ff72f3acdaddc.js.map

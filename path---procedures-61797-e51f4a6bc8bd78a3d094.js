@@ -1,2 +1,0 @@
-webpackJsonp([0xa4c88bd851ee],{1127:function(e,a){e.exports={data:{proceduresJson:{code:"61797",name:"SRS cran les simple addl"}},pathContext:{slug:"procedures/61797"}}}});
-//# sourceMappingURL=path---procedures-61797-e51f4a6bc8bd78a3d094.js.map

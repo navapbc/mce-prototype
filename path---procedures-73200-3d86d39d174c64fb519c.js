@@ -1,2 +1,0 @@
-webpackJsonp([8881020718575],{1248:function(e,o){e.exports={data:{proceduresJson:{code:"73200",name:"Ct upper extremity w/o dye"}},pathContext:{slug:"procedures/73200"}}}});
-//# sourceMappingURL=path---procedures-73200-3d86d39d174c64fb519c.js.map

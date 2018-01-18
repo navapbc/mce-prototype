@@ -1,2 +1,0 @@
-webpackJsonp([0xc2bfd5f2ce8c],{1467:function(e,c){e.exports={data:{proceduresJson:{code:"78195",name:"Lymph system imaging"}},pathContext:{slug:"procedures/78195"}}}});
-//# sourceMappingURL=path---procedures-78195-36ecd5964ff02d8b1333.js.map

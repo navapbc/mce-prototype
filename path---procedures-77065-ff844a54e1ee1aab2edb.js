@@ -1,2 +1,0 @@
-webpackJsonp([0x7d2ece4ca8bc],{1381:function(e,c){e.exports={data:{proceduresJson:{code:"77065",name:"Dx mammo incl cad uni"}},pathContext:{slug:"procedures/77065"}}}});
-//# sourceMappingURL=path---procedures-77065-ff844a54e1ee1aab2edb.js.map

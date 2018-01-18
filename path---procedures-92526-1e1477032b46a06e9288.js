@@ -1,2 +1,0 @@
-webpackJsonp([0xdad2e92fdac3],{1634:function(e,a){e.exports={data:{proceduresJson:{code:"92526",name:"Oral function therapy"}},pathContext:{slug:"procedures/92526"}}}});
-//# sourceMappingURL=path---procedures-92526-1e1477032b46a06e9288.js.map

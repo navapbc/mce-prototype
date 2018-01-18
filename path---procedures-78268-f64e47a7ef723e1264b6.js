@@ -1,2 +1,0 @@
-webpackJsonp([0xa09b19a4f51d],{1486:function(e,a){e.exports={data:{proceduresJson:{code:"78268",name:"Breath test analysis c-14"}},pathContext:{slug:"procedures/78268"}}}});
-//# sourceMappingURL=path---procedures-78268-f64e47a7ef723e1264b6.js.map

@@ -1,2 +1,0 @@
-webpackJsonp([0xe36da5500b47],{1568:function(e,a){e.exports={data:{proceduresJson:{code:"79101",name:"Nuclear rx iv admin"}},pathContext:{slug:"procedures/79101"}}}});
-//# sourceMappingURL=path---procedures-79101-6fdf7b3357b038204377.js.map

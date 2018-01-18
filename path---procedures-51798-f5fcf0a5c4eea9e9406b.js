@@ -1,2 +1,0 @@
-webpackJsonp([0xa5e483ea6a17],{1118:function(e,a){e.exports={data:{proceduresJson:{code:"51798",name:"Us urine capacity measure"}},pathContext:{slug:"procedures/51798"}}}});
-//# sourceMappingURL=path---procedures-51798-f5fcf0a5c4eea9e9406b.js.map

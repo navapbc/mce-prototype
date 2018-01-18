@@ -1,2 +1,0 @@
-webpackJsonp([0xced359f8e40e],{1881:function(e,o){e.exports={data:{proceduresJson:{code:"P9612",name:"Catheterize for urine spec"}},pathContext:{slug:"procedures/P9612"}}}});
-//# sourceMappingURL=path---procedures-p-9612-af3b60233d9c5b4a9675.js.map

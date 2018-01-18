@@ -1,2 +1,0 @@
-webpackJsonp([77913831079454],{1133:function(e,o){e.exports={data:{proceduresJson:{code:"64550",name:"Appl surface neurostimulator"}},pathContext:{slug:"procedures/64550"}}}});
-//# sourceMappingURL=path---procedures-64550-4926350b2198b2d675ba.js.map

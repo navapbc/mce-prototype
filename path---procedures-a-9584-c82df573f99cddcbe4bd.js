@@ -1,2 +1,0 @@
-webpackJsonp([0x634de83aaf12],{1789:function(e,o){e.exports={data:{proceduresJson:{code:"A9584",name:"Iodine I-123 ioflupane"}},pathContext:{slug:"procedures/A9584"}}}});
-//# sourceMappingURL=path---procedures-a-9584-c82df573f99cddcbe4bd.js.map

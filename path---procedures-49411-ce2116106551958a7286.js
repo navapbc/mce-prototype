@@ -1,2 +1,0 @@
-webpackJsonp([80457933898033],{1116:function(e,o){e.exports={data:{proceduresJson:{code:"49411",name:"Ins mark abd/pel for rt perq"}},pathContext:{slug:"procedures/49411"}}}});
-//# sourceMappingURL=path---procedures-49411-ce2116106551958a7286.js.map

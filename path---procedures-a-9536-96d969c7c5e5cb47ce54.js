@@ -1,2 +1,0 @@
-webpackJsonp([0x8abaecc08fc8],{1754:function(e,o){e.exports={data:{proceduresJson:{code:"A9536",name:"TC99m depreotide"}},pathContext:{slug:"procedures/A9536"}}}});
-//# sourceMappingURL=path---procedures-a-9536-96d969c7c5e5cb47ce54.js.map

@@ -1,2 +1,0 @@
-webpackJsonp([0x96e5c5ac9d98],{1630:function(e,o){e.exports={data:{proceduresJson:{code:"92521",name:"Evaluation of speech fluency"}},pathContext:{slug:"procedures/92521"}}}});
-//# sourceMappingURL=path---procedures-92521-5007802957185b7a4b56.js.map

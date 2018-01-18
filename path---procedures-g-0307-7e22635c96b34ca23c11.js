@@ -1,2 +1,0 @@
-webpackJsonp([81216780030627],{1841:function(e,t){e.exports={data:{proceduresJson:{code:"G0307",name:"CBC without platelet"}},pathContext:{slug:"procedures/G0307"}}}});
-//# sourceMappingURL=path---procedures-g-0307-7e22635c96b34ca23c11.js.map

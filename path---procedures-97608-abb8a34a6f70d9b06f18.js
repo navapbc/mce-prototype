@@ -1,2 +1,0 @@
-webpackJsonp([85250788407606],{1720:function(e,o){e.exports={data:{proceduresJson:{code:"97608",name:"Neg press wound tx >50 cm"}},pathContext:{slug:"procedures/97608"}}}});
-//# sourceMappingURL=path---procedures-97608-abb8a34a6f70d9b06f18.js.map

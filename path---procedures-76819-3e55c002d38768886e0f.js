@@ -1,2 +1,0 @@
-webpackJsonp([20831856156752],{1363:function(o,e){o.exports={data:{proceduresJson:{code:"76819",name:"Fetal biophys profil w/o nst"}},pathContext:{slug:"procedures/76819"}}}});
-//# sourceMappingURL=path---procedures-76819-3e55c002d38768886e0f.js.map

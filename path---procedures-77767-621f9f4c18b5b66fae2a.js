@@ -1,2 +1,0 @@
-webpackJsonp([29910857616613],{1434:function(e,r){e.exports={data:{proceduresJson:{code:"77767",name:"Hdr rdncl skn surf brachytx"}},pathContext:{slug:"procedures/77767"}}}});
-//# sourceMappingURL=path---procedures-77767-621f9f4c18b5b66fae2a.js.map

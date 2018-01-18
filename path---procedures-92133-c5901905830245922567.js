@@ -1,2 +1,0 @@
-webpackJsonp([0xffc478126ce9],{1624:function(e,o){e.exports={data:{proceduresJson:{code:"92133",name:"Cmptr ophth img optic nerve"}},pathContext:{slug:"procedures/92133"}}}});
-//# sourceMappingURL=path---procedures-92133-c5901905830245922567.js.map

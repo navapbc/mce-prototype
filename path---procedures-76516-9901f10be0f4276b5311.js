@@ -1,2 +1,0 @@
-webpackJsonp([1424268101672],{1342:function(e,o){e.exports={data:{proceduresJson:{code:"76516",name:"Echo exam of eye"}},pathContext:{slug:"procedures/76516"}}}});
-//# sourceMappingURL=path---procedures-76516-9901f10be0f4276b5311.js.map

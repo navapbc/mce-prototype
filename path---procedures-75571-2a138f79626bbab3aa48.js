@@ -1,2 +1,0 @@
-webpackJsonp([0xeac7c45c0eeb],{1320:function(e,t){e.exports={data:{proceduresJson:{code:"75571",name:"Ct hrt w/o dye w/ca test"}},pathContext:{slug:"procedures/75571"}}}});
-//# sourceMappingURL=path---procedures-75571-2a138f79626bbab3aa48.js.map
