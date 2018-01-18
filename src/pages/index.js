@@ -25,7 +25,7 @@ export default IndexPage;
 
 export const query = graphql`
   query ProceduresAutoCompleteQuery {
-    allProceduresJson {
+    allProceduresJson(limit: 500) {
       edges {
         node {
           fields {

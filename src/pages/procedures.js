@@ -20,7 +20,7 @@ export default ProceduresPage;
 
 export const query = graphql`
   query ProceduresQuery {
-    allProceduresJson {
+    allProceduresJson(limit: 500) {
       edges {
         node {
           fields {

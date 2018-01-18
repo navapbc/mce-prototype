@@ -25,7 +25,7 @@ exports.createPages = ({ graphql, boundActionCreators }) => {
   return new Promise(resolve => {
     graphql(`
       {
-        allProceduresJson {
+        allProceduresJson(limit: 500) {
           edges {
             node {
               fields {
