@@ -4,6 +4,9 @@
  * See: https://www.gatsbyjs.org/docs/node-apis/
  */
 const path = require("path");
+const modifyWebpackConfig = require("./tools/gatsby/modifyWebpackConfig");
+
+exports.modifyWebpackConfig = modifyWebpackConfig;
 
 /**
  * Add a slug field to each procedure object
