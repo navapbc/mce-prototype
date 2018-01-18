@@ -16,7 +16,6 @@
     "copy-cname": "cp ./src/CNAME public/",
     "build": "gatsby build --prefix-paths",
     "deploy": "npm run build && npm run gh-pages",
-    "deploy:skip-build": "npm run gh-pages",
     "gh-pages": "gh-pages -d public",
     "lint":
       "eslint src ./ --ext .js --ext .jsx -f table && stylelint src/**/*.scss",
