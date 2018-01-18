@@ -96,7 +96,7 @@ class Search extends React.PureComponent {
 
   renderProcedureField() {
     return (
-      <div className="ds-l-col ds-l-col--8">
+      <div className="ds-l-col ds-l-col--12 ds-l-md-col--9 c-search">
         <Autocomplete
           items={this.state.procedureOptions}
           label="Select from the procedures below:"
@@ -110,7 +110,7 @@ class Search extends React.PureComponent {
                 procedure&rsquo;s code.
               </span>
             }
-            fieldClassName={`${fieldClasses} input--search`}
+            fieldClassName={`${fieldClasses} c-input--search`}
             labelClassName={labelClasses}
             name="procedure"
             onChange={this.handleProcedureFieldChange}
@@ -125,22 +125,6 @@ class Search extends React.PureComponent {
     return (
       <div className="ds-l-row">
         {this.renderProcedureField()}
-        {/* <TextField
-      className="ds-l-col ds-l-col--4"
-      value="21244"
-      readOnly
-      label="Zip code"
-      hint={
-        <span className={hintClasses}>
-          Compare facilities near you. We&rsquo;re using Baltimore for demo
-          purposes.
-        </span>
-      }
-      fieldClassName={`${fieldClasses} input--zip`}
-      labelClassName={labelClasses}
-      requirementLabel="Optional"
-      name="procedure"
-    /> */}
         <div className="ds-l-col ds-l-col--12 ds-u-padding-top--2">
           <Button
             disabled={!this.state.selectedProcedureSlug}

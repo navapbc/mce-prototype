@@ -1,10 +1,21 @@
 @import '@cmsgov/design-system-support/src/index';
 
-.input--search {
+.c-search .ds-c-autocomplete {
+  max-width: none;
+}
+
+// Autocomplete text input field
+.c-input--search {
   background-image: url('../../images/search.svg');
-  background-position: $spacer-1 center;
+  background-position: $spacer-2 center;
   background-repeat: no-repeat;
   background-size: 24px;
-  max-width: 60ch;
-  padding-left: $spacer-1 + 24px + $spacer-1;
+  max-width: none;
+  padding: $spacer-2 $spacer-2 $spacer-2 ($spacer-2 + 24px + $spacer-1);
+}
+
+// Hide "Clear search" autocomplete button
+// This is a hacky solution since there's not a React prop for this (yet)
+.c-search .ds-c-button {
+  display: none;
 }
