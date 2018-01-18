@@ -15,8 +15,11 @@
   "scripts": {
     "copy-cname": "cp ./src/CNAME public/",
     "build": "gatsby build",
-    "deploy": "npm run build -- --prefix-paths && gh-pages -d public",
-    "lint": "eslint src ./ --ext .js --ext .jsx -f table && stylelint src/**/*.scss",
+    "deploy": "npm run build -- --prefix-paths && npm run gh-pages",
+    "deploy:skip-build": "npm run gh-pages",
+    "gh-pages": "gh-pages -d public",
+    "lint":
+      "eslint src ./ --ext .js --ext .jsx -f table && stylelint src/**/*.scss",
     "precommit": "lint-staged",
     "serve": "gatsby serve",
     "start": "gatsby develop",
@@ -33,6 +36,8 @@
     "eslint-config-nava": "^2.1.0",
     "gatsby": "^1.9.158",
     "gatsby-link": "^1.6.34",
+    "gatsby-plugin-manifest": "^1.0.12",
+    "gatsby-plugin-offline": "^1.0.12",
     "gatsby-plugin-react-helmet": "^2.0.3",
     "gatsby-plugin-sass": "^1.0.15",
     "gatsby-source-filesystem": "^1.5.11",
@@ -48,33 +53,17 @@
     "stylelint": "^8.4.0",
     "stylelint-config-prettier": "^2.0.0"
   },
-  "browserslist": [
-    "> 1%",
-    "IE >= 10",
-    "last 2 versions"
-  ],
+  "browserslist": ["> 1%", "IE >= 10", "last 2 versions"],
   "lint-staged": {
-    "*.{js,jsx}": [
-      "prettier --write",
-      "eslint --fix",
-      "git add"
-    ],
-    "*.scss": [
-      "prettier --write",
-      "stylelint --fix",
-      "git add"
-    ]
+    "*.{js,jsx}": ["prettier --write", "eslint --fix", "git add"],
+    "*.scss": ["prettier --write", "stylelint --fix", "git add"]
   },
   "jest": {
     "moduleNameMapper": {
       "\\.(scss)$": "<rootDir>/__mocks__/scssMock.js"
     },
-    "setupFiles": [
-      "<rootDir>/tools/jest/setupEnzyme.js"
-    ],
-    "snapshotSerializers": [
-      "enzyme-to-json/serializer"
-    ],
+    "setupFiles": ["<rootDir>/tools/jest/setupEnzyme.js"],
+    "snapshotSerializers": ["enzyme-to-json/serializer"],
     "testPathIgnorePatterns": [
       "<rootDir>/.cache/",
       "<rootDir>/public/",

@@ -15,7 +15,10 @@ export default ({ title, description }) => {
     });
   }
 
-  const props = { title: title };
+  const props = {
+    title: title,
+    link: [{ rel: "shortcut icon", href: "/icon.png" }]
+  };
 
   return (
     <Helmet meta={meta} {...props}>
