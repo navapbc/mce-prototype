@@ -1,6 +1,9 @@
 @import '@cmsgov/design-system-support/src/index';
 
-.c-search .ds-c-autocomplete {
+// We want the search field to span the entire width of its column
+.c-search .ds-c-autocomplete,
+.c-search .ds-c-label,
+.c-input--search {
   max-width: none;
 }
 
@@ -10,7 +13,6 @@
   background-position: $spacer-2 center;
   background-repeat: no-repeat;
   background-size: 24px;
-  max-width: none;
   padding: $spacer-2 $spacer-2 $spacer-2 ($spacer-2 + 24px + $spacer-1);
 }
 

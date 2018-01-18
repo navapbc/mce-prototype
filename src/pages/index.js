@@ -7,7 +7,7 @@ const IndexPage = ({ data }) => (
     <div className="ds-u-fill--primary-alt-lightest ds-u-padding-y--4 ds-u-margin-bottom--4 ds-u-md-padding-y--7 ds-u-md-margin-bottom--7">
       <div className="ds-l-container">
         <h1 className="ds-title ds-u-serif ds-u-color--primary-darker ds-u-margin-bottom--1">
-          Medicare Cost Estimator
+          Compare procedure costs
         </h1>
         <p className="ds-h3 ds-u-measure--wide ds-u-font-weight--normal ds-u-margin-top--0">
           Compare Medicare payments and copays for certain procedures in
