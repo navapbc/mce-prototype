@@ -5,9 +5,10 @@ import Helmet from "react-helmet";
 import PropTypes from "prop-types";
 import React from "react";
 import { SkipNav } from "@cmsgov/design-system-core";
+import { withPrefix } from "gatsby-link";
 
 const TemplateWrapper = ({ children, data, location }) => {
-  const isHome = location.pathname === "/";
+  const isHome = location.pathname === withPrefix("/");
 
   return (
     <div className="ds-base">

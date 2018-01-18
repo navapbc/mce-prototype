@@ -19,9 +19,11 @@
     "react-helmet": "^5.2.0"
   },
   "scripts": {
-    "build": "gatsby build && cp ./src/CNAME public/",
+    "copy-cname": "cp ./src/CNAME public/",
+    "build": "gatsby build --prefix-paths",
     "deploy": "npm run build && gh-pages -d public",
-    "lint": "eslint src ./ --ext .js --ext .jsx -f table && stylelint src/**/*.scss",
+    "lint":
+      "eslint src ./ --ext .js --ext .jsx -f table && stylelint src/**/*.scss",
     "precommit": "lint-staged",
     "serve": "gatsby serve",
     "start": "gatsby develop",
@@ -44,33 +46,17 @@
     "stylelint": "^8.4.0",
     "stylelint-config-prettier": "^2.0.0"
   },
-  "browserslist": [
-    "> 1%",
-    "IE >= 10",
-    "last 2 versions"
-  ],
+  "browserslist": ["> 1%", "IE >= 10", "last 2 versions"],
   "lint-staged": {
-    "*.{js,jsx}": [
-      "prettier --write",
-      "eslint --fix",
-      "git add"
-    ],
-    "*.scss": [
-      "prettier --write",
-      "stylelint --fix",
-      "git add"
-    ]
+    "*.{js,jsx}": ["prettier --write", "eslint --fix", "git add"],
+    "*.scss": ["prettier --write", "stylelint --fix", "git add"]
   },
   "jest": {
     "moduleNameMapper": {
       "\\.(scss)$": "<rootDir>/__mocks__/scssMock.js"
     },
-    "setupFiles": [
-      "<rootDir>/tools/jest/setupEnzyme.js"
-    ],
-    "snapshotSerializers": [
-      "enzyme-to-json/serializer"
-    ],
+    "setupFiles": ["<rootDir>/tools/jest/setupEnzyme.js"],
+    "snapshotSerializers": ["enzyme-to-json/serializer"],
     "testPathIgnorePatterns": [
       "<rootDir>/.cache/",
       "<rootDir>/public/",

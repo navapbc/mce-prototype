@@ -1,4 +1,5 @@
 module.exports = {
+  pathPrefix: "/mce-prototype",
   siteMetadata: {
     title: "Medicare Cost Estimator"
   },
