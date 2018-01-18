@@ -1,4 +1,5 @@
 import "./index.scss";
+import Footer from "../components/Footer";
 import Header from "../components/Header";
 import Helmet from "react-helmet";
 import PropTypes from "prop-types";
@@ -24,6 +25,7 @@ const TemplateWrapper = ({ children, data, location }) => {
       />
       <Header title={data.site.siteMetadata.title} isHome={isHome} />
       <main id="main">{children()}</main>
+      <Footer />
     </div>
   );
 };
