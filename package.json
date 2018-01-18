@@ -20,8 +20,8 @@
   },
   "scripts": {
     "copy-cname": "cp ./src/CNAME public/",
-    "build": "gatsby build --prefix-paths",
-    "deploy": "npm run build && gh-pages -d public",
+    "build": "gatsby build",
+    "deploy": "npm run build -- --prefix-paths && gh-pages -d public",
     "lint":
       "eslint src ./ --ext .js --ext .jsx -f table && stylelint src/**/*.scss",
     "precommit": "lint-staged",
