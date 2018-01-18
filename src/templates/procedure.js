@@ -9,7 +9,7 @@ export default ({ data }) => {
   const facilities = data.allFacilityProcedurePricesJson.edges.map(e => e.node);
 
   return (
-    <main id="main">
+    <React.Fragment>
       <ProcedureHeader procedure={procedure} />
       <div className="ds-l-container">
         <Alert className="ds-l-row ds-u-margin-x--0">
@@ -32,7 +32,7 @@ export default ({ data }) => {
           </div>
         </div>
       </div>
-    </main>
+    </React.Fragment>
   );
 };
 
