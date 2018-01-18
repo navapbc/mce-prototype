@@ -1,6 +1,6 @@
 import { Alert } from "@cmsgov/design-system-core";
 import FacilityPrices from "../components/FacilityPrices";
-import Helmet from "react-helmet";
+import Helmet from "../components/Helmet";
 import NationalAverage from "../components/NationalAverage";
 import ProcedureHeader from "../components/ProcedureHeader";
 import React from "react";
@@ -13,7 +13,9 @@ export default ({ data }) => {
     <React.Fragment>
       <Helmet
         title={`${procedure.name} - Compare Medicare Costs`}
-        meta={[{ name: "robots", content: "noindex, nofollow" }]}
+        description={`Compare the Medicare costs of ${
+          procedure.name
+        } across Hospital Outpatient Departments and Ambulatory Surgical Centers near you`}
       />
       <ProcedureHeader procedure={procedure} />
       <div className="ds-l-container">

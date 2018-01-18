@@ -1,4 +1,4 @@
-import Helmet from "react-helmet";
+import Helmet from "../components/Helmet";
 import React from "react";
 import Search from "../components/Search";
 
@@ -6,14 +6,7 @@ const IndexPage = ({ data }) => (
   <React.Fragment>
     <Helmet
       title={data.site.siteMetadata.title}
-      meta={[
-        {
-          name: "description",
-          content:
-            "Compare Medicare payments and copays for certain procedures in hospital outpatient departments and ambulatory surgery centers."
-        },
-        { name: "robots", content: "noindex, nofollow" }
-      ]}
+      description="Compare Medicare payments and copays for certain procedures in hospital outpatient departments and ambulatory surgery centers."
     />
     <div className="ds-u-fill--primary-alt-lightest ds-u-padding-y--4 ds-u-margin-bottom--4 ds-u-md-padding-y--7 ds-u-md-margin-bottom--7">
       <div className="ds-l-container">
