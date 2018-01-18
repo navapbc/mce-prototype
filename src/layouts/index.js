@@ -22,7 +22,7 @@ const TemplateWrapper = ({ children, data, location }) => {
           { name: "robots", content: "noindex, nofollow" }
         ]}
       />
-      {!isHome && <Header title={data.site.siteMetadata.title} />}
+      <Header title={data.site.siteMetadata.title} isHome={isHome} />
       <main id="main">{children()}</main>
     </div>
   );
