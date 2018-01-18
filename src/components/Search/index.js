@@ -5,10 +5,6 @@ import PropTypes from "prop-types";
 import React from "react";
 import _ from "lodash";
 
-const labelClasses = "ds-u-font-weight--bold";
-const hintClasses = "ds-u-font-weight--normal ds-u-color--gray";
-const fieldClasses = "ds-u-font-size--h3";
-
 class Search extends React.PureComponent {
   constructor(props) {
     super(props);
@@ -103,15 +99,18 @@ class Search extends React.PureComponent {
           onChange={this.handleAutocompleteChange}
         >
           <TextField
-            label="Procedure name or code"
+            label={
+              <strong className="ds-u-font-size--h4">
+                Procedure name or code
+              </strong>
+            }
+            fieldClassName="ds-u-font-size--h3 c-input--search"
             hint={
-              <span className={hintClasses}>
+              <span className="ds-u-color--gray">
                 Enter the name of the procedure (i.e. Ultrasound) or the
                 procedure&rsquo;s code.
               </span>
             }
-            fieldClassName={`${fieldClasses} c-input--search`}
-            labelClassName={labelClasses}
             name="procedure"
             onChange={this.handleProcedureFieldChange}
             value={this.state.procedureValue}
