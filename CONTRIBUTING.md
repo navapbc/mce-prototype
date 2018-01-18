@@ -31,18 +31,20 @@ Run JS tests using Jest.
 ## File structure
 
 ```
-├── gatsby-config.js Gatsby setup
-├── gatsby-node.js   Gatsby Node API hooks
-├── public           Compiled static HTML site
+├── gatsby-config.js    Gatsby setup
+├── gatsby-node.js      Gatsby Node API and Webpack hooks
+├── public              Compiled static HTML site
 ├── src
-    ├── components   Presentational UI patterns
-    ├── data         Data files used for dynamically generated pages
+    ├── components      Presentational UI patterns
+    ├── data            Data files used for dynamically generated pages
     ├── fonts
     ├── images
-    ├── layouts      Base HTML used when rendering each page
-    ├── pages        Each file is rendered as a page
-    └── templates    Markup for generated pages
-└── tools            Testing and CI/CD setup files
+    ├── layouts         Base HTML used when rendering each page
+        ├── index.js    Main template that every page is wrapped in
+        └── index.scss  Main stylesheet, imports design system styling
+    ├── pages           Each file is rendered as a page
+    └── templates       Templates for generated pages
+└── tools               Testing, compilation, and CI/CD setup files
 ```
 
 ## Getting things done
