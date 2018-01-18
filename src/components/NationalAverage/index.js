@@ -16,11 +16,13 @@ const Row = ({ children, price }) => (
 
 export default () => (
   <React.Fragment>
-    <h3 className="ds-h6">National average amount that Medicare pays</h3>
+    <h3 className="ds-u-font-size--small ds-u-color--primary-darker ds-u-margin-bottom--0">
+      National average amount that Medicare&nbsp;pays
+    </h3>
     <Row price="$1,250">At Hospital Outpatient Departments</Row>
     <Row price="$3,152">At Ambulatory Surgical Centers</Row>
 
-    <h3 className="ds-h6 ds-u-margin-top--4">
+    <h3 className="ds-u-font-size--small ds-u-color--primary-darker ds-u-margin-bottom--0 ds-u-margin-top--4">
       National average copay for a beneficiary with no Medicare supplemental
       insurance
     </h3>
