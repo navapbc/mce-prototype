@@ -1,4 +1,5 @@
 import GitHubLogo from "../../images/github.svg";
+import Link from "gatsby-link";
 import React from "react";
 
 const links = [
@@ -51,13 +52,18 @@ const Footer = () => (
             width="16"
             height="16"
           />
-          <strong>View prototype on GitHub</strong>
+          View prototype on GitHub
         </a>
+        <Link to="procedures" className="ds-l-col ds-l-col--auto">
+          Browse all procedures
+        </Link>
       </div>
-      <ul className="ds-l-row ds-c-list ds-c-list--bare ds-u-font-size--small">
+      <ul className="ds-l-form-row ds-c-list ds-c-list--bare ds-u-font-size--small">
         {links.map((link, i) => (
           <li key={i} className="ds-l-col ds-l-col--auto">
-            <a href={link.url}>{link.label}</a>
+            <a className="ds-u-color--muted" href={link.url}>
+              {link.label}
+            </a>
           </li>
         ))}
       </ul>
