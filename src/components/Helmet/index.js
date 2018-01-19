@@ -1,5 +1,6 @@
 import Helmet from "react-helmet";
 import React from "react";
+import { withPrefix } from "gatsby-link";
 
 /**
  * The base "Helmet", which adds meta tags in the <head>.
@@ -17,7 +18,7 @@ export default ({ title, description }) => {
 
   const props = {
     title: title,
-    link: [{ rel: "shortcut icon", href: "/icon.png" }]
+    link: [{ rel: "shortcut icon", href: withPrefix("/icon.png") }]
   };
 
   return (
