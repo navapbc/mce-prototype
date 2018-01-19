@@ -16,7 +16,7 @@ const ProceduresPage = ({ data }) => {
             className="ds-u-margin-bottom--2 ds-u-border-top--1 ds-u-padding-top--2"
           >
             <h2 className="ds-h4 ds-u-margin-bottom--0">
-              <Link to={p.fields.slug}>{p.name}</Link>
+              <Link to={`/${p.fields.slug}`}>{p.name}</Link>
             </h2>
             <span className="ds-u-color--muted">Code: {p.code}</span>
           </li>
