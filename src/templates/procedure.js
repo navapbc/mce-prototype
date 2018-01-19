@@ -1,4 +1,4 @@
-import { Alert } from "@cmsgov/design-system-core";
+import Alert from "@cmsgov/design-system-core/dist/components/Alert/Alert";
 import FacilityPrices from "../components/FacilityPrices";
 import Helmet from "../components/Helmet";
 import NationalAverage from "../components/NationalAverage";

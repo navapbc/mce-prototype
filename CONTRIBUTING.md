@@ -31,7 +31,7 @@ Run JS tests using Jest.
 ## File structure
 
 ```
-├── gatsby-config.js    Gatsby setup
+├── gatsby-config.js    Gatsby setup, including plugins that modify build process
 ├── gatsby-node.js      Gatsby Node API and Webpack hooks
 ├── public              Compiled static HTML site
 ├── src
@@ -51,7 +51,29 @@ Run JS tests using Jest.
 
 ### Optimizing performance
 
-We only import the design system styles we're actually using, in order to reduce the bundled CSS file size. These are imported in [`src/layouts/index.scss`](src/layouts/index.scss), and you can import other parts in this file if you are in need of a component not yet imported.
+#### Import design system React components directly
+
+Gatsby 1.0 uses Webpack 1.0, which means we can't yet benefit from Webpack 2.0's tree shaking functionality.
+
+👍 Good for performance
+
+```js
+import Autocomplete from "@cmsgov/design-system-core/dist/components/Autocomplete/Autocomplete";
+```
+
+🛑 Bad for performance
+
+This results in every design system component being bundled.
+
+```js
+import { Autocomplete } from "@cmsgov/design-system-core";
+```
+
+#### Other things we're doing
+
+* Using PurifyCSS to remove (some) unused CSS. See [`modifyWebpackConfig.js`](tools/gatsby/modifyWebpackConfig.js)
+* Using the Lodash webpack & Babel plugins for easy modular, small Lodash builds, via [`gatsby-plugin-lodash`](https://www.npmjs.com/package/gatsby-plugin-lodash)
+* Creating a service worker and providing offline support, via [`gatsby-plugin-offline`](https://www.gatsbyjs.org/packages/gatsby-plugin-offline/)
 
 ### Dynamically create pages
 

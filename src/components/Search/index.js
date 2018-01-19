@@ -1,8 +1,10 @@
 import "./index.scss";
-import { Autocomplete, Button, TextField } from "@cmsgov/design-system-core";
 import { navigateTo, withPrefix } from "gatsby-link";
+import Autocomplete from "@cmsgov/design-system-core/dist/components/Autocomplete/Autocomplete";
+import Button from "@cmsgov/design-system-core/dist/components/Button/Button";
 import PropTypes from "prop-types";
 import React from "react";
+import TextField from "@cmsgov/design-system-core/dist/components/TextField/TextField";
 import _ from "lodash";
 
 class Search extends React.PureComponent {
