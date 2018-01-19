@@ -1,2 +1,0 @@
-webpackJsonp([0x81b8806e4260],{314:function(e,t){e.exports={data:{allProceduresJson:{edges:[{node:{fields:{slug:"procedures/86152"},code:"86152",name:"Cell enumeration"}}]},site:{siteMetadata:{title:"Medicare Cost Estimator"}}},pathContext:{}}}});
-//# sourceMappingURL=path---index-d8d9a19d426ef5d450ad.js.map

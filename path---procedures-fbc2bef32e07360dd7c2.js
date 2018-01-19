@@ -1,2 +1,0 @@
-webpackJsonp([0xb3cfdb507891],{316:function(e,n){e.exports={data:{allProceduresJson:{edges:[{node:{fields:{slug:"procedures/86152"},name:"Cell enumeration"}}]}},pathContext:{}}}});
-//# sourceMappingURL=path---procedures-fbc2bef32e07360dd7c2.js.map
