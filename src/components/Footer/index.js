@@ -38,7 +38,7 @@ const links = [
 ];
 
 const Footer = () => (
-  <footer className="ds-u-border-top--1 ds-u-margin-top--7 ds-u-padding-y--3">
+  <footer className="ds-u-margin-top--7 ds-u-padding-y--3">
     <div className="ds-l-container ds-u-padding-y--2">
       <div className="ds-l-row ds-u-margin-bottom--2">
         <a
@@ -54,7 +54,7 @@ const Footer = () => (
           />
           View prototype on GitHub
         </a>
-        <Link to="procedures" className="ds-l-col ds-l-col--auto">
+        <Link to="/procedures" className="ds-l-col ds-l-col--auto">
           Browse all procedures
         </Link>
       </div>
