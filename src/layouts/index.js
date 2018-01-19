@@ -1,4 +1,10 @@
 import "./index.scss";
+// These polyfills provide IE11 compatibility, and must be imported before any other modules
+import "core-js/es6/map";
+import "core-js/es6/set";
+import "core-js/fn/array/find";
+import "core-js/fn/object/assign";
+
 import Footer from "../components/Footer";
 import Header from "../components/Header";
 import PropTypes from "prop-types";
@@ -18,7 +24,9 @@ const TemplateWrapper = ({ children, data, location }) => {
     <div className="ds-base">
       <SkipNav href="#main" />
       <Header title={data.site.siteMetadata.title} isHome={isHome} />
-      <main id="main">{children()}</main>
+      <main id="main" role="main">
+        {children()}
+      </main>
       <Footer />
     </div>
   );
