@@ -79,8 +79,6 @@ const appPlugins = [
 const plugins = buildPlugins.concat(appPlugins);
 
 module.exports = {
-  // Prefix all URL's with this:
-  pathPrefix: "/mce-prototype",
   siteMetadata: {
     // Metadata to be passed into our app
     title: title
