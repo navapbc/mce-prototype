@@ -23,7 +23,7 @@ export default () => (
     <Row price="$1,250">At Ambulatory Surgical Centers</Row>
 
     <h3 className="ds-u-font-size--small ds-u-color--primary-darker ds-u-margin-bottom--0 ds-u-margin-top--4">
-      National average copay for a beneficiary with no Medicare supplemental
+      National average copay for a beneficiary with no Medicare supplement
       insurance
     </h3>
     <Row price="$454">At Hospital Outpatient Departments</Row>
