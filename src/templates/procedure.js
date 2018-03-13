@@ -21,8 +21,8 @@ export default ({ data }) => {
       <div className="ds-l-container">
         <Alert className="ds-l-row ds-u-margin-x--0">
           <div className="ds-u-measure--wide">
-            <strong>Note</strong>: The prices listed below are for demonstration
-            purposes only.
+            <strong>Note</strong>: The prices and location listed below are for
+            demonstration purposes only.
           </div>
         </Alert>
 
