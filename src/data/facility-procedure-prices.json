@@ -3,36 +3,42 @@
     "name": "Johns Hopkins Hospital",
     "address": "1800 Orleans St, Baltimore, MD 21287",
     "price": "$1,542",
-    "distance": 3
+    "distance": 3,
+    "type": "Hospital Outpatient Department"
   },
   {
     "name": "Advanced Radiology",
     "address": "9105 Franklin Square Dr, Baltimore, MD 21237",
     "price": "$2,102",
-    "distance": 12
+    "distance": 12,
+    "type": "Hospital Outpatient Department"
   },
   {
     "name": "Chesapeake Medical Imaging",
     "address": "4600 Wilkens Ave #103, Baltimore, MD 21229",
     "price": "$2,430",
-    "distance": 2
+    "distance": 2,
+    "type": "Hospital Outpatient Department"
   },
   {
-    "name": "Acme Hospital",
+    "name": "Acme Ambulatory",
     "address": "1800 New St, Baltimore, MD 21287",
     "price": "$1,914",
-    "distance": 1
+    "distance": 1,
+    "type": "Ambulatory Surgical Center"
   },
   {
     "name": "Advanced Radiology",
     "address": "9105 Madison Square, Baltimore, MD 21237",
     "price": "$2,542",
-    "distance": 10
+    "distance": 10,
+    "type": "Hospital Outpatient Department"
   },
   {
     "name": "Chesapeake Hospital",
     "address": "4600 Booker Ave, Baltimore, MD 21229",
     "price": "$6,445",
-    "distance": 22
+    "distance": 22,
+    "type": "Hospital Outpatient Department"
   }
 ]

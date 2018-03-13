@@ -19,6 +19,7 @@ export default ({ facilities, sort }) =>
         <address className="ds-u-color--gray ds-u-font-style--normal">
           {facility.address}
         </address>
+        <div className="ds-u-color--gray">Type: {facility.type}</div>
       </div>
     </article>
   ));
