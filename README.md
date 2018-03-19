@@ -1,6 +1,6 @@
 ## Overview
 
-A prototype for the Medicare Cost Estimator proposal. This prototype demonstrates a progressive web app, optimized for offline support, and uses the [CMS Design System](https://design.cms.gov) for an accessible, consistent, user-friendly experience.
+A prototype demonstrating our design-in-code prototyping approach for the Medicare Cost Estimator proposal.  The prototype is a progressive web app, optimized for offline support, and uses the [CMS Design System](https://design.cms.gov) for an accessible, consistent, user-friendly experience.
 
 ## Installation
 
